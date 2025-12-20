@@ -1,0 +1,12 @@
+github
+1. jaywcjlove / awesome-mac [URL:https://github.com/jaywcjlove/awesome-mac]
+2. anthropics / claude-code [URL:https://github.com/anthropics/claude-code]
+3. NVIDIA-NeMo / Gym [URL:https://github.com/NVIDIA-NeMo/Gym]
+4. GreyDGL / PentestGPT [URL:https://github.com/GreyDGL/PentestGPT]
+5. exo-explore / exo [URL:https://github.com/exo-explore/exo]
+6. swisskyrepo / PayloadsAllTheThings [URL:https://github.com/swisskyrepo/PayloadsAllTheThings]
+7. sgl-project / mini-sglang [URL:https://github.com/sgl-project/mini-sglang]
+8. google / adk-js [URL:https://github.com/google/adk-js]
+9. afshinea / stanford-cs-229-machine-learning [URL:https://github.com/afshinea/stanford-cs-229-machine-learning]
+10. metabase / metabase [URL:https://github.com/metabase/metabase]
+
