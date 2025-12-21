@@ -1,0 +1,11 @@
+github
+1. exo-explore / exo [URL:https://github.com/exo-explore/exo]
+2. GreyDGL / PentestGPT [URL:https://github.com/GreyDGL/PentestGPT]
+3. swisskyrepo / PayloadsAllTheThings [URL:https://github.com/swisskyrepo/PayloadsAllTheThings]
+4. sgl-project / mini-sglang [URL:https://github.com/sgl-project/mini-sglang]
+5. pollen-robotics / reachy_mini [URL:https://github.com/pollen-robotics/reachy_mini]
+6. cocoindex-io / cocoindex [URL:https://github.com/cocoindex-io/cocoindex]
+7. cloudcommunity / Free-Certifications [URL:https://github.com/cloudcommunity/Free-Certifications]
+8. anthropics / claude-code [URL:https://github.com/anthropics/claude-code]
+9. trimstray / the-book-of-secret-knowledge [URL:https://github.com/trimstray/the-book-of-secret-knowledge]
+
