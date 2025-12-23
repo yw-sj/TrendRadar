@@ -1,0 +1,15 @@
+github
+1. rendercv / rendercv [URL:https://github.com/rendercv/rendercv]
+2. exo-explore / exo [URL:https://github.com/exo-explore/exo]
+3. google / langextract [URL:https://github.com/google/langextract]
+4. yichuan-w / LEANN [URL:https://github.com/yichuan-w/LEANN]
+5. stan-smith / FossFLOW [URL:https://github.com/stan-smith/FossFLOW]
+6. vendure-ecommerce / vendure [URL:https://github.com/vendure-ecommerce/vendure]
+7. cloudcommunity / Free-Certifications [URL:https://github.com/cloudcommunity/Free-Certifications]
+8. open-webui / open-webui [URL:https://github.com/open-webui/open-webui]
+9. davila7 / claude-code-templates [URL:https://github.com/davila7/claude-code-templates]
+10. makeplane / plane [URL:https://github.com/makeplane/plane]
+11. xerrors / Yuxi-Know [URL:https://github.com/xerrors/Yuxi-Know]
+12. swisskyrepo / PayloadsAllTheThings [URL:https://github.com/swisskyrepo/PayloadsAllTheThings]
+13. vllm-project / vllm-omni [URL:https://github.com/vllm-project/vllm-omni]
+
