@@ -1,0 +1,18 @@
+github
+1. rendercv / rendercv [URL:https://github.com/rendercv/rendercv]
+2. twitter / the-algorithm [URL:https://github.com/twitter/the-algorithm]
+3. google / langextract [URL:https://github.com/google/langextract]
+4. vllm-project / vllm-omni [URL:https://github.com/vllm-project/vllm-omni]
+5. stan-smith / FossFLOW [URL:https://github.com/stan-smith/FossFLOW]
+6. davila7 / claude-code-templates [URL:https://github.com/davila7/claude-code-templates]
+7. safety-research / bloom [URL:https://github.com/safety-research/bloom]
+8. makeplane / plane [URL:https://github.com/makeplane/plane]
+9. yichuan-w / LEANN [URL:https://github.com/yichuan-w/LEANN]
+10. danielmiessler / Fabric [URL:https://github.com/danielmiessler/Fabric]
+11. apurvsinghgautam / robin [URL:https://github.com/apurvsinghgautam/robin]
+12. langgenius / dify [URL:https://github.com/langgenius/dify]
+13. anthropics / skills [URL:https://github.com/anthropics/skills]
+14. etcd-io / etcd [URL:https://github.com/etcd-io/etcd]
+15. facebookresearch / dinov3 [URL:https://github.com/facebookresearch/dinov3]
+16. vendure-ecommerce / vendure [URL:https://github.com/vendure-ecommerce/vendure]
+
