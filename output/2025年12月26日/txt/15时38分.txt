@@ -1,0 +1,11 @@
+github
+1. rendercv / rendercv [URL:https://github.com/rendercv/rendercv]
+2. xerrors / Yuxi-Know [URL:https://github.com/xerrors/Yuxi-Know]
+3. twitter / the-algorithm [URL:https://github.com/twitter/the-algorithm]
+4. vendure-ecommerce / vendure [URL:https://github.com/vendure-ecommerce/vendure]
+5. yichuan-w / LEANN [URL:https://github.com/yichuan-w/LEANN]
+6. resemble-ai / chatterbox [URL:https://github.com/resemble-ai/chatterbox]
+7. makeplane / plane [URL:https://github.com/makeplane/plane]
+8. vllm-project / vllm-omni [URL:https://github.com/vllm-project/vllm-omni]
+9. ModelTC / LightX2V [URL:https://github.com/ModelTC/LightX2V]
+
