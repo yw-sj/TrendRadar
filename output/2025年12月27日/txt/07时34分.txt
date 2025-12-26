@@ -1,0 +1,9 @@
+github
+1. tw93 / Mole [URL:https://github.com/tw93/Mole]
+2. rendercv / rendercv [URL:https://github.com/rendercv/rendercv]
+3. langgenius / dify [URL:https://github.com/langgenius/dify]
+4. NanmiCoder / MediaCrawler [URL:https://github.com/NanmiCoder/MediaCrawler]
+5. flowsurface-rs / flowsurface [URL:https://github.com/flowsurface-rs/flowsurface]
+6. yichuan-w / LEANN [URL:https://github.com/yichuan-w/LEANN]
+7. apurvsinghgautam / robin [URL:https://github.com/apurvsinghgautam/robin]
+
