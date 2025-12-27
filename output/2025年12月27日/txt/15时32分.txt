@@ -1,0 +1,8 @@
+github
+1. rendercv / rendercv [URL:https://github.com/rendercv/rendercv]
+2. langgenius / dify [URL:https://github.com/langgenius/dify]
+3. NanmiCoder / MediaCrawler [URL:https://github.com/NanmiCoder/MediaCrawler]
+4. flowsurface-rs / flowsurface [URL:https://github.com/flowsurface-rs/flowsurface]
+5. yichuan-w / LEANN [URL:https://github.com/yichuan-w/LEANN]
+6. apurvsinghgautam / robin [URL:https://github.com/apurvsinghgautam/robin]
+
