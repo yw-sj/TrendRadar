@@ -1,0 +1,10 @@
+github
+1. Flowseal / zapret-discord-youtube [URL:https://github.com/Flowseal/zapret-discord-youtube]
+2. TheAlgorithms / Python [URL:https://github.com/TheAlgorithms/Python]
+3. Sergeydigl3 / zapret-discord-youtube-linux [URL:https://github.com/Sergeydigl3/zapret-discord-youtube-linux]
+4. BloopAI / vibe-kanban [URL:https://github.com/BloopAI/vibe-kanban]
+5. RustPython / RustPython [URL:https://github.com/RustPython/RustPython]
+6. QuantConnect / Lean [URL:https://github.com/QuantConnect/Lean]
+7. Shubhamsaboo / awesome-llm-apps [URL:https://github.com/Shubhamsaboo/awesome-llm-apps]
+8. sinelaw / fresh [URL:https://github.com/sinelaw/fresh]
+
