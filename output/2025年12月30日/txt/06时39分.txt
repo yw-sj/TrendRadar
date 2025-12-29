@@ -1,0 +1,16 @@
+github
+1. QuantConnect / Lean [URL:https://github.com/QuantConnect/Lean]
+2. RustPython / RustPython [URL:https://github.com/RustPython/RustPython]
+3. Flowseal / zapret-discord-youtube [URL:https://github.com/Flowseal/zapret-discord-youtube]
+4. BloopAI / vibe-kanban [URL:https://github.com/BloopAI/vibe-kanban]
+5. gitroomhq / postiz-app [URL:https://github.com/gitroomhq/postiz-app]
+6. sansan0 / TrendRadar [URL:https://github.com/sansan0/TrendRadar]
+7. sinelaw / fresh [URL:https://github.com/sinelaw/fresh]
+8. x1xhlol / system-prompts-and-models-of-ai-tools [URL:https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools]
+9. Stirling-Tools / Stirling-PDF [URL:https://github.com/Stirling-Tools/Stirling-PDF]
+10. resemble-ai / chatterbox [URL:https://github.com/resemble-ai/chatterbox]
+11. antiwork / gumroad [URL:https://github.com/antiwork/gumroad]
+12. TheAlgorithms / Python [URL:https://github.com/TheAlgorithms/Python]
+13. vanilla-wiiu / vanilla [URL:https://github.com/vanilla-wiiu/vanilla]
+14. jellyfin / jellyfin [URL:https://github.com/jellyfin/jellyfin]
+
