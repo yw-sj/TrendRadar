@@ -1,0 +1,15 @@
+github
+1. BloopAI / vibe-kanban [URL:https://github.com/BloopAI/vibe-kanban]
+2. x1xhlol / system-prompts-and-models-of-ai-tools [URL:https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools]
+3. QuantConnect / Lean [URL:https://github.com/QuantConnect/Lean]
+4. jrouwe / JoltPhysics [URL:https://github.com/jrouwe/JoltPhysics]
+5. timescale / pg-aiguide [URL:https://github.com/timescale/pg-aiguide]
+6. resemble-ai / chatterbox [URL:https://github.com/resemble-ai/chatterbox]
+7. RustPython / RustPython [URL:https://github.com/RustPython/RustPython]
+8. sinelaw / fresh [URL:https://github.com/sinelaw/fresh]
+9. alexta69 / metube [URL:https://github.com/alexta69/metube]
+10. anthropics / skills [URL:https://github.com/anthropics/skills]
+11. cjpais / Handy [URL:https://github.com/cjpais/Handy]
+12. sst / opencode [URL:https://github.com/sst/opencode]
+13. louislam / uptime-kuma [URL:https://github.com/louislam/uptime-kuma]
+
