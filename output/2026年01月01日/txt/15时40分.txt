@@ -1,0 +1,12 @@
+github
+1. afkarxyz / SpotiFLAC [URL:https://github.com/afkarxyz/SpotiFLAC]
+2. google-gemini / computer-use-preview [URL:https://github.com/google-gemini/computer-use-preview]
+3. harvard-edge / cs249r_book [URL:https://github.com/harvard-edge/cs249r_book]
+4. BloopAI / vibe-kanban [URL:https://github.com/BloopAI/vibe-kanban]
+5. timescale / pg-aiguide [URL:https://github.com/timescale/pg-aiguide]
+6. sansan0 / TrendRadar [URL:https://github.com/sansan0/TrendRadar]
+7. openai / openai-cookbook [URL:https://github.com/openai/openai-cookbook]
+8. organicmaps / organicmaps [URL:https://github.com/organicmaps/organicmaps]
+9. resemble-ai / chatterbox [URL:https://github.com/resemble-ai/chatterbox]
+10. nocodb / nocodb [URL:https://github.com/nocodb/nocodb]
+
