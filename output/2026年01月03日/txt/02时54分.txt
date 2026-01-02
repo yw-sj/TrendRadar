@@ -1,0 +1,11 @@
+github
+1. HQarroum / docker-android [URL:https://github.com/HQarroum/docker-android]
+2. nocodb / nocodb [URL:https://github.com/nocodb/nocodb]
+3. openai / openai-cookbook [URL:https://github.com/openai/openai-cookbook]
+4. ourongxing / newsnow [URL:https://github.com/ourongxing/newsnow]
+5. rossant / awesome-math [URL:https://github.com/rossant/awesome-math]
+6. usememos / memos [URL:https://github.com/usememos/memos]
+7. GitHubDaily / GitHubDaily [URL:https://github.com/GitHubDaily/GitHubDaily]
+8. SYSTRAN / faster-whisper [URL:https://github.com/SYSTRAN/faster-whisper]
+9. Koenkk / zigbee2mqtt [URL:https://github.com/Koenkk/zigbee2mqtt]
+
