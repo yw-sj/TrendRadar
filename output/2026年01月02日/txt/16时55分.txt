@@ -1,0 +1,14 @@
+github
+1. awslabs / amazon-bedrock-agentcore-samples [URL:https://github.com/awslabs/amazon-bedrock-agentcore-samples]
+2. BloopAI / vibe-kanban [URL:https://github.com/BloopAI/vibe-kanban]
+3. usememos / memos [URL:https://github.com/usememos/memos]
+4. organicmaps / organicmaps [URL:https://github.com/organicmaps/organicmaps]
+5. afkarxyz / SpotiFLAC [URL:https://github.com/afkarxyz/SpotiFLAC]
+6. HQarroum / docker-android [URL:https://github.com/HQarroum/docker-android]
+7. harvard-edge / cs249r_book [URL:https://github.com/harvard-edge/cs249r_book]
+8. Polymarket / agents [URL:https://github.com/Polymarket/agents]
+9. HandsOnLLM / Hands-On-Large-Language-Models [URL:https://github.com/HandsOnLLM/Hands-On-Large-Language-Models]
+10. yichuan-w / LEANN [URL:https://github.com/yichuan-w/LEANN]
+11. livekit / agents [URL:https://github.com/livekit/agents]
+12. DayuanJiang / next-ai-draw-io [URL:https://github.com/DayuanJiang/next-ai-draw-io]
+
