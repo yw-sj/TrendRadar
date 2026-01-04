@@ -1,0 +1,12 @@
+github
+1. OpenBB-finance / OpenBB [URL:https://github.com/OpenBB-finance/OpenBB]
+2. openai / openai-cookbook [URL:https://github.com/openai/openai-cookbook]
+3. nocodb / nocodb [URL:https://github.com/nocodb/nocodb]
+4. HQarroum / docker-android [URL:https://github.com/HQarroum/docker-android]
+5. usememos / memos [URL:https://github.com/usememos/memos]
+6. virattt / ai-hedge-fund [URL:https://github.com/virattt/ai-hedge-fund]
+7. ourongxing / newsnow [URL:https://github.com/ourongxing/newsnow]
+8. anomalyco / opencode [URL:https://github.com/anomalyco/opencode]
+9. 5rahim / seanime [URL:https://github.com/5rahim/seanime]
+10. python / cpython [URL:https://github.com/python/cpython]
+
