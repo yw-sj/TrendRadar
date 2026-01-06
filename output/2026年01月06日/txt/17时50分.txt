@@ -1,0 +1,12 @@
+github
+1. anomalyco / opencode [URL:https://github.com/anomalyco/opencode]
+2. usememos / memos [URL:https://github.com/usememos/memos]
+3. OpenBB-finance / OpenBB [URL:https://github.com/OpenBB-finance/OpenBB]
+4. ourongxing / newsnow [URL:https://github.com/ourongxing/newsnow]
+5. virattt / ai-hedge-fund [URL:https://github.com/virattt/ai-hedge-fund]
+6. python / cpython [URL:https://github.com/python/cpython]
+7. microsoft / VibeVoice [URL:https://github.com/microsoft/VibeVoice]
+8. 3b1b / manim [URL:https://github.com/3b1b/manim]
+9. maplibre / maplibre-gl-js [URL:https://github.com/maplibre/maplibre-gl-js]
+10. anthropics / claude-code [URL:https://github.com/anthropics/claude-code]
+
