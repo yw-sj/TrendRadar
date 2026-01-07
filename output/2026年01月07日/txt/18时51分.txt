@@ -1,0 +1,12 @@
+github
+1. protocolbuffers / protobuf [URL:https://github.com/protocolbuffers/protobuf]
+2. Lissy93 / web-check [URL:https://github.com/Lissy93/web-check]
+3. microsoft / PowerToys [URL:https://github.com/microsoft/PowerToys]
+4. anthropics / claude-code-action [URL:https://github.com/anthropics/claude-code-action]
+5. microsoft / BitNet [URL:https://github.com/microsoft/BitNet]
+6. marcelscruz / public-apis [URL:https://github.com/marcelscruz/public-apis]
+7. kirodotdev / Kiro [URL:https://github.com/kirodotdev/Kiro]
+8. LuckyOne7777 / ChatGPT-Micro-Cap-Experiment [URL:https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment]
+9. VectifyAI / PageIndex [URL:https://github.com/VectifyAI/PageIndex]
+10. bobbyiliev / introduction-to-bash-scripting [URL:https://github.com/bobbyiliev/introduction-to-bash-scripting]
+
