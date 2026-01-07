@@ -1,0 +1,15 @@
+github
+1. thedotmack / claude-mem [URL:https://github.com/thedotmack/claude-mem]
+2. google / googletest [URL:https://github.com/google/googletest]
+3. Lissy93 / web-check [URL:https://github.com/Lissy93/web-check]
+4. microsoft / PowerToys [URL:https://github.com/microsoft/PowerToys]
+5. protocolbuffers / protobuf [URL:https://github.com/protocolbuffers/protobuf]
+6. ChromeDevTools / chrome-devtools-mcp [URL:https://github.com/ChromeDevTools/chrome-devtools-mcp]
+7. memvid / memvid [URL:https://github.com/memvid/memvid]
+8. patchy631 / ai-engineering-hub [URL:https://github.com/patchy631/ai-engineering-hub]
+9. DrewThomasson / ebook2audiobook [URL:https://github.com/DrewThomasson/ebook2audiobook]
+10. marcelscruz / public-apis [URL:https://github.com/marcelscruz/public-apis]
+11. prateek-chaubey / YTPro [URL:https://github.com/prateek-chaubey/YTPro]
+12. MiroMindAI / MiroThinker [URL:https://github.com/MiroMindAI/MiroThinker]
+13. anthropics / prompt-eng-interactive-tutorial [URL:https://github.com/anthropics/prompt-eng-interactive-tutorial]
+
