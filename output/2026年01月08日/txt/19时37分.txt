@@ -1,0 +1,16 @@
+github
+1. ChromeDevTools / chrome-devtools-mcp [URL:https://github.com/ChromeDevTools/chrome-devtools-mcp]
+2. anthropics / claude-code [URL:https://github.com/anthropics/claude-code]
+3. nothings / stb [URL:https://github.com/nothings/stb]
+4. MiroMindAI / MiroThinker [URL:https://github.com/MiroMindAI/MiroThinker]
+5. protocolbuffers / protobuf [URL:https://github.com/protocolbuffers/protobuf]
+6. thedotmack / claude-mem [URL:https://github.com/thedotmack/claude-mem]
+7. xpipe-io / xpipe [URL:https://github.com/xpipe-io/xpipe]
+8. Lissy93 / web-check [URL:https://github.com/Lissy93/web-check]
+9. google / googletest [URL:https://github.com/google/googletest]
+10. apache / superset [URL:https://github.com/apache/superset]
+11. memvid / memvid [URL:https://github.com/memvid/memvid]
+12. Lightricks / ComfyUI-LTXVideo [URL:https://github.com/Lightricks/ComfyUI-LTXVideo]
+13. NevaMind-AI / memU [URL:https://github.com/NevaMind-AI/memU]
+14. HKUDS / VideoRAG [URL:https://github.com/HKUDS/VideoRAG]
+
