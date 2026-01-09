@@ -1,0 +1,13 @@
+github
+1. ChromeDevTools / chrome-devtools-mcp [URL:https://github.com/ChromeDevTools/chrome-devtools-mcp]
+2. anthropics / claude-code [URL:https://github.com/anthropics/claude-code]
+3. tailwindlabs / tailwindcss [URL:https://github.com/tailwindlabs/tailwindcss]
+4. netbirdio / netbird [URL:https://github.com/netbirdio/netbird]
+5. C4illin / ConvertX [URL:https://github.com/C4illin/ConvertX]
+6. Lightricks / ComfyUI-LTXVideo [URL:https://github.com/Lightricks/ComfyUI-LTXVideo]
+7. MiroMindAI / MiroThinker [URL:https://github.com/MiroMindAI/MiroThinker]
+8. google / googletest [URL:https://github.com/google/googletest]
+9. bytedance / UI-TARS-desktop [URL:https://github.com/bytedance/UI-TARS-desktop]
+10. Johnshall / Shadowrocket-ADBlock-Rules-Forever [URL:https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever]
+11. anomalyco / opencode [URL:https://github.com/anomalyco/opencode]
+
