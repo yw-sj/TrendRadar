@@ -1,0 +1,15 @@
+github
+1. anthropics / claude-code [URL:https://github.com/anthropics/claude-code]
+2. ChromeDevTools / chrome-devtools-mcp [URL:https://github.com/ChromeDevTools/chrome-devtools-mcp]
+3. github / awesome-copilot [URL:https://github.com/github/awesome-copilot]
+4. NevaMind-AI / memU [URL:https://github.com/NevaMind-AI/memU]
+5. obra / superpowers [URL:https://github.com/obra/superpowers]
+6. google / googletest [URL:https://github.com/google/googletest]
+7. xpipe-io / xpipe [URL:https://github.com/xpipe-io/xpipe]
+8. bytedance / UI-TARS-desktop [URL:https://github.com/bytedance/UI-TARS-desktop]
+9. C4illin / ConvertX [URL:https://github.com/C4illin/ConvertX]
+10. opf / openproject [URL:https://github.com/opf/openproject]
+11. MiroMindAI / MiroThinker [URL:https://github.com/MiroMindAI/MiroThinker]
+12. hacksider / Deep-Live-Cam [URL:https://github.com/hacksider/Deep-Live-Cam]
+13. twentyhq / twenty [URL:https://github.com/twentyhq/twenty]
+
