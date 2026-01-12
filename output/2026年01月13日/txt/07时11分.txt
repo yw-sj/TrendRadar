@@ -1,0 +1,14 @@
+github
+1. DioxusLabs / dioxus [URL:https://github.com/DioxusLabs/dioxus]
+2. NanmiCoder / MediaCrawler [URL:https://github.com/NanmiCoder/MediaCrawler]
+3. frankbria / ralph-claude-code [URL:https://github.com/frankbria/ralph-claude-code]
+4. iptv-org / iptv [URL:https://github.com/iptv-org/iptv]
+5. hacksider / Deep-Live-Cam [URL:https://github.com/hacksider/Deep-Live-Cam]
+6. bytedance / UI-TARS-desktop [URL:https://github.com/bytedance/UI-TARS-desktop]
+7. obra / superpowers [URL:https://github.com/obra/superpowers]
+8. ruvnet / claude-flow [URL:https://github.com/ruvnet/claude-flow]
+9. home-assistant / home-assistant.io [URL:https://github.com/home-assistant/home-assistant.io]
+10. mpv-player / mpv [URL:https://github.com/mpv-player/mpv]
+11. OpenBMB / ChatDev [URL:https://github.com/OpenBMB/ChatDev]
+12. opf / openproject [URL:https://github.com/opf/openproject]
+
