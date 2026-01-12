@@ -1,0 +1,15 @@
+github
+1. anomalyco / opencode [URL:https://github.com/anomalyco/opencode]
+2. obra / superpowers [URL:https://github.com/obra/superpowers]
+3. frankbria / ralph-claude-code [URL:https://github.com/frankbria/ralph-claude-code]
+4. davila7 / claude-code-templates [URL:https://github.com/davila7/claude-code-templates]
+5. makeplane / plane [URL:https://github.com/makeplane/plane]
+6. twitter / twemoji [URL:https://github.com/twitter/twemoji]
+7. bytedance / UI-TARS-desktop [URL:https://github.com/bytedance/UI-TARS-desktop]
+8. twentyhq / twenty [URL:https://github.com/twentyhq/twenty]
+9. home-assistant / home-assistant.io [URL:https://github.com/home-assistant/home-assistant.io]
+10. anthropics / claude-code [URL:https://github.com/anthropics/claude-code]
+11. C4illin / ConvertX [URL:https://github.com/C4illin/ConvertX]
+12. simstudioai / sim [URL:https://github.com/simstudioai/sim]
+13. gyoridavid / ai_agents_az [URL:https://github.com/gyoridavid/ai_agents_az]
+
