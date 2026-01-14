@@ -1,0 +1,9 @@
+github
+1. obra / superpowers [URL:https://github.com/obra/superpowers]
+2. twitter / the-algorithm [URL:https://github.com/twitter/the-algorithm]
+3. dev-sec / ansible-collection-hardening [URL:https://github.com/dev-sec/ansible-collection-hardening]
+4. mudler / LocalAI [URL:https://github.com/mudler/LocalAI]
+5. grab / cursor-talk-to-figma-mcp [URL:https://github.com/grab/cursor-talk-to-figma-mcp]
+6. zoicware / RemoveWindowsAI [URL:https://github.com/zoicware/RemoveWindowsAI]
+7. rancher / rancher [URL:https://github.com/rancher/rancher]
+
