@@ -1,0 +1,11 @@
+github
+1. obra / superpowers [URL:https://github.com/obra/superpowers]
+2. icloud-photos-downloader / icloud_photos_downloader [URL:https://github.com/icloud-photos-downloader/icloud_photos_downloader]
+3. blakeblackshear / frigate [URL:https://github.com/blakeblackshear/frigate]
+4. twitter / the-algorithm [URL:https://github.com/twitter/the-algorithm]
+5. home-assistant / home-assistant.io [URL:https://github.com/home-assistant/home-assistant.io]
+6. chidiwilliams / buzz [URL:https://github.com/chidiwilliams/buzz]
+7. adam-maj / tiny-gpu [URL:https://github.com/adam-maj/tiny-gpu]
+8. Free-TV / IPTV [URL:https://github.com/Free-TV/IPTV]
+9. onlook-dev / onlook [URL:https://github.com/onlook-dev/onlook]
+
