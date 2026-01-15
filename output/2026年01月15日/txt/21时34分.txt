@@ -1,0 +1,12 @@
+github
+1. eigent-ai / eigent [URL:https://github.com/eigent-ai/eigent]
+2. blakeblackshear / frigate [URL:https://github.com/blakeblackshear/frigate]
+3. obra / superpowers [URL:https://github.com/obra/superpowers]
+4. cilium / cilium [URL:https://github.com/cilium/cilium]
+5. wavetermdev / waveterm [URL:https://github.com/wavetermdev/waveterm]
+6. ultralytics / ultralytics [URL:https://github.com/ultralytics/ultralytics]
+7. mudler / LocalAI [URL:https://github.com/mudler/LocalAI]
+8. google-ai-edge / mediapipe [URL:https://github.com/google-ai-edge/mediapipe]
+9. puckeditor / puck [URL:https://github.com/puckeditor/puck]
+10. twitter / the-algorithm [URL:https://github.com/twitter/the-algorithm]
+
