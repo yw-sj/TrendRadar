@@ -1,0 +1,12 @@
+github
+1. obra / superpowers [URL:https://github.com/obra/superpowers]
+2. Gentleman-Programming / Gentleman.Dots [URL:https://github.com/Gentleman-Programming/Gentleman.Dots]
+3. google / langextract [URL:https://github.com/google/langextract]
+4. cjpais / Handy [URL:https://github.com/cjpais/Handy]
+5. puckeditor / puck [URL:https://github.com/puckeditor/puck]
+6. ultralytics / ultralytics [URL:https://github.com/ultralytics/ultralytics]
+7. eigent-ai / eigent [URL:https://github.com/eigent-ai/eigent]
+8. iOfficeAI / AionUi [URL:https://github.com/iOfficeAI/AionUi]
+9. agentsmd / agents.md [URL:https://github.com/agentsmd/agents.md]
+10. OpenDCAI / Paper2Any [URL:https://github.com/OpenDCAI/Paper2Any]
+
