@@ -1,0 +1,8 @@
+github
+1. eigent-ai / eigent [URL:https://github.com/eigent-ai/eigent]
+2. obra / superpowers [URL:https://github.com/obra/superpowers]
+3. afkarxyz / SpotiFLAC [URL:https://github.com/afkarxyz/SpotiFLAC]
+4. puckeditor / puck [URL:https://github.com/puckeditor/puck]
+5. google / langextract [URL:https://github.com/google/langextract]
+6. iOfficeAI / AionUi [URL:https://github.com/iOfficeAI/AionUi]
+
