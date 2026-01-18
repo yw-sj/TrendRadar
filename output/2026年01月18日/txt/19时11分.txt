@@ -1,0 +1,11 @@
+github
+1. iOfficeAI / AionUi [URL:https://github.com/iOfficeAI/AionUi]
+2. yt-dlp / yt-dlp [URL:https://github.com/yt-dlp/yt-dlp]
+3. nautechsystems / nautilus_trader [URL:https://github.com/nautechsystems/nautilus_trader]
+4. google / langextract [URL:https://github.com/google/langextract]
+5. OpenBMB / VoxCPM [URL:https://github.com/OpenBMB/VoxCPM]
+6. yichuan-w / LEANN [URL:https://github.com/yichuan-w/LEANN]
+7. Flowseal / zapret-discord-youtube [URL:https://github.com/Flowseal/zapret-discord-youtube]
+8. tobi / try [URL:https://github.com/tobi/try]
+9. Mebus / cupp [URL:https://github.com/Mebus/cupp]
+
