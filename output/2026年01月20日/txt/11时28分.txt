@@ -1,0 +1,10 @@
+github
+1. OpenBMB / VoxCPM [URL:https://github.com/OpenBMB/VoxCPM]
+2. google / langextract [URL:https://github.com/google/langextract]
+3. iOfficeAI / AionUi [URL:https://github.com/iOfficeAI/AionUi]
+4. czlonkowski / n8n-mcp [URL:https://github.com/czlonkowski/n8n-mcp]
+5. nautechsystems / nautilus_trader [URL:https://github.com/nautechsystems/nautilus_trader]
+6. ahujasid / blender-mcp [URL:https://github.com/ahujasid/blender-mcp]
+7. yichuan-w / LEANN [URL:https://github.com/yichuan-w/LEANN]
+8. DavidXanatos / TaskExplorer [URL:https://github.com/DavidXanatos/TaskExplorer]
+
