@@ -1,0 +1,9 @@
+github
+1. microsoft / agent-lightning [URL:https://github.com/microsoft/agent-lightning]
+2. iOfficeAI / AionUi [URL:https://github.com/iOfficeAI/AionUi]
+3. google / langextract [URL:https://github.com/google/langextract]
+4. AlexxIT / go2rtc [URL:https://github.com/AlexxIT/go2rtc]
+5. lukasz-madon / awesome-remote-job [URL:https://github.com/lukasz-madon/awesome-remote-job]
+6. tobi / try [URL:https://github.com/tobi/try]
+7. DavidXanatos / TaskExplorer [URL:https://github.com/DavidXanatos/TaskExplorer]
+
