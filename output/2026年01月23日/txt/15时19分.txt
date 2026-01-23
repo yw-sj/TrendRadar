@@ -1,0 +1,13 @@
+github
+1. remotion-dev / remotion [URL:https://github.com/remotion-dev/remotion]
+2. block / goose [URL:https://github.com/block/goose]
+3. twitter / the-algorithm [URL:https://github.com/twitter/the-algorithm]
+4. xai-org / grok-1 [URL:https://github.com/xai-org/grok-1]
+5. deepseek-ai / FlashMLA [URL:https://github.com/deepseek-ai/FlashMLA]
+6. microsoft / agent-lightning [URL:https://github.com/microsoft/agent-lightning]
+7. iOfficeAI / AionUi [URL:https://github.com/iOfficeAI/AionUi]
+8. mastra-ai / mastra [URL:https://github.com/mastra-ai/mastra]
+9. microsoft / Data-Science-For-Beginners [URL:https://github.com/microsoft/Data-Science-For-Beginners]
+10. nexmoe / VidBee [URL:https://github.com/nexmoe/VidBee]
+11. virattt / dexter [URL:https://github.com/virattt/dexter]
+
