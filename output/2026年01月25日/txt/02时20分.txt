@@ -1,0 +1,12 @@
+github
+1. remotion-dev / remotion [URL:https://github.com/remotion-dev/remotion]
+2. VectifyAI / PageIndex [URL:https://github.com/VectifyAI/PageIndex]
+3. OpenBMB / UltraRAG [URL:https://github.com/OpenBMB/UltraRAG]
+4. browser-use / browser-use [URL:https://github.com/browser-use/browser-use]
+5. block / goose [URL:https://github.com/block/goose]
+6. Blaizzy / mlx-audio [URL:https://github.com/Blaizzy/mlx-audio]
+7. simstudioai / sim [URL:https://github.com/simstudioai/sim]
+8. microsoft / VibeVoice [URL:https://github.com/microsoft/VibeVoice]
+9. putyy / res-downloader [URL:https://github.com/putyy/res-downloader]
+10. AI4Finance-Foundation / FinRobot [URL:https://github.com/AI4Finance-Foundation/FinRobot]
+
