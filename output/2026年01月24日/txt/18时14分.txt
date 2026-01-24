@@ -1,0 +1,15 @@
+github
+1. remotion-dev / remotion [URL:https://github.com/remotion-dev/remotion]
+2. microsoft / VibeVoice [URL:https://github.com/microsoft/VibeVoice]
+3. block / goose [URL:https://github.com/block/goose]
+4. ai-dynamo / dynamo [URL:https://github.com/ai-dynamo/dynamo]
+5. browser-use / browser-use [URL:https://github.com/browser-use/browser-use]
+6. github / copilot-cli [URL:https://github.com/github/copilot-cli]
+7. Asabeneh / 30-Days-Of-Python [URL:https://github.com/Asabeneh/30-Days-Of-Python]
+8. anthropics / claude-code [URL:https://github.com/anthropics/claude-code]
+9. deepseek-ai / FlashMLA [URL:https://github.com/deepseek-ai/FlashMLA]
+10. microsoft / Data-Science-For-Beginners [URL:https://github.com/microsoft/Data-Science-For-Beginners]
+11. OpenBMB / UltraRAG [URL:https://github.com/OpenBMB/UltraRAG]
+12. lyogavin / airllm [URL:https://github.com/lyogavin/airllm]
+13. KellerJordan / modded-nanogpt [URL:https://github.com/KellerJordan/modded-nanogpt]
+
