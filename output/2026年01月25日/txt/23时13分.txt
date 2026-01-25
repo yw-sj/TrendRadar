@@ -1,0 +1,10 @@
+github
+1. Blaizzy / mlx-audio [URL:https://github.com/Blaizzy/mlx-audio]
+2. VectifyAI / PageIndex [URL:https://github.com/VectifyAI/PageIndex]
+3. remotion-dev / remotion [URL:https://github.com/remotion-dev/remotion]
+4. qarmin / czkawka [URL:https://github.com/qarmin/czkawka]
+5. OpenBMB / UltraRAG [URL:https://github.com/OpenBMB/UltraRAG]
+6. microsoft / VibeVoice [URL:https://github.com/microsoft/VibeVoice]
+7. openai / codex [URL:https://github.com/openai/codex]
+8. supermemoryai / supermemory [URL:https://github.com/supermemoryai/supermemory]
+
