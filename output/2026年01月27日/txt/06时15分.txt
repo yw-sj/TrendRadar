@@ -1,0 +1,10 @@
+github
+1. Blaizzy / mlx-audio [URL:https://github.com/Blaizzy/mlx-audio]
+2. VectifyAI / PageIndex [URL:https://github.com/VectifyAI/PageIndex]
+3. supermemoryai / supermemory [URL:https://github.com/supermemoryai/supermemory]
+4. block / goose [URL:https://github.com/block/goose]
+5. remotion-dev / remotion [URL:https://github.com/remotion-dev/remotion]
+6. AI4Finance-Foundation / FinRobot [URL:https://github.com/AI4Finance-Foundation/FinRobot]
+7. k4yt3x / video2x [URL:https://github.com/k4yt3x/video2x]
+8. business-science / ai-data-science-team [URL:https://github.com/business-science/ai-data-science-team]
+
