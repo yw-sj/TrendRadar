@@ -1,0 +1,8 @@
+github
+1. badlogic / pi-mono [URL:https://github.com/badlogic/pi-mono]
+2. supermemoryai / supermemory [URL:https://github.com/supermemoryai/supermemory]
+3. Blaizzy / mlx-audio [URL:https://github.com/Blaizzy/mlx-audio]
+4. Free-TV / IPTV [URL:https://github.com/Free-TV/IPTV]
+5. hashicorp / vault [URL:https://github.com/hashicorp/vault]
+6. Shubhamsaboo / awesome-llm-apps [URL:https://github.com/Shubhamsaboo/awesome-llm-apps]
+
