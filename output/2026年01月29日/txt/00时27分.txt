@@ -1,0 +1,13 @@
+github
+1. badlogic / pi-mono [URL:https://github.com/badlogic/pi-mono]
+2. hashicorp / vault [URL:https://github.com/hashicorp/vault]
+3. asgeirtj / system_prompts_leaks [URL:https://github.com/asgeirtj/system_prompts_leaks]
+4. NevaMind-AI / memU [URL:https://github.com/NevaMind-AI/memU]
+5. MoonshotAI / kimi-cli [URL:https://github.com/MoonshotAI/kimi-cli]
+6. kubernetes / ingress-nginx [URL:https://github.com/kubernetes/ingress-nginx]
+7. protocolbuffers / protobuf [URL:https://github.com/protocolbuffers/protobuf]
+8. lobehub / lobehub [URL:https://github.com/lobehub/lobehub]
+9. ran-j / PS2Recomp [URL:https://github.com/ran-j/PS2Recomp]
+10. bambulab / BambuStudio [URL:https://github.com/bambulab/BambuStudio]
+11. GetStream / Vision-Agents [URL:https://github.com/GetStream/Vision-Agents]
+
