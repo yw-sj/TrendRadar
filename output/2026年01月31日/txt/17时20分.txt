@@ -1,0 +1,16 @@
+github
+1. openclaw / openclaw [URL:https://github.com/openclaw/openclaw]
+2. asgeirtj / system_prompts_leaks [URL:https://github.com/asgeirtj/system_prompts_leaks]
+3. MoonshotAI / kimi-cli [URL:https://github.com/MoonshotAI/kimi-cli]
+4. modelcontextprotocol / ext-apps [URL:https://github.com/modelcontextprotocol/ext-apps]
+5. NevaMind-AI / memU [URL:https://github.com/NevaMind-AI/memU]
+6. hashicorp / vault [URL:https://github.com/hashicorp/vault]
+7. badlogic / pi-mono [URL:https://github.com/badlogic/pi-mono]
+8. anomalyco / opencode-anthropic-auth [URL:https://github.com/anomalyco/opencode-anthropic-auth]
+9. protocolbuffers / protobuf [URL:https://github.com/protocolbuffers/protobuf]
+10. pedroslopez / whatsapp-web.js [URL:https://github.com/pedroslopez/whatsapp-web.js]
+11. TeamNewPipe / NewPipe [URL:https://github.com/TeamNewPipe/NewPipe]
+12. Shubhamsaboo / awesome-llm-apps [URL:https://github.com/Shubhamsaboo/awesome-llm-apps]
+13. microsoft / playwright-cli [URL:https://github.com/microsoft/playwright-cli]
+14. lobehub / lobehub [URL:https://github.com/lobehub/lobehub]
+
