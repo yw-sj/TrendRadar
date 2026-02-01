@@ -1,0 +1,14 @@
+github
+1. ThePrimeagen / 99 [URL:https://github.com/ThePrimeagen/99]
+2. microsoft / BitNet [URL:https://github.com/microsoft/BitNet]
+3. microsoft / agent-lightning [URL:https://github.com/microsoft/agent-lightning]
+4. PaddlePaddle / PaddleOCR [URL:https://github.com/PaddlePaddle/PaddleOCR]
+5. anthropics / claude-plugins-official [URL:https://github.com/anthropics/claude-plugins-official]
+6. microsoft / PowerToys [URL:https://github.com/microsoft/PowerToys]
+7. termux / termux-app [URL:https://github.com/termux/termux-app]
+8. openclaw / openclaw [URL:https://github.com/openclaw/openclaw]
+9. pedroslopez / whatsapp-web.js [URL:https://github.com/pedroslopez/whatsapp-web.js]
+10. AlexanderGrooff / mermaid-ascii [URL:https://github.com/AlexanderGrooff/mermaid-ascii]
+11. reconurge / flowsint [URL:https://github.com/reconurge/flowsint]
+12. cline / cline [URL:https://github.com/cline/cline]
+
