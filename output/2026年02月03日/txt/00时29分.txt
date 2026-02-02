@@ -1,0 +1,14 @@
+github
+1. thedotmack / claude-mem [URL:https://github.com/thedotmack/claude-mem]
+2. ThePrimeagen / 99 [URL:https://github.com/ThePrimeagen/99]
+3. termux / termux-app [URL:https://github.com/termux/termux-app]
+4. pedramamini / Maestro [URL:https://github.com/pedramamini/Maestro]
+5. netbirdio / netbird [URL:https://github.com/netbirdio/netbird]
+6. OpenBMB / ChatDev [URL:https://github.com/OpenBMB/ChatDev]
+7. autobrr / qui [URL:https://github.com/autobrr/qui]
+8. badlogic / pi-mono [URL:https://github.com/badlogic/pi-mono]
+9. VectifyAI / PageIndex [URL:https://github.com/VectifyAI/PageIndex]
+10. karpathy / nanochat [URL:https://github.com/karpathy/nanochat]
+11. kovidgoyal / calibre [URL:https://github.com/kovidgoyal/calibre]
+12. langchain-ai / rag-from-scratch [URL:https://github.com/langchain-ai/rag-from-scratch]
+
