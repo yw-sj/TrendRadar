@@ -1,0 +1,13 @@
+github
+1. openclaw / openclaw [URL:https://github.com/openclaw/openclaw]
+2. ThePrimeagen / 99 [URL:https://github.com/ThePrimeagen/99]
+3. pedramamini / Maestro [URL:https://github.com/pedramamini/Maestro]
+4. kovidgoyal / calibre [URL:https://github.com/kovidgoyal/calibre]
+5. badlogic / pi-mono [URL:https://github.com/badlogic/pi-mono]
+6. thedotmack / claude-mem [URL:https://github.com/thedotmack/claude-mem]
+7. microsoft / agent-lightning [URL:https://github.com/microsoft/agent-lightning]
+8. amantus-ai / vibetunnel [URL:https://github.com/amantus-ai/vibetunnel]
+9. steipete / CodexBar [URL:https://github.com/steipete/CodexBar]
+10. j178 / prek [URL:https://github.com/j178/prek]
+11. vita-epfl / Stable-Video-Infinity [URL:https://github.com/vita-epfl/Stable-Video-Infinity]
+
