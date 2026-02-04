@@ -1,0 +1,13 @@
+github
+1. thedotmack / claude-mem [URL:https://github.com/thedotmack/claude-mem]
+2. masoncl / review-prompts [URL:https://github.com/masoncl/review-prompts]
+3. openai / skills [URL:https://github.com/openai/skills]
+4. automazeio / ccpm [URL:https://github.com/automazeio/ccpm]
+5. obra / superpowers [URL:https://github.com/obra/superpowers]
+6. virattt / dexter [URL:https://github.com/virattt/dexter]
+7. karpathy / nanochat [URL:https://github.com/karpathy/nanochat]
+8. kovidgoyal / calibre [URL:https://github.com/kovidgoyal/calibre]
+9. OpenBMB / ChatDev [URL:https://github.com/OpenBMB/ChatDev]
+10. pedramamini / Maestro [URL:https://github.com/pedramamini/Maestro]
+11. vm0-ai / vm0 [URL:https://github.com/vm0-ai/vm0]
+
