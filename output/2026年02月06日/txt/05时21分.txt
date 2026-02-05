@@ -1,0 +1,13 @@
+github
+1. bytedance / UI-TARS-desktop [URL:https://github.com/bytedance/UI-TARS-desktop]
+2. openai / skills [URL:https://github.com/openai/skills]
+3. thedotmack / claude-mem [URL:https://github.com/thedotmack/claude-mem]
+4. j178 / prek [URL:https://github.com/j178/prek]
+5. topoteretes / cognee [URL:https://github.com/topoteretes/cognee]
+6. obra / superpowers [URL:https://github.com/obra/superpowers]
+7. aquasecurity / trivy [URL:https://github.com/aquasecurity/trivy]
+8. fish-shell / fish-shell [URL:https://github.com/fish-shell/fish-shell]
+9. nvm-sh / nvm [URL:https://github.com/nvm-sh/nvm]
+10. linshenkx / prompt-optimizer [URL:https://github.com/linshenkx/prompt-optimizer]
+11. ZeroTworu / anet [URL:https://github.com/ZeroTworu/anet]
+
