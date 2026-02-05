@@ -1,0 +1,14 @@
+github
+1. thedotmack / claude-mem [URL:https://github.com/thedotmack/claude-mem]
+2. openai / skills [URL:https://github.com/openai/skills]
+3. disler / claude-code-hooks-mastery [URL:https://github.com/disler/claude-code-hooks-mastery]
+4. OpenBMB / ChatDev [URL:https://github.com/OpenBMB/ChatDev]
+5. ankitects / anki [URL:https://github.com/ankitects/anki]
+6. open-telemetry / opentelemetry-collector-contrib [URL:https://github.com/open-telemetry/opentelemetry-collector-contrib]
+7. Canner / WrenAI [URL:https://github.com/Canner/WrenAI]
+8. pedramamini / Maestro [URL:https://github.com/pedramamini/Maestro]
+9. nvm-sh / nvm [URL:https://github.com/nvm-sh/nvm]
+10. microsoft / qlib [URL:https://github.com/microsoft/qlib]
+11. LadybirdBrowser / ladybird [URL:https://github.com/LadybirdBrowser/ladybird]
+12. likec4 / likec4 [URL:https://github.com/likec4/likec4]
+
