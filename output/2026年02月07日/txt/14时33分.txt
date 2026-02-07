@@ -1,0 +1,10 @@
+github
+1. openai / skills [URL:https://github.com/openai/skills]
+2. bytedance / UI-TARS-desktop [URL:https://github.com/bytedance/UI-TARS-desktop]
+3. nvm-sh / nvm [URL:https://github.com/nvm-sh/nvm]
+4. likec4 / likec4 [URL:https://github.com/likec4/likec4]
+5. aquasecurity / trivy [URL:https://github.com/aquasecurity/trivy]
+6. ZeroTworu / anet [URL:https://github.com/ZeroTworu/anet]
+7. Flowseal / zapret-discord-youtube [URL:https://github.com/Flowseal/zapret-discord-youtube]
+8. DataExpert-io / data-engineer-handbook [URL:https://github.com/DataExpert-io/data-engineer-handbook]
+
