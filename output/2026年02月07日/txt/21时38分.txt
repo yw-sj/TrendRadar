@@ -1,0 +1,14 @@
+github
+1. KeygraphHQ / shannon [URL:https://github.com/KeygraphHQ/shannon]
+2. openai / skills [URL:https://github.com/openai/skills]
+3. microsoft / litebox [URL:https://github.com/microsoft/litebox]
+4. p-e-w / heretic [URL:https://github.com/p-e-w/heretic]
+5. obra / superpowers [URL:https://github.com/obra/superpowers]
+6. OpenBMB / MiniCPM-o [URL:https://github.com/OpenBMB/MiniCPM-o]
+7. aquasecurity / trivy [URL:https://github.com/aquasecurity/trivy]
+8. wavetermdev / waveterm [URL:https://github.com/wavetermdev/waveterm]
+9. viarotel-org / escrcpy [URL:https://github.com/viarotel-org/escrcpy]
+10. ComposioHQ / awesome-claude-skills [URL:https://github.com/ComposioHQ/awesome-claude-skills]
+11. likec4 / likec4 [URL:https://github.com/likec4/likec4]
+12. gitbutlerapp / gitbutler [URL:https://github.com/gitbutlerapp/gitbutler]
+
