@@ -1,0 +1,16 @@
+github
+1. google / langextract [URL:https://github.com/google/langextract]
+2. iOfficeAI / AionUi [URL:https://github.com/iOfficeAI/AionUi]
+3. KeygraphHQ / shannon [URL:https://github.com/KeygraphHQ/shannon]
+4. github / gh-aw [URL:https://github.com/github/gh-aw]
+5. EveryInc / compound-engineering-plugin [URL:https://github.com/EveryInc/compound-engineering-plugin]
+6. hsliuping / TradingAgents-CN [URL:https://github.com/hsliuping/TradingAgents-CN]
+7. gitbutlerapp / gitbutler [URL:https://github.com/gitbutlerapp/gitbutler]
+8. carlvellotti / claude-code-pm-course [URL:https://github.com/carlvellotti/claude-code-pm-course]
+9. Shubhamsaboo / awesome-llm-apps [URL:https://github.com/Shubhamsaboo/awesome-llm-apps]
+10. drawdb-io / drawdb [URL:https://github.com/drawdb-io/drawdb]
+11. pydantic / monty [URL:https://github.com/pydantic/monty]
+12. cheahjs / free-llm-api-resources [URL:https://github.com/cheahjs/free-llm-api-resources]
+13. Jeffallan / claude-skills [URL:https://github.com/Jeffallan/claude-skills]
+14. virattt / dexter [URL:https://github.com/virattt/dexter]
+
