@@ -1,0 +1,15 @@
+github
+1. KeygraphHQ / shannon [URL:https://github.com/KeygraphHQ/shannon]
+2. virattt / dexter [URL:https://github.com/virattt/dexter]
+3. pydantic / monty [URL:https://github.com/pydantic/monty]
+4. hsliuping / TradingAgents-CN [URL:https://github.com/hsliuping/TradingAgents-CN]
+5. iOfficeAI / AionUi [URL:https://github.com/iOfficeAI/AionUi]
+6. public-apis / public-apis [URL:https://github.com/public-apis/public-apis]
+7. github / gh-aw [URL:https://github.com/github/gh-aw]
+8. Shubhamsaboo / awesome-llm-apps [URL:https://github.com/Shubhamsaboo/awesome-llm-apps]
+9. gitbutlerapp / gitbutler [URL:https://github.com/gitbutlerapp/gitbutler]
+10. microsoft / litebox [URL:https://github.com/microsoft/litebox]
+11. openai / skills [URL:https://github.com/openai/skills]
+12. EveryInc / compound-engineering-plugin [URL:https://github.com/EveryInc/compound-engineering-plugin]
+13. DrewThomasson / ebook2audiobook [URL:https://github.com/DrewThomasson/ebook2audiobook]
+
