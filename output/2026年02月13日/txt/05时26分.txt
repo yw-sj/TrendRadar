@@ -1,0 +1,15 @@
+github
+1. tambo-ai / tambo [URL:https://github.com/tambo-ai/tambo]
+2. danielmiessler / Personal_AI_Infrastructure [URL:https://github.com/danielmiessler/Personal_AI_Infrastructure]
+3. google / langextract [URL:https://github.com/google/langextract]
+4. ChromeDevTools / chrome-devtools-mcp [URL:https://github.com/ChromeDevTools/chrome-devtools-mcp]
+5. microsoft / PowerToys [URL:https://github.com/microsoft/PowerToys]
+6. iOfficeAI / AionUi [URL:https://github.com/iOfficeAI/AionUi]
+7. Shubhamsaboo / awesome-llm-apps [URL:https://github.com/Shubhamsaboo/awesome-llm-apps]
+8. rowboatlabs / rowboat [URL:https://github.com/rowboatlabs/rowboat]
+9. github / gh-aw [URL:https://github.com/github/gh-aw]
+10. unslothai / unsloth [URL:https://github.com/unslothai/unsloth]
+11. cinnyapp / cinny [URL:https://github.com/cinnyapp/cinny]
+12. Jeffallan / claude-skills [URL:https://github.com/Jeffallan/claude-skills]
+13. HandsOnLLM / Hands-On-Large-Language-Models [URL:https://github.com/HandsOnLLM/Hands-On-Large-Language-Models]
+
