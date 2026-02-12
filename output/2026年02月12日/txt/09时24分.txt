@@ -1,0 +1,9 @@
+github
+1. google / langextract [URL:https://github.com/google/langextract]
+2. github / gh-aw [URL:https://github.com/github/gh-aw]
+3. microsoft / PowerToys [URL:https://github.com/microsoft/PowerToys]
+4. ChromeDevTools / chrome-devtools-mcp [URL:https://github.com/ChromeDevTools/chrome-devtools-mcp]
+5. EveryInc / compound-engineering-plugin [URL:https://github.com/EveryInc/compound-engineering-plugin]
+6. patchy631 / ai-engineering-hub [URL:https://github.com/patchy631/ai-engineering-hub]
+7. cheahjs / free-llm-api-resources [URL:https://github.com/cheahjs/free-llm-api-resources]
+
