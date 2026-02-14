@@ -1,0 +1,12 @@
+github
+1. SynkraAI / aios-core [URL:https://github.com/SynkraAI/aios-core]
+2. ChromeDevTools / chrome-devtools-mcp [URL:https://github.com/ChromeDevTools/chrome-devtools-mcp]
+3. danielmiessler / Personal_AI_Infrastructure [URL:https://github.com/danielmiessler/Personal_AI_Infrastructure]
+4. patchy631 / ai-engineering-hub [URL:https://github.com/patchy631/ai-engineering-hub]
+5. TelegramMessenger / MTProxy [URL:https://github.com/TelegramMessenger/MTProxy]
+6. google-deepmind / superhuman [URL:https://github.com/google-deepmind/superhuman]
+7. cheahjs / free-llm-api-resources [URL:https://github.com/cheahjs/free-llm-api-resources]
+8. HandsOnLLM / Hands-On-Large-Language-Models [URL:https://github.com/HandsOnLLM/Hands-On-Large-Language-Models]
+9. THUDM / slime [URL:https://github.com/THUDM/slime]
+10. DebugSwift / DebugSwift [URL:https://github.com/DebugSwift/DebugSwift]
+
