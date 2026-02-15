@@ -1,0 +1,13 @@
+github
+1. tambo-ai / tambo [URL:https://github.com/tambo-ai/tambo]
+2. SynkraAI / aios-core [URL:https://github.com/SynkraAI/aios-core]
+3. rowboatlabs / rowboat [URL:https://github.com/rowboatlabs/rowboat]
+4. minio / minio [URL:https://github.com/minio/minio]
+5. ChromeDevTools / chrome-devtools-mcp [URL:https://github.com/ChromeDevTools/chrome-devtools-mcp]
+6. alibaba / zvec [URL:https://github.com/alibaba/zvec]
+7. ruvnet / wifi-densepose [URL:https://github.com/ruvnet/wifi-densepose]
+8. Zipstack / unstract [URL:https://github.com/Zipstack/unstract]
+9. letta-ai / letta-code [URL:https://github.com/letta-ai/letta-code]
+10. ruby / ruby [URL:https://github.com/ruby/ruby]
+11. cinnyapp / cinny [URL:https://github.com/cinnyapp/cinny]
+
