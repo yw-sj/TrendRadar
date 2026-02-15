@@ -1,0 +1,13 @@
+github
+1. nautechsystems / nautilus_trader [URL:https://github.com/nautechsystems/nautilus_trader]
+2. steipete / gogcli [URL:https://github.com/steipete/gogcli]
+3. rowboatlabs / rowboat [URL:https://github.com/rowboatlabs/rowboat]
+4. github / gh-aw [URL:https://github.com/github/gh-aw]
+5. ChromeDevTools / chrome-devtools-mcp [URL:https://github.com/ChromeDevTools/chrome-devtools-mcp]
+6. alibaba / zvec [URL:https://github.com/alibaba/zvec]
+7. openclaw / openclaw [URL:https://github.com/openclaw/openclaw]
+8. moonshine-ai / moonshine [URL:https://github.com/moonshine-ai/moonshine]
+9. brave / brave-browser [URL:https://github.com/brave/brave-browser]
+10. SynkraAI / aios-core [URL:https://github.com/SynkraAI/aios-core]
+11. ruvnet / wifi-densepose [URL:https://github.com/ruvnet/wifi-densepose]
+
