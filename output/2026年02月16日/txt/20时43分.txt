@@ -1,0 +1,13 @@
+github
+1. alibaba / zvec [URL:https://github.com/alibaba/zvec]
+2. nautechsystems / nautilus_trader [URL:https://github.com/nautechsystems/nautilus_trader]
+3. rowboatlabs / rowboat [URL:https://github.com/rowboatlabs/rowboat]
+4. steipete / gogcli [URL:https://github.com/steipete/gogcli]
+5. openclaw / openclaw [URL:https://github.com/openclaw/openclaw]
+6. SynkraAI / aios-core [URL:https://github.com/SynkraAI/aios-core]
+7. letta-ai / letta-code [URL:https://github.com/letta-ai/letta-code]
+8. ruvnet / wifi-densepose [URL:https://github.com/ruvnet/wifi-densepose]
+9. maxritter / claude-pilot [URL:https://github.com/maxritter/claude-pilot]
+10. seerr-team / seerr [URL:https://github.com/seerr-team/seerr]
+11. hummingbot / hummingbot [URL:https://github.com/hummingbot/hummingbot]
+
