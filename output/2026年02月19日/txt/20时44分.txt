@@ -1,0 +1,9 @@
+github
+1. obra / superpowers [URL:https://github.com/obra/superpowers]
+2. open-mercato / open-mercato [URL:https://github.com/open-mercato/open-mercato]
+3. harvard-edge / cs249r_book [URL:https://github.com/harvard-edge/cs249r_book]
+4. HailToDodongo / pyrite64 [URL:https://github.com/HailToDodongo/pyrite64]
+5. openclaw / openclaw [URL:https://github.com/openclaw/openclaw]
+6. freemocap / freemocap [URL:https://github.com/freemocap/freemocap]
+7. p-e-w / heretic [URL:https://github.com/p-e-w/heretic]
+
