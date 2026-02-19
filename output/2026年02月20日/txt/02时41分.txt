@@ -1,0 +1,10 @@
+github
+1. obra / superpowers [URL:https://github.com/obra/superpowers]
+2. RichardAtCT / claude-code-telegram [URL:https://github.com/RichardAtCT/claude-code-telegram]
+3. open-mercato / open-mercato [URL:https://github.com/open-mercato/open-mercato]
+4. harvard-edge / cs249r_book [URL:https://github.com/harvard-edge/cs249r_book]
+5. HailToDodongo / pyrite64 [URL:https://github.com/HailToDodongo/pyrite64]
+6. openclaw / openclaw [URL:https://github.com/openclaw/openclaw]
+7. freemocap / freemocap [URL:https://github.com/freemocap/freemocap]
+8. p-e-w / heretic [URL:https://github.com/p-e-w/heretic]
+
