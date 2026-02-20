@@ -1,0 +1,17 @@
+github
+1. vxcontrol / pentagi [URL:https://github.com/vxcontrol/pentagi]
+2. blackboardsh / electrobun [URL:https://github.com/blackboardsh/electrobun]
+3. HailToDodongo / pyrite64 [URL:https://github.com/HailToDodongo/pyrite64]
+4. obra / superpowers [URL:https://github.com/obra/superpowers]
+5. aquasecurity / trivy [URL:https://github.com/aquasecurity/trivy]
+6. PostHog / posthog [URL:https://github.com/PostHog/posthog]
+7. eslint / eslint [URL:https://github.com/eslint/eslint]
+8. anthropics / claude-plugins-official [URL:https://github.com/anthropics/claude-plugins-official]
+9. Effect-TS / effect-smol [URL:https://github.com/Effect-TS/effect-smol]
+10. google-research / timesfm [URL:https://github.com/google-research/timesfm]
+11. roboflow / trackers [URL:https://github.com/roboflow/trackers]
+12. huggingface / skills [URL:https://github.com/huggingface/skills]
+13. databricks-solutions / ai-dev-kit [URL:https://github.com/databricks-solutions/ai-dev-kit]
+14. freemocap / freemocap [URL:https://github.com/freemocap/freemocap]
+15. ComposioHQ / composio [URL:https://github.com/ComposioHQ/composio]
+
