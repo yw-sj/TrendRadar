@@ -1,0 +1,15 @@
+github
+1. vxcontrol / pentagi [URL:https://github.com/vxcontrol/pentagi]
+2. abhigyanpatwari / GitNexus [URL:https://github.com/abhigyanpatwari/GitNexus]
+3. obra / superpowers [URL:https://github.com/obra/superpowers]
+4. huggingface / skills [URL:https://github.com/huggingface/skills]
+5. PowerShell / PowerShell [URL:https://github.com/PowerShell/PowerShell]
+6. anthropics / claude-code [URL:https://github.com/anthropics/claude-code]
+7. stan-smith / FossFLOW [URL:https://github.com/stan-smith/FossFLOW]
+8. ggml-org / ggml [URL:https://github.com/ggml-org/ggml]
+9. Stremio / stremio-web [URL:https://github.com/Stremio/stremio-web]
+10. HandsOnLLM / Hands-On-Large-Language-Models [URL:https://github.com/HandsOnLLM/Hands-On-Large-Language-Models]
+11. RichardAtCT / claude-code-telegram [URL:https://github.com/RichardAtCT/claude-code-telegram]
+12. cloudflare / agents [URL:https://github.com/cloudflare/agents]
+13. hiddify / hiddify-app [URL:https://github.com/hiddify/hiddify-app]
+
