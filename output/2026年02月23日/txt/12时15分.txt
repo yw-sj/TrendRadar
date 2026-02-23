@@ -1,0 +1,11 @@
+github
+1. huggingface / skills [URL:https://github.com/huggingface/skills]
+2. vxcontrol / pentagi [URL:https://github.com/vxcontrol/pentagi]
+3. anthropics / claude-code [URL:https://github.com/anthropics/claude-code]
+4. x1xhlol / system-prompts-and-models-of-ai-tools [URL:https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools]
+5. Stremio / stremio-web [URL:https://github.com/Stremio/stremio-web]
+6. OpenBB-finance / OpenBB [URL:https://github.com/OpenBB-finance/OpenBB]
+7. cloudflare / agents [URL:https://github.com/cloudflare/agents]
+8. abhigyanpatwari / GitNexus [URL:https://github.com/abhigyanpatwari/GitNexus]
+9. stan-smith / FossFLOW [URL:https://github.com/stan-smith/FossFLOW]
+
