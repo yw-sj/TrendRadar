@@ -1,0 +1,13 @@
+github
+1. huggingface / skills [URL:https://github.com/huggingface/skills]
+2. muratcankoylan / Agent-Skills-for-Context-Engineering [URL:https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering]
+3. OpenBB-finance / OpenBB [URL:https://github.com/OpenBB-finance/OpenBB]
+4. LadybirdBrowser / ladybird [URL:https://github.com/LadybirdBrowser/ladybird]
+5. x1xhlol / system-prompts-and-models-of-ai-tools [URL:https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools]
+6. obra / superpowers [URL:https://github.com/obra/superpowers]
+7. ruvnet / ruvector [URL:https://github.com/ruvnet/ruvector]
+8. GVCLab / PersonaLive [URL:https://github.com/GVCLab/PersonaLive]
+9. HunxByts / GhostTrack [URL:https://github.com/HunxByts/GhostTrack]
+10. VectifyAI / PageIndex [URL:https://github.com/VectifyAI/PageIndex]
+11. openemr / openemr [URL:https://github.com/openemr/openemr]
+
