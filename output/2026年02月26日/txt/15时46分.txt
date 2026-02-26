@@ -1,0 +1,17 @@
+github
+1. D4Vinci / Scrapling [URL:https://github.com/D4Vinci/Scrapling]
+2. huggingface / skills [URL:https://github.com/huggingface/skills]
+3. abhigyanpatwari / GitNexus [URL:https://github.com/abhigyanpatwari/GitNexus]
+4. obra / superpowers [URL:https://github.com/obra/superpowers]
+5. muratcankoylan / Agent-Skills-for-Context-Engineering [URL:https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering]
+6. datawhalechina / hello-agents [URL:https://github.com/datawhalechina/hello-agents]
+7. bytedance / deer-flow [URL:https://github.com/bytedance/deer-flow]
+8. VectifyAI / PageIndex [URL:https://github.com/VectifyAI/PageIndex]
+9. NevaMind-AI / memU [URL:https://github.com/NevaMind-AI/memU]
+10. ruvnet / ruvector [URL:https://github.com/ruvnet/ruvector]
+11. NVIDIA / Megatron-LM [URL:https://github.com/NVIDIA/Megatron-LM]
+12. shareAI-lab / learn-claude-code [URL:https://github.com/shareAI-lab/learn-claude-code]
+13. x1xhlol / system-prompts-and-models-of-ai-tools [URL:https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools]
+14. katanemo / plano [URL:https://github.com/katanemo/plano]
+15. siteboon / claudecodeui [URL:https://github.com/siteboon/claudecodeui]
+
