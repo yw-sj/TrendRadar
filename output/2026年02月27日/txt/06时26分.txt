@@ -1,0 +1,11 @@
+github
+1. clockworklabs / SpacetimeDB [URL:https://github.com/clockworklabs/SpacetimeDB]
+2. obra / superpowers [URL:https://github.com/obra/superpowers]
+3. muratcankoylan / Agent-Skills-for-Context-Engineering [URL:https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering]
+4. bytedance / deer-flow [URL:https://github.com/bytedance/deer-flow]
+5. huggingface / skills [URL:https://github.com/huggingface/skills]
+6. farion1231 / cc-switch [URL:https://github.com/farion1231/cc-switch]
+7. ruvnet / claude-flow [URL:https://github.com/ruvnet/claude-flow]
+8. ruvnet / ruvector [URL:https://github.com/ruvnet/ruvector]
+9. moonshine-ai / moonshine [URL:https://github.com/moonshine-ai/moonshine]
+
