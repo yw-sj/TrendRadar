@@ -1,0 +1,18 @@
+github
+1. ruvnet / wifi-densepose [URL:https://github.com/ruvnet/wifi-densepose]
+2. bytedance / deer-flow [URL:https://github.com/bytedance/deer-flow]
+3. moonshine-ai / moonshine [URL:https://github.com/moonshine-ai/moonshine]
+4. muratcankoylan / Agent-Skills-for-Context-Engineering [URL:https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering]
+5. obra / superpowers [URL:https://github.com/obra/superpowers]
+6. ruvnet / claude-flow [URL:https://github.com/ruvnet/claude-flow]
+7. datawhalechina / hello-agents [URL:https://github.com/datawhalechina/hello-agents]
+8. abhigyanpatwari / GitNexus [URL:https://github.com/abhigyanpatwari/GitNexus]
+9. moeru-ai / airi [URL:https://github.com/moeru-ai/airi]
+10. anthropics / claude-code [URL:https://github.com/anthropics/claude-code]
+11. ruvnet / ruvector [URL:https://github.com/ruvnet/ruvector]
+12. Wei-Shaw / claude-relay-service [URL:https://github.com/Wei-Shaw/claude-relay-service]
+13. tukaani-project / xz [URL:https://github.com/tukaani-project/xz]
+14. D4Vinci / Scrapling [URL:https://github.com/D4Vinci/Scrapling]
+15. steipete / CodexBar [URL:https://github.com/steipete/CodexBar]
+16. alibaba / OpenSandbox [URL:https://github.com/alibaba/OpenSandbox]
+
