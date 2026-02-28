@@ -1,0 +1,17 @@
+github
+1. bytedance / deer-flow [URL:https://github.com/bytedance/deer-flow]
+2. moonshine-ai / moonshine [URL:https://github.com/moonshine-ai/moonshine]
+3. muratcankoylan / Agent-Skills-for-Context-Engineering [URL:https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering]
+4. obra / superpowers [URL:https://github.com/obra/superpowers]
+5. ruvnet / ruflo [URL:https://github.com/ruvnet/ruflo]
+6. datawhalechina / hello-agents [URL:https://github.com/datawhalechina/hello-agents]
+7. abhigyanpatwari / GitNexus [URL:https://github.com/abhigyanpatwari/GitNexus]
+8. moeru-ai / airi [URL:https://github.com/moeru-ai/airi]
+9. anthropics / claude-code [URL:https://github.com/anthropics/claude-code]
+10. ruvnet / ruvector [URL:https://github.com/ruvnet/ruvector]
+11. Wei-Shaw / claude-relay-service [URL:https://github.com/Wei-Shaw/claude-relay-service]
+12. tukaani-project / xz [URL:https://github.com/tukaani-project/xz]
+13. D4Vinci / Scrapling [URL:https://github.com/D4Vinci/Scrapling]
+14. steipete / CodexBar [URL:https://github.com/steipete/CodexBar]
+15. alibaba / OpenSandbox [URL:https://github.com/alibaba/OpenSandbox]
+
