@@ -1,0 +1,15 @@
+github
+1. moeru-ai / airi [URL:https://github.com/moeru-ai/airi]
+2. ruvnet / wifi-densepose [URL:https://github.com/ruvnet/wifi-densepose]
+3. ruvnet / ruflo [URL:https://github.com/ruvnet/ruflo]
+4. microsoft / markitdown [URL:https://github.com/microsoft/markitdown]
+5. bytedance / deer-flow [URL:https://github.com/bytedance/deer-flow]
+6. alibaba / OpenSandbox [URL:https://github.com/alibaba/OpenSandbox]
+7. Shubhamsaboo / awesome-llm-apps [URL:https://github.com/Shubhamsaboo/awesome-llm-apps]
+8. K-Dense-AI / claude-scientific-skills [URL:https://github.com/K-Dense-AI/claude-scientific-skills]
+9. basecamp / omarchy [URL:https://github.com/basecamp/omarchy]
+10. X-PLUG / MobileAgent [URL:https://github.com/X-PLUG/MobileAgent]
+11. datawhalechina / hello-agents [URL:https://github.com/datawhalechina/hello-agents]
+12. superset-sh / superset [URL:https://github.com/superset-sh/superset]
+13. NevaMind-AI / memU [URL:https://github.com/NevaMind-AI/memU]
+
