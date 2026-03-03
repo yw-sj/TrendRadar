@@ -1,0 +1,11 @@
+github
+1. ruvnet / RuView [URL:https://github.com/ruvnet/RuView]
+2. moeru-ai / airi [URL:https://github.com/moeru-ai/airi]
+3. anthropics / prompt-eng-interactive-tutorial [URL:https://github.com/anthropics/prompt-eng-interactive-tutorial]
+4. ruvnet / ruflo [URL:https://github.com/ruvnet/ruflo]
+5. alibaba / OpenSandbox [URL:https://github.com/alibaba/OpenSandbox]
+6. microsoft / markitdown [URL:https://github.com/microsoft/markitdown]
+7. K-Dense-AI / claude-scientific-skills [URL:https://github.com/K-Dense-AI/claude-scientific-skills]
+8. superset-sh / superset [URL:https://github.com/superset-sh/superset]
+9. servo / servo [URL:https://github.com/servo/servo]
+
