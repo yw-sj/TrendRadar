@@ -1,0 +1,15 @@
+github
+1. KeygraphHQ / shannon [URL:https://github.com/KeygraphHQ/shannon]
+2. msitarzewski / agency-agents [URL:https://github.com/msitarzewski/agency-agents]
+3. aquasecurity / trivy [URL:https://github.com/aquasecurity/trivy]
+4. K-Dense-AI / claude-scientific-skills [URL:https://github.com/K-Dense-AI/claude-scientific-skills]
+5. CodebuffAI / codebuff [URL:https://github.com/CodebuffAI/codebuff]
+6. agentscope-ai / ReMe [URL:https://github.com/agentscope-ai/ReMe]
+7. alibaba / OpenSandbox [URL:https://github.com/alibaba/OpenSandbox]
+8. FujiwaraChoki / MoneyPrinterV2 [URL:https://github.com/FujiwaraChoki/MoneyPrinterV2]
+9. ItzCrazyKns / Perplexica [URL:https://github.com/ItzCrazyKns/Perplexica]
+10. agentscope-ai / agentscope [URL:https://github.com/agentscope-ai/agentscope]
+11. moeru-ai / airi [URL:https://github.com/moeru-ai/airi]
+12. nautechsystems / nautilus_trader [URL:https://github.com/nautechsystems/nautilus_trader]
+13. FlowiseAI / Flowise [URL:https://github.com/FlowiseAI/Flowise]
+
