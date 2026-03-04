@@ -1,0 +1,12 @@
+github
+1. ruvnet / RuView [URL:https://github.com/ruvnet/RuView]
+2. K-Dense-AI / claude-scientific-skills [URL:https://github.com/K-Dense-AI/claude-scientific-skills]
+3. moeru-ai / airi [URL:https://github.com/moeru-ai/airi]
+4. CodebuffAI / codebuff [URL:https://github.com/CodebuffAI/codebuff]
+5. agentscope-ai / agentscope [URL:https://github.com/agentscope-ai/agentscope]
+6. agentscope-ai / ReMe [URL:https://github.com/agentscope-ai/ReMe]
+7. LMCache / LMCache [URL:https://github.com/LMCache/LMCache]
+8. superset-sh / superset [URL:https://github.com/superset-sh/superset]
+9. aquasecurity / trivy [URL:https://github.com/aquasecurity/trivy]
+10. alibaba / OpenSandbox [URL:https://github.com/alibaba/OpenSandbox]
+
