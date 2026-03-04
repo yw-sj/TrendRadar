@@ -1,0 +1,13 @@
+github
+1. msitarzewski / agency-agents [URL:https://github.com/msitarzewski/agency-agents]
+2. ruvnet / RuView [URL:https://github.com/ruvnet/RuView]
+3. K-Dense-AI / claude-scientific-skills [URL:https://github.com/K-Dense-AI/claude-scientific-skills]
+4. moeru-ai / airi [URL:https://github.com/moeru-ai/airi]
+5. CodebuffAI / codebuff [URL:https://github.com/CodebuffAI/codebuff]
+6. agentscope-ai / agentscope [URL:https://github.com/agentscope-ai/agentscope]
+7. agentscope-ai / ReMe [URL:https://github.com/agentscope-ai/ReMe]
+8. LMCache / LMCache [URL:https://github.com/LMCache/LMCache]
+9. superset-sh / superset [URL:https://github.com/superset-sh/superset]
+10. aquasecurity / trivy [URL:https://github.com/aquasecurity/trivy]
+11. alibaba / OpenSandbox [URL:https://github.com/alibaba/OpenSandbox]
+
