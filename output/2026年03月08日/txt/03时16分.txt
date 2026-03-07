@@ -1,0 +1,13 @@
+github
+1. 666ghj / MiroFish [URL:https://github.com/666ghj/MiroFish]
+2. openai / skills [URL:https://github.com/openai/skills]
+3. msitarzewski / agency-agents [URL:https://github.com/msitarzewski/agency-agents]
+4. GoogleCloudPlatform / generative-ai [URL:https://github.com/GoogleCloudPlatform/generative-ai]
+5. agentjido / jido [URL:https://github.com/agentjido/jido]
+6. QwenLM / Qwen-Agent [URL:https://github.com/QwenLM/Qwen-Agent]
+7. virattt / ai-hedge-fund [URL:https://github.com/virattt/ai-hedge-fund]
+8. microsoft / hve-core [URL:https://github.com/microsoft/hve-core]
+9. toeverything / AFFiNE [URL:https://github.com/toeverything/AFFiNE]
+10. shadcn-ui / ui [URL:https://github.com/shadcn-ui/ui]
+11. alibaba / page-agent [URL:https://github.com/alibaba/page-agent]
+
