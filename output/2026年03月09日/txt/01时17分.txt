@@ -1,0 +1,14 @@
+github
+1. GoogleCloudPlatform / generative-ai [URL:https://github.com/GoogleCloudPlatform/generative-ai]
+2. 666ghj / MiroFish [URL:https://github.com/666ghj/MiroFish]
+3. shadcn-ui / ui [URL:https://github.com/shadcn-ui/ui]
+4. openclaw / openclaw [URL:https://github.com/openclaw/openclaw]
+5. toeverything / AFFiNE [URL:https://github.com/toeverything/AFFiNE]
+6. Ed1s0nZ / CyberStrikeAI [URL:https://github.com/Ed1s0nZ/CyberStrikeAI]
+7. shareAI-lab / learn-claude-code [URL:https://github.com/shareAI-lab/learn-claude-code]
+8. openai / skills [URL:https://github.com/openai/skills]
+9. virattt / ai-hedge-fund [URL:https://github.com/virattt/ai-hedge-fund]
+10. is-a-dev / register [URL:https://github.com/is-a-dev/register]
+11. teng-lin / notebooklm-py [URL:https://github.com/teng-lin/notebooklm-py]
+12. pbakaus / impeccable [URL:https://github.com/pbakaus/impeccable]
+
