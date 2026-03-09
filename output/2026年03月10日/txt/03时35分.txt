@@ -1,0 +1,14 @@
+github
+1. GoogleCloudPlatform / generative-ai [URL:https://github.com/GoogleCloudPlatform/generative-ai]
+2. openclaw / openclaw [URL:https://github.com/openclaw/openclaw]
+3. 666ghj / MiroFish [URL:https://github.com/666ghj/MiroFish]
+4. karpathy / nanochat [URL:https://github.com/karpathy/nanochat]
+5. 666ghj / BettaFish [URL:https://github.com/666ghj/BettaFish]
+6. NousResearch / hermes-agent [URL:https://github.com/NousResearch/hermes-agent]
+7. pbakaus / impeccable [URL:https://github.com/pbakaus/impeccable]
+8. msitarzewski / agency-agents [URL:https://github.com/msitarzewski/agency-agents]
+9. alibaba / page-agent [URL:https://github.com/alibaba/page-agent]
+10. alirezarezvani / claude-skills [URL:https://github.com/alirezarezvani/claude-skills]
+11. Raphire / Win11Debloat [URL:https://github.com/Raphire/Win11Debloat]
+12. teng-lin / notebooklm-py [URL:https://github.com/teng-lin/notebooklm-py]
+
