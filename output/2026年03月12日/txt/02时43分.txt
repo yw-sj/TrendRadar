@@ -1,0 +1,11 @@
+github
+1. msitarzewski / agency-agents [URL:https://github.com/msitarzewski/agency-agents]
+2. 666ghj / MiroFish [URL:https://github.com/666ghj/MiroFish]
+3. promptfoo / promptfoo [URL:https://github.com/promptfoo/promptfoo]
+4. obra / superpowers [URL:https://github.com/obra/superpowers]
+5. fishaudio / fish-speech [URL:https://github.com/fishaudio/fish-speech]
+6. virattt / ai-hedge-fund [URL:https://github.com/virattt/ai-hedge-fund]
+7. alibaba / page-agent [URL:https://github.com/alibaba/page-agent]
+8. NousResearch / hermes-agent [URL:https://github.com/NousResearch/hermes-agent]
+9. AstrBotDevs / AstrBot [URL:https://github.com/AstrBotDevs/AstrBot]
+
