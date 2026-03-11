@@ -1,0 +1,14 @@
+github
+1. msitarzewski / agency-agents [URL:https://github.com/msitarzewski/agency-agents]
+2. 666ghj / MiroFish [URL:https://github.com/666ghj/MiroFish]
+3. NousResearch / hermes-agent [URL:https://github.com/NousResearch/hermes-agent]
+4. promptfoo / promptfoo [URL:https://github.com/promptfoo/promptfoo]
+5. GoogleCloudPlatform / generative-ai [URL:https://github.com/GoogleCloudPlatform/generative-ai]
+6. virattt / ai-hedge-fund [URL:https://github.com/virattt/ai-hedge-fund]
+7. karpathy / nanochat [URL:https://github.com/karpathy/nanochat]
+8. obra / superpowers [URL:https://github.com/obra/superpowers]
+9. alibaba / page-agent [URL:https://github.com/alibaba/page-agent]
+10. sepinf-inc / IPED [URL:https://github.com/sepinf-inc/IPED]
+11. openclaw / openclaw [URL:https://github.com/openclaw/openclaw]
+12. bytedance / deer-flow [URL:https://github.com/bytedance/deer-flow]
+
