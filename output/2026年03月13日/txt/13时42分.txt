@@ -1,0 +1,15 @@
+github
+1. microsoft / BitNet [URL:https://github.com/microsoft/BitNet]
+2. fishaudio / fish-speech [URL:https://github.com/fishaudio/fish-speech]
+3. langflow-ai / openrag [URL:https://github.com/langflow-ai/openrag]
+4. InsForge / InsForge [URL:https://github.com/InsForge/InsForge]
+5. vectorize-io / hindsight [URL:https://github.com/vectorize-io/hindsight]
+6. alibaba / page-agent [URL:https://github.com/alibaba/page-agent]
+7. obra / superpowers [URL:https://github.com/obra/superpowers]
+8. NousResearch / hermes-agent [URL:https://github.com/NousResearch/hermes-agent]
+9. 666ghj / MiroFish [URL:https://github.com/666ghj/MiroFish]
+10. google-ai-edge / LiteRT [URL:https://github.com/google-ai-edge/LiteRT]
+11. msitarzewski / agency-agents [URL:https://github.com/msitarzewski/agency-agents]
+12. google / A2UI [URL:https://github.com/google/A2UI]
+13. anthropics / claude-plugins-official [URL:https://github.com/anthropics/claude-plugins-official]
+
