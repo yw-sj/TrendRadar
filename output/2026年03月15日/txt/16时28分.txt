@@ -1,0 +1,12 @@
+github
+1. volcengine / OpenViking [URL:https://github.com/volcengine/OpenViking]
+2. anthropics / claude-plugins-official [URL:https://github.com/anthropics/claude-plugins-official]
+3. dimensionalOS / dimos [URL:https://github.com/dimensionalOS/dimos]
+4. p-e-w / heretic [URL:https://github.com/p-e-w/heretic]
+5. langflow-ai / openrag [URL:https://github.com/langflow-ai/openrag]
+6. lightpanda-io / browser [URL:https://github.com/lightpanda-io/browser]
+7. msitarzewski / agency-agents [URL:https://github.com/msitarzewski/agency-agents]
+8. fishaudio / fish-speech [URL:https://github.com/fishaudio/fish-speech]
+9. InsForge / InsForge [URL:https://github.com/InsForge/InsForge]
+10. obra / superpowers [URL:https://github.com/obra/superpowers]
+
