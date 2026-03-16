@@ -1,0 +1,14 @@
+github
+1. lightpanda-io / browser [URL:https://github.com/lightpanda-io/browser]
+2. Crosstalk-Solutions / project-nomad [URL:https://github.com/Crosstalk-Solutions/project-nomad]
+3. volcengine / OpenViking [URL:https://github.com/volcengine/OpenViking]
+4. shareAI-lab / learn-claude-code [URL:https://github.com/shareAI-lab/learn-claude-code]
+5. obra / superpowers [URL:https://github.com/obra/superpowers]
+6. p-e-w / heretic [URL:https://github.com/p-e-w/heretic]
+7. 666ghj / MiroFish [URL:https://github.com/666ghj/MiroFish]
+8. abhigyanpatwari / GitNexus [URL:https://github.com/abhigyanpatwari/GitNexus]
+9. topoteretes / cognee [URL:https://github.com/topoteretes/cognee]
+10. InsForge / InsForge [URL:https://github.com/InsForge/InsForge]
+11. voidzero-dev / vite-plus [URL:https://github.com/voidzero-dev/vite-plus]
+12. anthropics / claude-plugins-official [URL:https://github.com/anthropics/claude-plugins-official]
+
