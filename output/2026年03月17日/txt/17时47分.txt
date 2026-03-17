@@ -1,0 +1,14 @@
+github
+1. 666ghj / MiroFish [URL:https://github.com/666ghj/MiroFish]
+2. thedotmack / claude-mem [URL:https://github.com/thedotmack/claude-mem]
+3. Crosstalk-Solutions / project-nomad [URL:https://github.com/Crosstalk-Solutions/project-nomad]
+4. obra / superpowers [URL:https://github.com/obra/superpowers]
+5. abhigyanpatwari / GitNexus [URL:https://github.com/abhigyanpatwari/GitNexus]
+6. lightpanda-io / browser [URL:https://github.com/lightpanda-io/browser]
+7. volcengine / OpenViking [URL:https://github.com/volcengine/OpenViking]
+8. shareAI-lab / learn-claude-code [URL:https://github.com/shareAI-lab/learn-claude-code]
+9. p-e-w / heretic [URL:https://github.com/p-e-w/heretic]
+10. langchain-ai / deepagents [URL:https://github.com/langchain-ai/deepagents]
+11. YishenTu / claudian [URL:https://github.com/YishenTu/claudian]
+12. voidzero-dev / vite-plus [URL:https://github.com/voidzero-dev/vite-plus]
+
