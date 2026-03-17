@@ -1,0 +1,8 @@
+github
+1. obra / superpowers [URL:https://github.com/obra/superpowers]
+2. codecrafters-io / build-your-own-x [URL:https://github.com/codecrafters-io/build-your-own-x]
+3. abhigyanpatwari / GitNexus [URL:https://github.com/abhigyanpatwari/GitNexus]
+4. langchain-ai / deepagents [URL:https://github.com/langchain-ai/deepagents]
+5. jarrodwatts / claude-hud [URL:https://github.com/jarrodwatts/claude-hud]
+6. cloudflare / workerd [URL:https://github.com/cloudflare/workerd]
+
