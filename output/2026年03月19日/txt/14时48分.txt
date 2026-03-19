@@ -1,0 +1,8 @@
+github
+1. jarrodwatts / claude-hud [URL:https://github.com/jarrodwatts/claude-hud]
+2. obra / superpowers [URL:https://github.com/obra/superpowers]
+3. unslothai / unsloth [URL:https://github.com/unslothai/unsloth]
+4. newton-physics / newton [URL:https://github.com/newton-physics/newton]
+5. shadps4-emu / shadPS4 [URL:https://github.com/shadps4-emu/shadPS4]
+6. langchain-ai / open-swe [URL:https://github.com/langchain-ai/open-swe]
+
