@@ -1,0 +1,14 @@
+github
+1. opendataloader-project / opendataloader-pdf [URL:https://github.com/opendataloader-project/opendataloader-pdf]
+2. langchain-ai / open-swe [URL:https://github.com/langchain-ai/open-swe]
+3. obra / superpowers [URL:https://github.com/obra/superpowers]
+4. jarrodwatts / claude-hud [URL:https://github.com/jarrodwatts/claude-hud]
+5. unslothai / unsloth [URL:https://github.com/unslothai/unsloth]
+6. mobile-dev-inc / Maestro [URL:https://github.com/mobile-dev-inc/Maestro]
+7. tw93 / Mole [URL:https://github.com/tw93/Mole]
+8. newton-physics / newton [URL:https://github.com/newton-physics/newton]
+9. louis-e / arnis [URL:https://github.com/louis-e/arnis]
+10. FujiwaraChoki / MoneyPrinterV2 [URL:https://github.com/FujiwaraChoki/MoneyPrinterV2]
+11. gsd-build / get-shit-done [URL:https://github.com/gsd-build/get-shit-done]
+12. shareAI-lab / learn-claude-code [URL:https://github.com/shareAI-lab/learn-claude-code]
+
