@@ -1,0 +1,11 @@
+github
+1. jarrodwatts / claude-hud [URL:https://github.com/jarrodwatts/claude-hud]
+2. langchain-ai / open-swe [URL:https://github.com/langchain-ai/open-swe]
+3. obra / superpowers [URL:https://github.com/obra/superpowers]
+4. opendataloader-project / opendataloader-pdf [URL:https://github.com/opendataloader-project/opendataloader-pdf]
+5. louis-e / arnis [URL:https://github.com/louis-e/arnis]
+6. newton-physics / newton [URL:https://github.com/newton-physics/newton]
+7. vas3k / TaxHacker [URL:https://github.com/vas3k/TaxHacker]
+8. TauricResearch / TradingAgents [URL:https://github.com/TauricResearch/TradingAgents]
+9. openrocket / openrocket [URL:https://github.com/openrocket/openrocket]
+
