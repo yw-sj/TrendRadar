@@ -1,0 +1,11 @@
+github
+1. FujiwaraChoki / MoneyPrinterV2 [URL:https://github.com/FujiwaraChoki/MoneyPrinterV2]
+2. systemd / systemd [URL:https://github.com/systemd/systemd]
+3. aquasecurity / trivy [URL:https://github.com/aquasecurity/trivy]
+4. Crosstalk-Solutions / project-nomad [URL:https://github.com/Crosstalk-Solutions/project-nomad]
+5. opendataloader-project / opendataloader-pdf [URL:https://github.com/opendataloader-project/opendataloader-pdf]
+6. jarrodwatts / claude-hud [URL:https://github.com/jarrodwatts/claude-hud]
+7. protocolbuffers / protobuf [URL:https://github.com/protocolbuffers/protobuf]
+8. vllm-project / vllm-omni [URL:https://github.com/vllm-project/vllm-omni]
+9. louis-e / arnis [URL:https://github.com/louis-e/arnis]
+
