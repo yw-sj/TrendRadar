@@ -1,0 +1,16 @@
+github
+1. pascalorg / editor [URL:https://github.com/pascalorg/editor]
+2. bytedance / deer-flow [URL:https://github.com/bytedance/deer-flow]
+3. supermemoryai / supermemory [URL:https://github.com/supermemoryai/supermemory]
+4. FujiwaraChoki / MoneyPrinterV2 [URL:https://github.com/FujiwaraChoki/MoneyPrinterV2]
+5. harry0703 / MoneyPrinterTurbo [URL:https://github.com/harry0703/MoneyPrinterTurbo]
+6. Crosstalk-Solutions / project-nomad [URL:https://github.com/Crosstalk-Solutions/project-nomad]
+7. TauricResearch / TradingAgents [URL:https://github.com/TauricResearch/TradingAgents]
+8. mvanhorn / last30days-skill [URL:https://github.com/mvanhorn/last30days-skill]
+9. ruvnet / ruflo [URL:https://github.com/ruvnet/ruflo]
+10. NousResearch / hermes-agent [URL:https://github.com/NousResearch/hermes-agent]
+11. hesreallyhim / awesome-claude-code [URL:https://github.com/hesreallyhim/awesome-claude-code]
+12. hsliuping / TradingAgents-CN [URL:https://github.com/hsliuping/TradingAgents-CN]
+13. aquasecurity / trivy [URL:https://github.com/aquasecurity/trivy]
+14. ruvnet / RuView [URL:https://github.com/ruvnet/RuView]
+
