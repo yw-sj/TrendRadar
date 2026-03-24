@@ -1,0 +1,17 @@
+github
+1. FujiwaraChoki / MoneyPrinterV2 [URL:https://github.com/FujiwaraChoki/MoneyPrinterV2]
+2. bytedance / deer-flow [URL:https://github.com/bytedance/deer-flow]
+3. Crosstalk-Solutions / project-nomad [URL:https://github.com/Crosstalk-Solutions/project-nomad]
+4. vxcontrol / pentagi [URL:https://github.com/vxcontrol/pentagi]
+5. browser-use / browser-use [URL:https://github.com/browser-use/browser-use]
+6. TauricResearch / TradingAgents [URL:https://github.com/TauricResearch/TradingAgents]
+7. tinygrad / tinygrad [URL:https://github.com/tinygrad/tinygrad]
+8. affaan-m / everything-claude-code [URL:https://github.com/affaan-m/everything-claude-code]
+9. NousResearch / hermes-agent [URL:https://github.com/NousResearch/hermes-agent]
+10. jingyaogong / minimind [URL:https://github.com/jingyaogong/minimind]
+11. hsliuping / TradingAgents-CN [URL:https://github.com/hsliuping/TradingAgents-CN]
+12. kepano / obsidian-skills [URL:https://github.com/kepano/obsidian-skills]
+13. czlonkowski / n8n-mcp [URL:https://github.com/czlonkowski/n8n-mcp]
+14. iptv-org / iptv [URL:https://github.com/iptv-org/iptv]
+15. hesreallyhim / awesome-claude-code [URL:https://github.com/hesreallyhim/awesome-claude-code]
+
