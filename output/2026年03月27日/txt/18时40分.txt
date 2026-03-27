@@ -1,0 +1,12 @@
+github
+1. mvanhorn / last30days-skill [URL:https://github.com/mvanhorn/last30days-skill]
+2. Yeachan-Heo / oh-my-claudecode [URL:https://github.com/Yeachan-Heo/oh-my-claudecode]
+3. virattt / dexter [URL:https://github.com/virattt/dexter]
+4. ruvnet / RuView [URL:https://github.com/ruvnet/RuView]
+5. bytedance / deer-flow [URL:https://github.com/bytedance/deer-flow]
+6. Vaibhavs10 / insanely-fast-whisper [URL:https://github.com/Vaibhavs10/insanely-fast-whisper]
+7. agentscope-ai / agentscope [URL:https://github.com/agentscope-ai/agentscope]
+8. twentyhq / twenty [URL:https://github.com/twentyhq/twenty]
+9. datalab-to / chandra [URL:https://github.com/datalab-to/chandra]
+10. figma / mcp-server-guide [URL:https://github.com/figma/mcp-server-guide]
+
