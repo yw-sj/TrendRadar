@@ -1,0 +1,14 @@
+github
+1. mvanhorn / last30days-skill [URL:https://github.com/mvanhorn/last30days-skill]
+2. hacksider / Deep-Live-Cam [URL:https://github.com/hacksider/Deep-Live-Cam]
+3. SakanaAI / AI-Scientist-v2 [URL:https://github.com/SakanaAI/AI-Scientist-v2]
+4. microsoft / VibeVoice [URL:https://github.com/microsoft/VibeVoice]
+5. twentyhq / twenty [URL:https://github.com/twentyhq/twenty]
+6. datalab-to / chandra [URL:https://github.com/datalab-to/chandra]
+7. obra / superpowers [URL:https://github.com/obra/superpowers]
+8. virattt / dexter [URL:https://github.com/virattt/dexter]
+9. Yeachan-Heo / oh-my-claudecode [URL:https://github.com/Yeachan-Heo/oh-my-claudecode]
+10. FreeCAD / FreeCAD [URL:https://github.com/FreeCAD/FreeCAD]
+11. Vaibhavs10 / insanely-fast-whisper [URL:https://github.com/Vaibhavs10/insanely-fast-whisper]
+12. onyx-dot-app / onyx [URL:https://github.com/onyx-dot-app/onyx]
+
