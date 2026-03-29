@@ -1,0 +1,15 @@
+github
+1. luongnv89 / claude-howto [URL:https://github.com/luongnv89/claude-howto]
+2. Yeachan-Heo / oh-my-claudecode [URL:https://github.com/Yeachan-Heo/oh-my-claudecode]
+3. microsoft / VibeVoice [URL:https://github.com/microsoft/VibeVoice]
+4. NousResearch / hermes-agent [URL:https://github.com/NousResearch/hermes-agent]
+5. OpenBB-finance / OpenBB [URL:https://github.com/OpenBB-finance/OpenBB]
+6. obra / superpowers [URL:https://github.com/obra/superpowers]
+7. thedotmack / claude-mem [URL:https://github.com/thedotmack/claude-mem]
+8. hacksider / Deep-Live-Cam [URL:https://github.com/hacksider/Deep-Live-Cam]
+9. mvanhorn / last30days-skill [URL:https://github.com/mvanhorn/last30days-skill]
+10. shareAI-lab / learn-claude-code [URL:https://github.com/shareAI-lab/learn-claude-code]
+11. fastfetch-cli / fastfetch [URL:https://github.com/fastfetch-cli/fastfetch]
+12. moeru-ai / airi [URL:https://github.com/moeru-ai/airi]
+13. twentyhq / twenty [URL:https://github.com/twentyhq/twenty]
+
