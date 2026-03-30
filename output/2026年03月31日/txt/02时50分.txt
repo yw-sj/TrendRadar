@@ -1,0 +1,13 @@
+github
+1. microsoft / VibeVoice [URL:https://github.com/microsoft/VibeVoice]
+2. luongnv89 / claude-howto [URL:https://github.com/luongnv89/claude-howto]
+3. Yeachan-Heo / oh-my-claudecode [URL:https://github.com/Yeachan-Heo/oh-my-claudecode]
+4. shanraisshan / claude-code-best-practice [URL:https://github.com/shanraisshan/claude-code-best-practice]
+5. hacksider / Deep-Live-Cam [URL:https://github.com/hacksider/Deep-Live-Cam]
+6. OpenBB-finance / OpenBB [URL:https://github.com/OpenBB-finance/OpenBB]
+7. freeCodeCamp / freeCodeCamp [URL:https://github.com/freeCodeCamp/freeCodeCamp]
+8. sherlock-project / sherlock [URL:https://github.com/sherlock-project/sherlock]
+9. apache / superset [URL:https://github.com/apache/superset]
+10. fastfetch-cli / fastfetch [URL:https://github.com/fastfetch-cli/fastfetch]
+11. NousResearch / hermes-agent [URL:https://github.com/NousResearch/hermes-agent]
+
