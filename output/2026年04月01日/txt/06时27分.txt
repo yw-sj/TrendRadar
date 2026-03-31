@@ -1,0 +1,16 @@
+github
+1. luongnv89 / claude-howto [URL:https://github.com/luongnv89/claude-howto]
+2. microsoft / VibeVoice [URL:https://github.com/microsoft/VibeVoice]
+3. Yeachan-Heo / oh-my-claudecode [URL:https://github.com/Yeachan-Heo/oh-my-claudecode]
+4. shanraisshan / claude-code-best-practice [URL:https://github.com/shanraisshan/claude-code-best-practice]
+5. NousResearch / hermes-agent [URL:https://github.com/NousResearch/hermes-agent]
+6. obra / superpowers [URL:https://github.com/obra/superpowers]
+7. microsoft / agent-lightning [URL:https://github.com/microsoft/agent-lightning]
+8. PaddlePaddle / PaddleOCR [URL:https://github.com/PaddlePaddle/PaddleOCR]
+9. Dimillian / Skills [URL:https://github.com/Dimillian/Skills]
+10. sherlock-project / sherlock [URL:https://github.com/sherlock-project/sherlock]
+11. neovim / neovim [URL:https://github.com/neovim/neovim]
+12. vas3k / TaxHacker [URL:https://github.com/vas3k/TaxHacker]
+13. OpenBMB / ChatDev [URL:https://github.com/OpenBMB/ChatDev]
+14. jwasham / coding-interview-university [URL:https://github.com/jwasham/coding-interview-university]
+
