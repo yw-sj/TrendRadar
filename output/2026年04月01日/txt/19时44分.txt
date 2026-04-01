@@ -1,0 +1,10 @@
+github
+1. anthropics / claude-code [URL:https://github.com/anthropics/claude-code]
+2. microsoft / VibeVoice [URL:https://github.com/microsoft/VibeVoice]
+3. shanraisshan / claude-code-best-practice [URL:https://github.com/shanraisshan/claude-code-best-practice]
+4. google-research / timesfm [URL:https://github.com/google-research/timesfm]
+5. luongnv89 / claude-howto [URL:https://github.com/luongnv89/claude-howto]
+6. axios / axios [URL:https://github.com/axios/axios]
+7. openai / codex [URL:https://github.com/openai/codex]
+8. f / prompts.chat [URL:https://github.com/f/prompts.chat]
+
