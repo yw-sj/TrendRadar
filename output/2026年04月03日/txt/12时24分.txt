@@ -1,0 +1,6 @@
+github
+1. siddharthvaddem / openscreen [URL:https://github.com/siddharthvaddem/openscreen]
+2. Yeachan-Heo / oh-my-codex [URL:https://github.com/Yeachan-Heo/oh-my-codex]
+3. asgeirtj / system_prompts_leaks [URL:https://github.com/asgeirtj/system_prompts_leaks]
+4. sherlock-project / sherlock [URL:https://github.com/sherlock-project/sherlock]
+
