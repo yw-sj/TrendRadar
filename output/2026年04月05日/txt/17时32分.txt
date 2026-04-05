@@ -1,0 +1,10 @@
+github
+1. Blaizzy / mlx-vlm [URL:https://github.com/Blaizzy/mlx-vlm]
+2. onyx-dot-app / onyx [URL:https://github.com/onyx-dot-app/onyx]
+3. Yeachan-Heo / oh-my-codex [URL:https://github.com/Yeachan-Heo/oh-my-codex]
+4. siddharthvaddem / openscreen [URL:https://github.com/siddharthvaddem/openscreen]
+5. telegramdesktop / tdesktop [URL:https://github.com/telegramdesktop/tdesktop]
+6. block / goose [URL:https://github.com/block/goose]
+7. microsoft / agent-framework [URL:https://github.com/microsoft/agent-framework]
+8. sherlock-project / sherlock [URL:https://github.com/sherlock-project/sherlock]
+
