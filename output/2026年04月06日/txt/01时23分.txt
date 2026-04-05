@@ -1,0 +1,12 @@
+github
+1. google-ai-edge / gallery [URL:https://github.com/google-ai-edge/gallery]
+2. Blaizzy / mlx-vlm [URL:https://github.com/Blaizzy/mlx-vlm]
+3. siddharthvaddem / openscreen [URL:https://github.com/siddharthvaddem/openscreen]
+4. block / goose [URL:https://github.com/block/goose]
+5. onyx-dot-app / onyx [URL:https://github.com/onyx-dot-app/onyx]
+6. badlogic / pi-mono [URL:https://github.com/badlogic/pi-mono]
+7. dmtrKovalenko / fff.nvim [URL:https://github.com/dmtrKovalenko/fff.nvim]
+8. google-ai-edge / LiteRT-LM [URL:https://github.com/google-ai-edge/LiteRT-LM]
+9. telegramdesktop / tdesktop [URL:https://github.com/telegramdesktop/tdesktop]
+10. freeCodeCamp / freeCodeCamp [URL:https://github.com/freeCodeCamp/freeCodeCamp]
+
