@@ -1,0 +1,11 @@
+github
+1. google-ai-edge / gallery [URL:https://github.com/google-ai-edge/gallery]
+2. google-ai-edge / LiteRT-LM [URL:https://github.com/google-ai-edge/LiteRT-LM]
+3. NVIDIA / personaplex [URL:https://github.com/NVIDIA/personaplex]
+4. abhigyanpatwari / GitNexus [URL:https://github.com/abhigyanpatwari/GitNexus]
+5. tobi / qmd [URL:https://github.com/tobi/qmd]
+6. forrestchang / andrej-karpathy-skills [URL:https://github.com/forrestchang/andrej-karpathy-skills]
+7. elebumm / RedditVideoMakerBot [URL:https://github.com/elebumm/RedditVideoMakerBot]
+8. HKUDS / DeepTutor [URL:https://github.com/HKUDS/DeepTutor]
+9. TheCraigHewitt / seomachine [URL:https://github.com/TheCraigHewitt/seomachine]
+
