@@ -1,0 +1,16 @@
+github
+1. abhigyanpatwari / GitNexus [URL:https://github.com/abhigyanpatwari/GitNexus]
+2. google-ai-edge / gallery [URL:https://github.com/google-ai-edge/gallery]
+3. aaif-goose / goose [URL:https://github.com/aaif-goose/goose]
+4. google-ai-edge / LiteRT-LM [URL:https://github.com/google-ai-edge/LiteRT-LM]
+5. immich-app / immich [URL:https://github.com/immich-app/immich]
+6. KeygraphHQ / shannon [URL:https://github.com/KeygraphHQ/shannon]
+7. NousResearch / hermes-agent [URL:https://github.com/NousResearch/hermes-agent]
+8. tobi / qmd [URL:https://github.com/tobi/qmd]
+9. TelegramMessenger / Telegram-iOS [URL:https://github.com/TelegramMessenger/Telegram-iOS]
+10. kepano / obsidian-skills [URL:https://github.com/kepano/obsidian-skills]
+11. ollama / ollama [URL:https://github.com/ollama/ollama]
+12. ggml-org / llama.cpp [URL:https://github.com/ggml-org/llama.cpp]
+13. siddharthvaddem / openscreen [URL:https://github.com/siddharthvaddem/openscreen]
+14. NVIDIA / personaplex [URL:https://github.com/NVIDIA/personaplex]
+
