@@ -1,0 +1,13 @@
+github
+1. forrestchang / andrej-karpathy-skills [URL:https://github.com/forrestchang/andrej-karpathy-skills]
+2. TheCraigHewitt / seomachine [URL:https://github.com/TheCraigHewitt/seomachine]
+3. google-ai-edge / gallery [URL:https://github.com/google-ai-edge/gallery]
+4. NVIDIA / personaplex [URL:https://github.com/NVIDIA/personaplex]
+5. google-ai-edge / LiteRT-LM [URL:https://github.com/google-ai-edge/LiteRT-LM]
+6. elebumm / RedditVideoMakerBot [URL:https://github.com/elebumm/RedditVideoMakerBot]
+7. obra / superpowers [URL:https://github.com/obra/superpowers]
+8. newton-physics / newton [URL:https://github.com/newton-physics/newton]
+9. abhigyanpatwari / GitNexus [URL:https://github.com/abhigyanpatwari/GitNexus]
+10. virattt / ai-hedge-fund [URL:https://github.com/virattt/ai-hedge-fund]
+11. goharbor / harbor [URL:https://github.com/goharbor/harbor]
+
