@@ -1,0 +1,12 @@
+github
+1. NousResearch / hermes-agent [URL:https://github.com/NousResearch/hermes-agent]
+2. forrestchang / andrej-karpathy-skills [URL:https://github.com/forrestchang/andrej-karpathy-skills]
+3. HKUDS / DeepTutor [URL:https://github.com/HKUDS/DeepTutor]
+4. OpenBMB / VoxCPM [URL:https://github.com/OpenBMB/VoxCPM]
+5. opendataloader-project / opendataloader-pdf [URL:https://github.com/opendataloader-project/opendataloader-pdf]
+6. obra / superpowers [URL:https://github.com/obra/superpowers]
+7. TheCraigHewitt / seomachine [URL:https://github.com/TheCraigHewitt/seomachine]
+8. coleam00 / Archon [URL:https://github.com/coleam00/Archon]
+9. shiyu-coder / Kronos [URL:https://github.com/shiyu-coder/Kronos]
+10. YishenTu / claudian [URL:https://github.com/YishenTu/claudian]
+
