@@ -1,0 +1,14 @@
+github
+1. microsoft / markitdown [URL:https://github.com/microsoft/markitdown]
+2. coleam00 / Archon [URL:https://github.com/coleam00/Archon]
+3. NousResearch / hermes-agent [URL:https://github.com/NousResearch/hermes-agent]
+4. rowboatlabs / rowboat [URL:https://github.com/rowboatlabs/rowboat]
+5. multica-ai / multica [URL:https://github.com/multica-ai/multica]
+6. forrestchang / andrej-karpathy-skills [URL:https://github.com/forrestchang/andrej-karpathy-skills]
+7. shiyu-coder / Kronos [URL:https://github.com/shiyu-coder/Kronos]
+8. HKUDS / DeepTutor [URL:https://github.com/HKUDS/DeepTutor]
+9. opendataloader-project / opendataloader-pdf [URL:https://github.com/opendataloader-project/opendataloader-pdf]
+10. obra / superpowers [URL:https://github.com/obra/superpowers]
+11. jqlang / jq [URL:https://github.com/jqlang/jq]
+12. shanraisshan / claude-code-best-practice [URL:https://github.com/shanraisshan/claude-code-best-practice]
+
