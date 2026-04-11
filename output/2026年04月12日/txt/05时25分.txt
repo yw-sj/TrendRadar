@@ -1,0 +1,15 @@
+github
+1. NousResearch / hermes-agent [URL:https://github.com/NousResearch/hermes-agent]
+2. microsoft / markitdown [URL:https://github.com/microsoft/markitdown]
+3. coleam00 / Archon [URL:https://github.com/coleam00/Archon]
+4. forrestchang / andrej-karpathy-skills [URL:https://github.com/forrestchang/andrej-karpathy-skills]
+5. multica-ai / multica [URL:https://github.com/multica-ai/multica]
+6. shanraisshan / claude-code-best-practice [URL:https://github.com/shanraisshan/claude-code-best-practice]
+7. TapXWorld / ChinaTextbook [URL:https://github.com/TapXWorld/ChinaTextbook]
+8. OpenBMB / VoxCPM [URL:https://github.com/OpenBMB/VoxCPM]
+9. shiyu-coder / Kronos [URL:https://github.com/shiyu-coder/Kronos]
+10. opendataloader-project / opendataloader-pdf [URL:https://github.com/opendataloader-project/opendataloader-pdf]
+11. HKUDS / DeepTutor [URL:https://github.com/HKUDS/DeepTutor]
+12. obra / superpowers [URL:https://github.com/obra/superpowers]
+13. alexpate / awesome-design-systems [URL:https://github.com/alexpate/awesome-design-systems]
+
