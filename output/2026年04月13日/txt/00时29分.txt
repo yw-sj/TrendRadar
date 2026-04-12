@@ -1,0 +1,16 @@
+github
+1. NousResearch / hermes-agent [URL:https://github.com/NousResearch/hermes-agent]
+2. shiyu-coder / Kronos [URL:https://github.com/shiyu-coder/Kronos]
+3. forrestchang / andrej-karpathy-skills [URL:https://github.com/forrestchang/andrej-karpathy-skills]
+4. microsoft / markitdown [URL:https://github.com/microsoft/markitdown]
+5. multica-ai / multica [URL:https://github.com/multica-ai/multica]
+6. coleam00 / Archon [URL:https://github.com/coleam00/Archon]
+7. shanraisshan / claude-code-best-practice [URL:https://github.com/shanraisshan/claude-code-best-practice]
+8. OpenBMB / VoxCPM [URL:https://github.com/OpenBMB/VoxCPM]
+9. thedotmack / claude-mem [URL:https://github.com/thedotmack/claude-mem]
+10. ahujasid / blender-mcp [URL:https://github.com/ahujasid/blender-mcp]
+11. rustfs / rustfs [URL:https://github.com/rustfs/rustfs]
+12. virattt / ai-hedge-fund [URL:https://github.com/virattt/ai-hedge-fund]
+13. snarktank / ralph [URL:https://github.com/snarktank/ralph]
+14. TapXWorld / ChinaTextbook [URL:https://github.com/TapXWorld/ChinaTextbook]
+
