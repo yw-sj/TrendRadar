@@ -1,0 +1,15 @@
+github
+1. forrestchang / andrej-karpathy-skills [URL:https://github.com/forrestchang/andrej-karpathy-skills]
+2. thedotmack / claude-mem [URL:https://github.com/thedotmack/claude-mem]
+3. jamiepine / voicebox [URL:https://github.com/jamiepine/voicebox]
+4. pascalorg / editor [URL:https://github.com/pascalorg/editor]
+5. microsoft / markitdown [URL:https://github.com/microsoft/markitdown]
+6. obra / superpowers [URL:https://github.com/obra/superpowers]
+7. chrislgarry / Apollo-11 [URL:https://github.com/chrislgarry/Apollo-11]
+8. virattt / ai-hedge-fund [URL:https://github.com/virattt/ai-hedge-fund]
+9. shiyu-coder / Kronos [URL:https://github.com/shiyu-coder/Kronos]
+10. NousResearch / hermes-agent [URL:https://github.com/NousResearch/hermes-agent]
+11. anthropics / claude-cookbooks [URL:https://github.com/anthropics/claude-cookbooks]
+12. tw93 / Mole [URL:https://github.com/tw93/Mole]
+13. shanraisshan / claude-code-best-practice [URL:https://github.com/shanraisshan/claude-code-best-practice]
+
