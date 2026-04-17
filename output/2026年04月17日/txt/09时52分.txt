@@ -1,0 +1,16 @@
+github
+1. forrestchang / andrej-karpathy-skills [URL:https://github.com/forrestchang/andrej-karpathy-skills]
+2. thedotmack / claude-mem [URL:https://github.com/thedotmack/claude-mem]
+3. lsdefine / GenericAgent [URL:https://github.com/lsdefine/GenericAgent]
+4. jamiepine / voicebox [URL:https://github.com/jamiepine/voicebox]
+5. vercel-labs / open-agents [URL:https://github.com/vercel-labs/open-agents]
+6. google / magika [URL:https://github.com/google/magika]
+7. steipete / wacli [URL:https://github.com/steipete/wacli]
+8. topoteretes / cognee [URL:https://github.com/topoteretes/cognee]
+9. z-lab / dflash [URL:https://github.com/z-lab/dflash]
+10. Lordog / dive-into-llms [URL:https://github.com/Lordog/dive-into-llms]
+11. openai / openai-agents-python [URL:https://github.com/openai/openai-agents-python]
+12. EvoMap / evolver [URL:https://github.com/EvoMap/evolver]
+13. SimoneAvogadro / android-reverse-engineering-skill [URL:https://github.com/SimoneAvogadro/android-reverse-engineering-skill]
+14. BasedHardware / omi [URL:https://github.com/BasedHardware/omi]
+
