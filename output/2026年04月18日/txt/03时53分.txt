@@ -1,0 +1,17 @@
+github
+1. EvoMap / evolver [URL:https://github.com/EvoMap/evolver]
+2. lsdefine / GenericAgent [URL:https://github.com/lsdefine/GenericAgent]
+3. SimoneAvogadro / android-reverse-engineering-skill [URL:https://github.com/SimoneAvogadro/android-reverse-engineering-skill]
+4. BasedHardware / omi [URL:https://github.com/BasedHardware/omi]
+5. Lordog / dive-into-llms [URL:https://github.com/Lordog/dive-into-llms]
+6. Donchitos / Claude-Code-Game-Studios [URL:https://github.com/Donchitos/Claude-Code-Game-Studios]
+7. jamiepine / voicebox [URL:https://github.com/jamiepine/voicebox]
+8. lukilabs / craft-agents-oss [URL:https://github.com/lukilabs/craft-agents-oss]
+9. Tracer-Cloud / opensre [URL:https://github.com/Tracer-Cloud/opensre]
+10. obra / superpowers [URL:https://github.com/obra/superpowers]
+11. z-lab / dflash [URL:https://github.com/z-lab/dflash]
+12. openai / openai-agents-python [URL:https://github.com/openai/openai-agents-python]
+13. google / magika [URL:https://github.com/google/magika]
+14. pingdotgg / t3code [URL:https://github.com/pingdotgg/t3code]
+15. ChromeDevTools / chrome-devtools-mcp [URL:https://github.com/ChromeDevTools/chrome-devtools-mcp]
+
