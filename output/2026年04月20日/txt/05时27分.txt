@@ -1,0 +1,12 @@
+github
+1. Fincept-Corporation / FinceptTerminal [URL:https://github.com/Fincept-Corporation/FinceptTerminal]
+2. thunderbird / thunderbolt [URL:https://github.com/thunderbird/thunderbolt]
+3. tractorjuice / arc-kit [URL:https://github.com/tractorjuice/arc-kit]
+4. openai / openai-agents-python [URL:https://github.com/openai/openai-agents-python]
+5. pingdotgg / t3code [URL:https://github.com/pingdotgg/t3code]
+6. paperless-ngx / paperless-ngx [URL:https://github.com/paperless-ngx/paperless-ngx]
+7. ruvnet / RuView [URL:https://github.com/ruvnet/RuView]
+8. EvoMap / evolver [URL:https://github.com/EvoMap/evolver]
+9. BasedHardware / omi [URL:https://github.com/BasedHardware/omi]
+10. Donchitos / Claude-Code-Game-Studios [URL:https://github.com/Donchitos/Claude-Code-Game-Studios]
+
