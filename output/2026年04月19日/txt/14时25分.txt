@@ -1,0 +1,12 @@
+github
+1. thunderbird / thunderbolt [URL:https://github.com/thunderbird/thunderbolt]
+2. BasedHardware / omi [URL:https://github.com/BasedHardware/omi]
+3. openai / openai-agents-python [URL:https://github.com/openai/openai-agents-python]
+4. EvoMap / evolver [URL:https://github.com/EvoMap/evolver]
+5. deepseek-ai / DeepGEMM [URL:https://github.com/deepseek-ai/DeepGEMM]
+6. Lordog / dive-into-llms [URL:https://github.com/Lordog/dive-into-llms]
+7. aaddrick / claude-desktop-debian [URL:https://github.com/aaddrick/claude-desktop-debian]
+8. rustdesk / rustdesk [URL:https://github.com/rustdesk/rustdesk]
+9. SimoneAvogadro / android-reverse-engineering-skill [URL:https://github.com/SimoneAvogadro/android-reverse-engineering-skill]
+10. tractorjuice / arc-kit [URL:https://github.com/tractorjuice/arc-kit]
+
