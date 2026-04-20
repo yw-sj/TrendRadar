@@ -1,0 +1,12 @@
+github
+1. Fincept-Corporation / FinceptTerminal [URL:https://github.com/Fincept-Corporation/FinceptTerminal]
+2. ruvnet / RuView [URL:https://github.com/ruvnet/RuView]
+3. thunderbird / thunderbolt [URL:https://github.com/thunderbird/thunderbolt]
+4. paperless-ngx / paperless-ngx [URL:https://github.com/paperless-ngx/paperless-ngx]
+5. tractorjuice / arc-kit [URL:https://github.com/tractorjuice/arc-kit]
+6. koala73 / worldmonitor [URL:https://github.com/koala73/worldmonitor]
+7. openai / openai-agents-python [URL:https://github.com/openai/openai-agents-python]
+8. deepseek-ai / DeepGEMM [URL:https://github.com/deepseek-ai/DeepGEMM]
+9. pi-hole / pi-hole [URL:https://github.com/pi-hole/pi-hole]
+10. XTLS / Xray-core [URL:https://github.com/XTLS/Xray-core]
+
