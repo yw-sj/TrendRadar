@@ -1,0 +1,10 @@
+github
+1. Fincept-Corporation / FinceptTerminal [URL:https://github.com/Fincept-Corporation/FinceptTerminal]
+2. thunderbird / thunderbolt [URL:https://github.com/thunderbird/thunderbolt]
+3. zilliztech / claude-context [URL:https://github.com/zilliztech/claude-context]
+4. ruvnet / RuView [URL:https://github.com/ruvnet/RuView]
+5. microsoft / ai-agents-for-beginners [URL:https://github.com/microsoft/ai-agents-for-beginners]
+6. dayanch96 / YTLite [URL:https://github.com/dayanch96/YTLite]
+7. HKUDS / RAG-Anything [URL:https://github.com/HKUDS/RAG-Anything]
+8. sansan0 / TrendRadar [URL:https://github.com/sansan0/TrendRadar]
+
