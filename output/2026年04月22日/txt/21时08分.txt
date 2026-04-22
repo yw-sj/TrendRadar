@@ -1,0 +1,14 @@
+github
+1. zilliztech / claude-context [URL:https://github.com/zilliztech/claude-context]
+2. Fincept-Corporation / FinceptTerminal [URL:https://github.com/Fincept-Corporation/FinceptTerminal]
+3. koala73 / worldmonitor [URL:https://github.com/koala73/worldmonitor]
+4. langfuse / langfuse [URL:https://github.com/langfuse/langfuse]
+5. KeygraphHQ / shannon [URL:https://github.com/KeygraphHQ/shannon]
+6. open-metadata / OpenMetadata [URL:https://github.com/open-metadata/OpenMetadata]
+7. ruvnet / RuView [URL:https://github.com/ruvnet/RuView]
+8. HKUDS / RAG-Anything [URL:https://github.com/HKUDS/RAG-Anything]
+9. sansan0 / TrendRadar [URL:https://github.com/sansan0/TrendRadar]
+10. AIDC-AI / Pixelle-Video [URL:https://github.com/AIDC-AI/Pixelle-Video]
+11. Z4nzu / hackingtool [URL:https://github.com/Z4nzu/hackingtool]
+12. vercel-labs / skills [URL:https://github.com/vercel-labs/skills]
+
