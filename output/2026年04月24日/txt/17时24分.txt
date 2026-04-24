@@ -1,0 +1,18 @@
+github
+1. huggingface / ml-intern [URL:https://github.com/huggingface/ml-intern]
+2. zilliztech / claude-context [URL:https://github.com/zilliztech/claude-context]
+3. HKUDS / RAG-Anything [URL:https://github.com/HKUDS/RAG-Anything]
+4. Z4nzu / hackingtool [URL:https://github.com/Z4nzu/hackingtool]
+5. ruvnet / RuView [URL:https://github.com/ruvnet/RuView]
+6. Anil-matcha / Open-Generative-AI [URL:https://github.com/Anil-matcha/Open-Generative-AI]
+7. Alishahryar1 / free-claude-code [URL:https://github.com/Alishahryar1/free-claude-code]
+8. open-metadata / OpenMetadata [URL:https://github.com/open-metadata/OpenMetadata]
+9. microsoft / ai-agents-for-beginners [URL:https://github.com/microsoft/ai-agents-for-beginners]
+10. PowerShell / PowerShell [URL:https://github.com/PowerShell/PowerShell]
+11. cline / cline [URL:https://github.com/cline/cline]
+12. microsoft / onnxruntime [URL:https://github.com/microsoft/onnxruntime]
+13. mksglu / context-mode [URL:https://github.com/mksglu/context-mode]
+14. coreyhaines31 / marketingskills [URL:https://github.com/coreyhaines31/marketingskills]
+15. chiphuyen / aie-book [URL:https://github.com/chiphuyen/aie-book]
+16. VoltAgent / awesome-agent-skills [URL:https://github.com/VoltAgent/awesome-agent-skills]
+
