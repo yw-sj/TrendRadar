@@ -1,0 +1,14 @@
+github
+1. Alishahryar1 / free-claude-code [URL:https://github.com/Alishahryar1/free-claude-code]
+2. huggingface / ml-intern [URL:https://github.com/huggingface/ml-intern]
+3. google / osv-scanner [URL:https://github.com/google/osv-scanner]
+4. Z4nzu / hackingtool [URL:https://github.com/Z4nzu/hackingtool]
+5. zilliztech / claude-context [URL:https://github.com/zilliztech/claude-context]
+6. open-metadata / OpenMetadata [URL:https://github.com/open-metadata/OpenMetadata]
+7. PostHog / posthog [URL:https://github.com/PostHog/posthog]
+8. dani-garcia / vaultwarden [URL:https://github.com/dani-garcia/vaultwarden]
+9. Anil-matcha / Open-Generative-AI [URL:https://github.com/Anil-matcha/Open-Generative-AI]
+10. codecrafters-io / build-your-own-x [URL:https://github.com/codecrafters-io/build-your-own-x]
+11. deepseek-ai / DeepEP [URL:https://github.com/deepseek-ai/DeepEP]
+12. microsoft / typescript-go [URL:https://github.com/microsoft/typescript-go]
+
