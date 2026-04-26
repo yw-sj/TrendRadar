@@ -1,0 +1,15 @@
+github
+1. mattpocock / skills [URL:https://github.com/mattpocock/skills]
+2. Alishahryar1 / free-claude-code [URL:https://github.com/Alishahryar1/free-claude-code]
+3. Z4nzu / hackingtool [URL:https://github.com/Z4nzu/hackingtool]
+4. abhigyanpatwari / GitNexus [URL:https://github.com/abhigyanpatwari/GitNexus]
+5. PostHog / posthog [URL:https://github.com/PostHog/posthog]
+6. microsoft / typescript-go [URL:https://github.com/microsoft/typescript-go]
+7. trycua / cua [URL:https://github.com/trycua/cua]
+8. gastownhall / beads [URL:https://github.com/gastownhall/beads]
+9. curl / curl [URL:https://github.com/curl/curl]
+10. home-assistant / core [URL:https://github.com/home-assistant/core]
+11. codecrafters-io / build-your-own-x [URL:https://github.com/codecrafters-io/build-your-own-x]
+12. openclaw / openclaw [URL:https://github.com/openclaw/openclaw]
+13. ComposioHQ / awesome-codex-skills [URL:https://github.com/ComposioHQ/awesome-codex-skills]
+
