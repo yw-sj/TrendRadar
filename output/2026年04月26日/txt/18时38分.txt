@@ -1,0 +1,15 @@
+github
+1. Alishahryar1 / free-claude-code [URL:https://github.com/Alishahryar1/free-claude-code]
+2. mattpocock / skills [URL:https://github.com/mattpocock/skills]
+3. Z4nzu / hackingtool [URL:https://github.com/Z4nzu/hackingtool]
+4. PostHog / posthog [URL:https://github.com/PostHog/posthog]
+5. davila7 / claude-code-templates [URL:https://github.com/davila7/claude-code-templates]
+6. deepseek-ai / DeepEP [URL:https://github.com/deepseek-ai/DeepEP]
+7. PowerShell / PowerShell [URL:https://github.com/PowerShell/PowerShell]
+8. RooCodeInc / Roo-Code [URL:https://github.com/RooCodeInc/Roo-Code]
+9. huggingface / ml-intern [URL:https://github.com/huggingface/ml-intern]
+10. codecrafters-io / build-your-own-x [URL:https://github.com/codecrafters-io/build-your-own-x]
+11. CJackHwang / ds2api [URL:https://github.com/CJackHwang/ds2api]
+12. Universal-Commerce-Protocol / ucp [URL:https://github.com/Universal-Commerce-Protocol/ucp]
+13. ComposioHQ / awesome-codex-skills [URL:https://github.com/ComposioHQ/awesome-codex-skills]
+
