@@ -1,0 +1,15 @@
+github
+1. mattpocock / skills [URL:https://github.com/mattpocock/skills]
+2. abhigyanpatwari / GitNexus [URL:https://github.com/abhigyanpatwari/GitNexus]
+3. ComposioHQ / awesome-codex-skills [URL:https://github.com/ComposioHQ/awesome-codex-skills]
+4. Alishahryar1 / free-claude-code [URL:https://github.com/Alishahryar1/free-claude-code]
+5. gastownhall / beads [URL:https://github.com/gastownhall/beads]
+6. penpot / penpot [URL:https://github.com/penpot/penpot]
+7. davila7 / claude-code-templates [URL:https://github.com/davila7/claude-code-templates]
+8. microsoft / VibeVoice [URL:https://github.com/microsoft/VibeVoice]
+9. Z4nzu / hackingtool [URL:https://github.com/Z4nzu/hackingtool]
+10. TauricResearch / TradingAgents [URL:https://github.com/TauricResearch/TradingAgents]
+11. CJackHwang / ds2api [URL:https://github.com/CJackHwang/ds2api]
+12. deepseek-ai / DeepSeek-V3 [URL:https://github.com/deepseek-ai/DeepSeek-V3]
+13. donnemartin / system-design-primer [URL:https://github.com/donnemartin/system-design-primer]
+
