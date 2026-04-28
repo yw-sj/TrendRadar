@@ -1,0 +1,15 @@
+github
+1. mattpocock / skills [URL:https://github.com/mattpocock/skills]
+2. abhigyanpatwari / GitNexus [URL:https://github.com/abhigyanpatwari/GitNexus]
+3. ComposioHQ / awesome-codex-skills [URL:https://github.com/ComposioHQ/awesome-codex-skills]
+4. microsoft / VibeVoice [URL:https://github.com/microsoft/VibeVoice]
+5. davila7 / claude-code-templates [URL:https://github.com/davila7/claude-code-templates]
+6. HunxByts / GhostTrack [URL:https://github.com/HunxByts/GhostTrack]
+7. fspecii / ace-step-ui [URL:https://github.com/fspecii/ace-step-ui]
+8. public-apis / public-apis [URL:https://github.com/public-apis/public-apis]
+9. CJackHwang / ds2api [URL:https://github.com/CJackHwang/ds2api]
+10. Alishahryar1 / free-claude-code [URL:https://github.com/Alishahryar1/free-claude-code]
+11. donnemartin / system-design-primer [URL:https://github.com/donnemartin/system-design-primer]
+12. EbookFoundation / free-programming-books [URL:https://github.com/EbookFoundation/free-programming-books]
+13. iamgio / quarkdown [URL:https://github.com/iamgio/quarkdown]
+
