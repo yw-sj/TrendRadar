@@ -1,0 +1,15 @@
+github
+1. warpdotdev / warp [URL:https://github.com/warpdotdev/warp]
+2. TauricResearch / TradingAgents [URL:https://github.com/TauricResearch/TradingAgents]
+3. mattpocock / skills [URL:https://github.com/mattpocock/skills]
+4. obra / superpowers [URL:https://github.com/obra/superpowers]
+5. lukilabs / craft-agents-oss [URL:https://github.com/lukilabs/craft-agents-oss]
+6. public-apis / public-apis [URL:https://github.com/public-apis/public-apis]
+7. 1jehuang / jcode [URL:https://github.com/1jehuang/jcode]
+8. soxoj / maigret [URL:https://github.com/soxoj/maigret]
+9. HunxByts / GhostTrack [URL:https://github.com/HunxByts/GhostTrack]
+10. iamgio / quarkdown [URL:https://github.com/iamgio/quarkdown]
+11. ghostty-org / ghostty [URL:https://github.com/ghostty-org/ghostty]
+12. ForrestKnight / open-source-cs [URL:https://github.com/ForrestKnight/open-source-cs]
+13. browserbase / skills [URL:https://github.com/browserbase/skills]
+
