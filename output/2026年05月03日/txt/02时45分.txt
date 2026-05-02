@@ -1,0 +1,10 @@
+github
+1. TauricResearch / TradingAgents [URL:https://github.com/TauricResearch/TradingAgents]
+2. ruvnet / ruflo [URL:https://github.com/ruvnet/ruflo]
+3. browserbase / skills [URL:https://github.com/browserbase/skills]
+4. soxoj / maigret [URL:https://github.com/soxoj/maigret]
+5. Flowseal / zapret-discord-youtube [URL:https://github.com/Flowseal/zapret-discord-youtube]
+6. 1jehuang / jcode [URL:https://github.com/1jehuang/jcode]
+7. ShareX / ShareX [URL:https://github.com/ShareX/ShareX]
+8. jwasham / coding-interview-university [URL:https://github.com/jwasham/coding-interview-university]
+
