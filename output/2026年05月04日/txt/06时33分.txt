@@ -1,0 +1,11 @@
+github
+1. ruvnet / ruflo [URL:https://github.com/ruvnet/ruflo]
+2. TauricResearch / TradingAgents [URL:https://github.com/TauricResearch/TradingAgents]
+3. soxoj / maigret [URL:https://github.com/soxoj/maigret]
+4. Hmbown / DeepSeek-TUI [URL:https://github.com/Hmbown/DeepSeek-TUI]
+5. AIDC-AI / Pixelle-Video [URL:https://github.com/AIDC-AI/Pixelle-Video]
+6. browserbase / skills [URL:https://github.com/browserbase/skills]
+7. czlonkowski / n8n-mcp [URL:https://github.com/czlonkowski/n8n-mcp]
+8. 1jehuang / jcode [URL:https://github.com/1jehuang/jcode]
+9. openwrt / openwrt [URL:https://github.com/openwrt/openwrt]
+
