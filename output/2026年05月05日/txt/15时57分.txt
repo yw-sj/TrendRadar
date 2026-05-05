@@ -1,0 +1,17 @@
+github
+1. ruvnet / ruflo [URL:https://github.com/ruvnet/ruflo]
+2. TauricResearch / TradingAgents [URL:https://github.com/TauricResearch/TradingAgents]
+3. browserbase / skills [URL:https://github.com/browserbase/skills]
+4. Hmbown / DeepSeek-TUI [URL:https://github.com/Hmbown/DeepSeek-TUI]
+5. soxoj / maigret [URL:https://github.com/soxoj/maigret]
+6. qbittorrent / qBittorrent [URL:https://github.com/qbittorrent/qBittorrent]
+7. czlonkowski / n8n-mcp [URL:https://github.com/czlonkowski/n8n-mcp]
+8. 1jehuang / jcode [URL:https://github.com/1jehuang/jcode]
+9. msitarzewski / agency-agents [URL:https://github.com/msitarzewski/agency-agents]
+10. virattt / dexter [URL:https://github.com/virattt/dexter]
+11. Flowseal / zapret-discord-youtube [URL:https://github.com/Flowseal/zapret-discord-youtube]
+12. fspecii / ace-step-ui [URL:https://github.com/fspecii/ace-step-ui]
+13. jellyfin / jellyfin [URL:https://github.com/jellyfin/jellyfin]
+14. cocoindex-io / cocoindex [URL:https://github.com/cocoindex-io/cocoindex]
+15. docusealco / docuseal [URL:https://github.com/docusealco/docuseal]
+
