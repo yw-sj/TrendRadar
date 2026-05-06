@@ -1,0 +1,17 @@
+github
+1. Hmbown / DeepSeek-TUI [URL:https://github.com/Hmbown/DeepSeek-TUI]
+2. ruvnet / ruflo [URL:https://github.com/ruvnet/ruflo]
+3. virattt / dexter [URL:https://github.com/virattt/dexter]
+4. docusealco / docuseal [URL:https://github.com/docusealco/docuseal]
+5. bwya77 / vscode-dark-islands [URL:https://github.com/bwya77/vscode-dark-islands]
+6. mksglu / context-mode [URL:https://github.com/mksglu/context-mode]
+7. cocoindex-io / cocoindex [URL:https://github.com/cocoindex-io/cocoindex]
+8. msitarzewski / agency-agents [URL:https://github.com/msitarzewski/agency-agents]
+9. jwasham / coding-interview-university [URL:https://github.com/jwasham/coding-interview-university]
+10. Arindam200 / awesome-ai-apps [URL:https://github.com/Arindam200/awesome-ai-apps]
+11. AIDC-AI / Pixelle-Video [URL:https://github.com/AIDC-AI/Pixelle-Video]
+12. LearningCircuit / local-deep-research [URL:https://github.com/LearningCircuit/local-deep-research]
+13. browserbase / skills [URL:https://github.com/browserbase/skills]
+14. forrestchang / andrej-karpathy-skills [URL:https://github.com/forrestchang/andrej-karpathy-skills]
+15. PriorLabs / TabPFN [URL:https://github.com/PriorLabs/TabPFN]
+
