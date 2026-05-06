@@ -1,0 +1,17 @@
+github
+1. Hmbown / DeepSeek-TUI [URL:https://github.com/Hmbown/DeepSeek-TUI]
+2. addyosmani / agent-skills [URL:https://github.com/addyosmani/agent-skills]
+3. PriorLabs / TabPFN [URL:https://github.com/PriorLabs/TabPFN]
+4. docusealco / docuseal [URL:https://github.com/docusealco/docuseal]
+5. LearningCircuit / local-deep-research [URL:https://github.com/LearningCircuit/local-deep-research]
+6. LadybirdBrowser / ladybird [URL:https://github.com/LadybirdBrowser/ladybird]
+7. InsForge / InsForge [URL:https://github.com/InsForge/InsForge]
+8. virattt / dexter [URL:https://github.com/virattt/dexter]
+9. anthropics / financial-services [URL:https://github.com/anthropics/financial-services]
+10. ruvnet / ruflo [URL:https://github.com/ruvnet/ruflo]
+11. cheahjs / free-llm-api-resources [URL:https://github.com/cheahjs/free-llm-api-resources]
+12. shiyu-coder / Kronos [URL:https://github.com/shiyu-coder/Kronos]
+13. bwya77 / vscode-dark-islands [URL:https://github.com/bwya77/vscode-dark-islands]
+14. bytedance / deer-flow [URL:https://github.com/bytedance/deer-flow]
+15. D4Vinci / Scrapling [URL:https://github.com/D4Vinci/Scrapling]
+
