@@ -1,0 +1,14 @@
+github
+1. anthropics / financial-services [URL:https://github.com/anthropics/financial-services]
+2. addyosmani / agent-skills [URL:https://github.com/addyosmani/agent-skills]
+3. Hmbown / DeepSeek-TUI [URL:https://github.com/Hmbown/DeepSeek-TUI]
+4. z-lab / dflash [URL:https://github.com/z-lab/dflash]
+5. decolua / 9router [URL:https://github.com/decolua/9router]
+6. CloakHQ / CloakBrowser [URL:https://github.com/CloakHQ/CloakBrowser]
+7. awslabs / aidlc-workflows [URL:https://github.com/awslabs/aidlc-workflows]
+8. HKUDS / AI-Trader [URL:https://github.com/HKUDS/AI-Trader]
+9. LearningCircuit / local-deep-research [URL:https://github.com/LearningCircuit/local-deep-research]
+10. lobehub / lobehub [URL:https://github.com/lobehub/lobehub]
+11. datawhalechina / hello-agents [URL:https://github.com/datawhalechina/hello-agents]
+12. flutter / skills [URL:https://github.com/flutter/skills]
+
