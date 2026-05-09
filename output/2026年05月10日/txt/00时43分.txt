@@ -1,0 +1,15 @@
+github
+1. anthropics / financial-services [URL:https://github.com/anthropics/financial-services]
+2. bytedance / UI-TARS-desktop [URL:https://github.com/bytedance/UI-TARS-desktop]
+3. rohitg00 / agentmemory [URL:https://github.com/rohitg00/agentmemory]
+4. datawhalechina / hello-agents [URL:https://github.com/datawhalechina/hello-agents]
+5. datawhalechina / easy-vibe [URL:https://github.com/datawhalechina/easy-vibe]
+6. rowboatlabs / rowboat [URL:https://github.com/rowboatlabs/rowboat]
+7. ChromeDevTools / chrome-devtools-mcp [URL:https://github.com/ChromeDevTools/chrome-devtools-mcp]
+8. masterking32 / MasterDnsVPN [URL:https://github.com/masterking32/MasterDnsVPN]
+9. playcanvas / supersplat [URL:https://github.com/playcanvas/supersplat]
+10. Lordog / dive-into-llms [URL:https://github.com/Lordog/dive-into-llms]
+11. addyosmani / agent-skills [URL:https://github.com/addyosmani/agent-skills]
+12. decolua / 9router [URL:https://github.com/decolua/9router]
+13. oracle-devrel / oracle-ai-developer-hub [URL:https://github.com/oracle-devrel/oracle-ai-developer-hub]
+
