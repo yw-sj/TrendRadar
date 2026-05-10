@@ -1,0 +1,15 @@
+github
+1. bytedance / UI-TARS-desktop [URL:https://github.com/bytedance/UI-TARS-desktop]
+2. anthropics / financial-services [URL:https://github.com/anthropics/financial-services]
+3. addyosmani / agent-skills [URL:https://github.com/addyosmani/agent-skills]
+4. CloakHQ / CloakBrowser [URL:https://github.com/CloakHQ/CloakBrowser]
+5. HKUDS / AI-Trader [URL:https://github.com/HKUDS/AI-Trader]
+6. jundot / omlx [URL:https://github.com/jundot/omlx]
+7. datawhalechina / easy-vibe [URL:https://github.com/datawhalechina/easy-vibe]
+8. playcanvas / supersplat [URL:https://github.com/playcanvas/supersplat]
+9. masterking32 / MasterDnsVPN [URL:https://github.com/masterking32/MasterDnsVPN]
+10. lsdefine / GenericAgent [URL:https://github.com/lsdefine/GenericAgent]
+11. decolua / 9router [URL:https://github.com/decolua/9router]
+12. affaan-m / everything-claude-code [URL:https://github.com/affaan-m/everything-claude-code]
+13. datawhalechina / hello-agents [URL:https://github.com/datawhalechina/hello-agents]
+
