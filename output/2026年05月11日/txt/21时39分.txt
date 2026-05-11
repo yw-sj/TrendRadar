@@ -1,0 +1,15 @@
+github
+1. bytedance / UI-TARS-desktop [URL:https://github.com/bytedance/UI-TARS-desktop]
+2. CloakHQ / CloakBrowser [URL:https://github.com/CloakHQ/CloakBrowser]
+3. yikart / AiToEarn [URL:https://github.com/yikart/AiToEarn]
+4. playcanvas / supersplat [URL:https://github.com/playcanvas/supersplat]
+5. datawhalechina / easy-vibe [URL:https://github.com/datawhalechina/easy-vibe]
+6. decolua / 9router [URL:https://github.com/decolua/9router]
+7. tinyhumansai / openhuman [URL:https://github.com/tinyhumansai/openhuman]
+8. millionco / react-doctor [URL:https://github.com/millionco/react-doctor]
+9. Lordog / dive-into-llms [URL:https://github.com/Lordog/dive-into-llms]
+10. AUTOMATIC1111 / stable-diffusion-webui [URL:https://github.com/AUTOMATIC1111/stable-diffusion-webui]
+11. rasbt / LLMs-from-scratch [URL:https://github.com/rasbt/LLMs-from-scratch]
+12. NousResearch / hermes-agent [URL:https://github.com/NousResearch/hermes-agent]
+13. rohitg00 / agentmemory [URL:https://github.com/rohitg00/agentmemory]
+
