@@ -1,0 +1,13 @@
+github
+1. tinyhumansai / openhuman [URL:https://github.com/tinyhumansai/openhuman]
+2. rohitg00 / agentmemory [URL:https://github.com/rohitg00/agentmemory]
+3. CloakHQ / CloakBrowser [URL:https://github.com/CloakHQ/CloakBrowser]
+4. apernet / hysteria [URL:https://github.com/apernet/hysteria]
+5. mattpocock / skills [URL:https://github.com/mattpocock/skills]
+6. anonfaded / FadCam [URL:https://github.com/anonfaded/FadCam]
+7. millionco / react-doctor [URL:https://github.com/millionco/react-doctor]
+8. rasbt / LLMs-from-scratch [URL:https://github.com/rasbt/LLMs-from-scratch]
+9. datawhalechina / hello-agents [URL:https://github.com/datawhalechina/hello-agents]
+10. yikart / AiToEarn [URL:https://github.com/yikart/AiToEarn]
+11. HKUDS / AI-Trader [URL:https://github.com/HKUDS/AI-Trader]
+
