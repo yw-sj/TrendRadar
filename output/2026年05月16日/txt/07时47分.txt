@@ -1,0 +1,14 @@
+github
+1. tinyhumansai / openhuman [URL:https://github.com/tinyhumansai/openhuman]
+2. obra / superpowers [URL:https://github.com/obra/superpowers]
+3. K-Dense-AI / scientific-agent-skills [URL:https://github.com/K-Dense-AI/scientific-agent-skills]
+4. supertone-inc / supertonic [URL:https://github.com/supertone-inc/supertonic]
+5. ruvnet / RuView [URL:https://github.com/ruvnet/RuView]
+6. influxdata / telegraf [URL:https://github.com/influxdata/telegraf]
+7. anthropics / skills [URL:https://github.com/anthropics/skills]
+8. czlonkowski / n8n-mcp [URL:https://github.com/czlonkowski/n8n-mcp]
+9. NVIDIA-AI-Blueprints / video-search-and-summarization [URL:https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization]
+10. oven-sh / bun [URL:https://github.com/oven-sh/bun]
+11. mattpocock / skills [URL:https://github.com/mattpocock/skills]
+12. joeseesun / qiaomu-anything-to-notebooklm [URL:https://github.com/joeseesun/qiaomu-anything-to-notebooklm]
+
