@@ -1,0 +1,17 @@
+github
+1. ruvnet / RuView [URL:https://github.com/ruvnet/RuView]
+2. tinyhumansai / openhuman [URL:https://github.com/tinyhumansai/openhuman]
+3. rohitg00 / agentmemory [URL:https://github.com/rohitg00/agentmemory]
+4. obra / superpowers [URL:https://github.com/obra/superpowers]
+5. K-Dense-AI / scientific-agent-skills [URL:https://github.com/K-Dense-AI/scientific-agent-skills]
+6. shiyu-coder / Kronos [URL:https://github.com/shiyu-coder/Kronos]
+7. roboflow / supervision [URL:https://github.com/roboflow/supervision]
+8. influxdata / telegraf [URL:https://github.com/influxdata/telegraf]
+9. supertone-inc / supertonic [URL:https://github.com/supertone-inc/supertonic]
+10. Genymobile / scrcpy [URL:https://github.com/Genymobile/scrcpy]
+11. NVIDIA-AI-Blueprints / video-search-and-summarization [URL:https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization]
+12. CloakHQ / CloakBrowser [URL:https://github.com/CloakHQ/CloakBrowser]
+13. mattpocock / skills [URL:https://github.com/mattpocock/skills]
+14. github / spec-kit [URL:https://github.com/github/spec-kit]
+15. garrytan / gstack [URL:https://github.com/garrytan/gstack]
+
