@@ -1,0 +1,11 @@
+github
+1. oven-sh / bun [URL:https://github.com/oven-sh/bun]
+2. K-Dense-AI / scientific-agent-skills [URL:https://github.com/K-Dense-AI/scientific-agent-skills]
+3. obra / superpowers [URL:https://github.com/obra/superpowers]
+4. Anil-matcha / Open-Generative-AI [URL:https://github.com/Anil-matcha/Open-Generative-AI]
+5. supertone-inc / supertonic [URL:https://github.com/supertone-inc/supertonic]
+6. tinyhumansai / openhuman [URL:https://github.com/tinyhumansai/openhuman]
+7. ruvnet / RuView [URL:https://github.com/ruvnet/RuView]
+8. pranshuparmar / witr [URL:https://github.com/pranshuparmar/witr]
+9. colbymchenry / codegraph [URL:https://github.com/colbymchenry/codegraph]
+
