@@ -1,0 +1,17 @@
+github
+1. tinyhumansai / openhuman [URL:https://github.com/tinyhumansai/openhuman]
+2. Imbad0202 / academic-research-skills [URL:https://github.com/Imbad0202/academic-research-skills]
+3. HKUDS / CLI-Anything [URL:https://github.com/HKUDS/CLI-Anything]
+4. K-Dense-AI / scientific-agent-skills [URL:https://github.com/K-Dense-AI/scientific-agent-skills]
+5. supertone-inc / supertonic [URL:https://github.com/supertone-inc/supertonic]
+6. ggml-org / llama.cpp [URL:https://github.com/ggml-org/llama.cpp]
+7. ruvnet / RuView [URL:https://github.com/ruvnet/RuView]
+8. CloakHQ / CloakBrowser [URL:https://github.com/CloakHQ/CloakBrowser]
+9. tech-leads-club / agent-skills [URL:https://github.com/tech-leads-club/agent-skills]
+10. BigBodyCobain / Shadowbroker [URL:https://github.com/BigBodyCobain/Shadowbroker]
+11. humanlayer / 12-factor-agents [URL:https://github.com/humanlayer/12-factor-agents]
+12. NVlabs / Sana [URL:https://github.com/NVlabs/Sana]
+13. microsoft / ai-agents-for-beginners [URL:https://github.com/microsoft/ai-agents-for-beginners]
+14. ZhuLinsen / daily_stock_analysis [URL:https://github.com/ZhuLinsen/daily_stock_analysis]
+15. plausible / analytics [URL:https://github.com/plausible/analytics]
+
