@@ -1,0 +1,16 @@
+github
+1. anthropics / claude-plugins-official [URL:https://github.com/anthropics/claude-plugins-official]
+2. colbymchenry / codegraph [URL:https://github.com/colbymchenry/codegraph]
+3. ruvnet / RuView [URL:https://github.com/ruvnet/RuView]
+4. rohitg00 / ai-engineering-from-scratch [URL:https://github.com/rohitg00/ai-engineering-from-scratch]
+5. ChromeDevTools / chrome-devtools-mcp [URL:https://github.com/ChromeDevTools/chrome-devtools-mcp]
+6. dotnet / skills [URL:https://github.com/dotnet/skills]
+7. Lum1104 / Understand-Anything [URL:https://github.com/Lum1104/Understand-Anything]
+8. odoo / odoo [URL:https://github.com/odoo/odoo]
+9. byJoey / cfnew [URL:https://github.com/byJoey/cfnew]
+10. trimstray / the-book-of-secret-knowledge [URL:https://github.com/trimstray/the-book-of-secret-knowledge]
+11. Fincept-Corporation / FinceptTerminal [URL:https://github.com/Fincept-Corporation/FinceptTerminal]
+12. can1357 / oh-my-pi [URL:https://github.com/can1357/oh-my-pi]
+13. yt-dlp / yt-dlp [URL:https://github.com/yt-dlp/yt-dlp]
+14. karpathy / nn-zero-to-hero [URL:https://github.com/karpathy/nn-zero-to-hero]
+
