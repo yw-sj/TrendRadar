@@ -1,0 +1,18 @@
+github
+1. Lum1104 / Understand-Anything [URL:https://github.com/Lum1104/Understand-Anything]
+2. anthropics / claude-plugins-official [URL:https://github.com/anthropics/claude-plugins-official]
+3. colbymchenry / codegraph [URL:https://github.com/colbymchenry/codegraph]
+4. rohitg00 / ai-engineering-from-scratch [URL:https://github.com/rohitg00/ai-engineering-from-scratch]
+5. Fincept-Corporation / FinceptTerminal [URL:https://github.com/Fincept-Corporation/FinceptTerminal]
+6. multica-ai / andrej-karpathy-skills [URL:https://github.com/multica-ai/andrej-karpathy-skills]
+7. dotnet / skills [URL:https://github.com/dotnet/skills]
+8. ChromeDevTools / chrome-devtools-mcp [URL:https://github.com/ChromeDevTools/chrome-devtools-mcp]
+9. mukul975 / Anthropic-Cybersecurity-Skills [URL:https://github.com/mukul975/Anthropic-Cybersecurity-Skills]
+10. presenton / presenton [URL:https://github.com/presenton/presenton]
+11. multica-ai / multica [URL:https://github.com/multica-ai/multica]
+12. trimstray / the-book-of-secret-knowledge [URL:https://github.com/trimstray/the-book-of-secret-knowledge]
+13. odoo / odoo [URL:https://github.com/odoo/odoo]
+14. NVlabs / LongLive [URL:https://github.com/NVlabs/LongLive]
+15. yt-dlp / yt-dlp [URL:https://github.com/yt-dlp/yt-dlp]
+16. janestreet / magic-trace [URL:https://github.com/janestreet/magic-trace]
+
