@@ -1,0 +1,18 @@
+github
+1. Lum1104 / Understand-Anything [URL:https://github.com/Lum1104/Understand-Anything]
+2. rohitg00 / ai-engineering-from-scratch [URL:https://github.com/rohitg00/ai-engineering-from-scratch]
+3. anthropics / claude-plugins-official [URL:https://github.com/anthropics/claude-plugins-official]
+4. anthropics / knowledge-work-plugins [URL:https://github.com/anthropics/knowledge-work-plugins]
+5. multica-ai / andrej-karpathy-skills [URL:https://github.com/multica-ai/andrej-karpathy-skills]
+6. earendil-works / pi [URL:https://github.com/earendil-works/pi]
+7. Alishahryar1 / free-claude-code [URL:https://github.com/Alishahryar1/free-claude-code]
+8. colbymchenry / codegraph [URL:https://github.com/colbymchenry/codegraph]
+9. multica-ai / multica [URL:https://github.com/multica-ai/multica]
+10. shiyu-coder / Kronos [URL:https://github.com/shiyu-coder/Kronos]
+11. manaflow-ai / cmux [URL:https://github.com/manaflow-ai/cmux]
+12. 666ghj / MiroFish [URL:https://github.com/666ghj/MiroFish]
+13. codecrafters-io / build-your-own-x [URL:https://github.com/codecrafters-io/build-your-own-x]
+14. dotnet / skills [URL:https://github.com/dotnet/skills]
+15. blakeblackshear / frigate [URL:https://github.com/blakeblackshear/frigate]
+16. mukul975 / Anthropic-Cybersecurity-Skills [URL:https://github.com/mukul975/Anthropic-Cybersecurity-Skills]
+
