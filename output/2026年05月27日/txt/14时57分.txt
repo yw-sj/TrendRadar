@@ -1,0 +1,16 @@
+github
+1. Lum1104 / Understand-Anything [URL:https://github.com/Lum1104/Understand-Anything]
+2. affaan-m / ECC [URL:https://github.com/affaan-m/ECC]
+3. rohitg00 / ai-engineering-from-scratch [URL:https://github.com/rohitg00/ai-engineering-from-scratch]
+4. anthropics / knowledge-work-plugins [URL:https://github.com/anthropics/knowledge-work-plugins]
+5. mukul975 / Anthropic-Cybersecurity-Skills [URL:https://github.com/mukul975/Anthropic-Cybersecurity-Skills]
+6. hardikpandya / stop-slop [URL:https://github.com/hardikpandya/stop-slop]
+7. Leonxlnx / taste-skill [URL:https://github.com/Leonxlnx/taste-skill]
+8. DigitalPlatDev / FreeDomain [URL:https://github.com/DigitalPlatDev/FreeDomain]
+9. jellyfin / jellyfin [URL:https://github.com/jellyfin/jellyfin]
+10. Axorax / awesome-free-apps [URL:https://github.com/Axorax/awesome-free-apps]
+11. twentyhq / twenty [URL:https://github.com/twentyhq/twenty]
+12. Open-Dev-Society / OpenStock [URL:https://github.com/Open-Dev-Society/OpenStock]
+13. thedotmack / claude-mem [URL:https://github.com/thedotmack/claude-mem]
+14. st-tech / ppf-contact-solver [URL:https://github.com/st-tech/ppf-contact-solver]
+
