@@ -1,0 +1,17 @@
+github
+1. Lum1104 / Understand-Anything [URL:https://github.com/Lum1104/Understand-Anything]
+2. hardikpandya / stop-slop [URL:https://github.com/hardikpandya/stop-slop]
+3. affaan-m / ECC [URL:https://github.com/affaan-m/ECC]
+4. anthropics / knowledge-work-plugins [URL:https://github.com/anthropics/knowledge-work-plugins]
+5. Leonxlnx / taste-skill [URL:https://github.com/Leonxlnx/taste-skill]
+6. p-e-w / heretic [URL:https://github.com/p-e-w/heretic]
+7. shiyu-coder / Kronos [URL:https://github.com/shiyu-coder/Kronos]
+8. mukul975 / Anthropic-Cybersecurity-Skills [URL:https://github.com/mukul975/Anthropic-Cybersecurity-Skills]
+9. twentyhq / twenty [URL:https://github.com/twentyhq/twenty]
+10. DigitalPlatDev / FreeDomain [URL:https://github.com/DigitalPlatDev/FreeDomain]
+11. obra / superpowers [URL:https://github.com/obra/superpowers]
+12. byoungd / English-level-up-tips [URL:https://github.com/byoungd/English-level-up-tips]
+13. iii-hq / iii [URL:https://github.com/iii-hq/iii]
+14. Axorax / awesome-free-apps [URL:https://github.com/Axorax/awesome-free-apps]
+15. moeru-ai / airi [URL:https://github.com/moeru-ai/airi]
+
