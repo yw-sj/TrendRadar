@@ -1,0 +1,18 @@
+github
+1. harry0703 / MoneyPrinterTurbo [URL:https://github.com/harry0703/MoneyPrinterTurbo]
+2. microsoft / markitdown [URL:https://github.com/microsoft/markitdown]
+3. D4Vinci / Scrapling [URL:https://github.com/D4Vinci/Scrapling]
+4. nesquena / hermes-webui [URL:https://github.com/nesquena/hermes-webui]
+5. EveryInc / compound-engineering-plugin [URL:https://github.com/EveryInc/compound-engineering-plugin]
+6. github / docs [URL:https://github.com/github/docs]
+7. OpenBMB / VoxCPM [URL:https://github.com/OpenBMB/VoxCPM]
+8. revfactory / harness [URL:https://github.com/revfactory/harness]
+9. FareedKhan-dev / train-llm-from-scratch [URL:https://github.com/FareedKhan-dev/train-llm-from-scratch]
+10. supermemoryai / supermemory [URL:https://github.com/supermemoryai/supermemory]
+11. Crosstalk-Solutions / project-nomad [URL:https://github.com/Crosstalk-Solutions/project-nomad]
+12. a5c-ai / babysitter [URL:https://github.com/a5c-ai/babysitter]
+13. anthropics / claude-code [URL:https://github.com/anthropics/claude-code]
+14. nicobailon / pi-subagents [URL:https://github.com/nicobailon/pi-subagents]
+15. emmabostian / developer-portfolios [URL:https://github.com/emmabostian/developer-portfolios]
+16. codecrafters-io / build-your-own-x [URL:https://github.com/codecrafters-io/build-your-own-x]
+
