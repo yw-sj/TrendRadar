@@ -1,0 +1,17 @@
+github
+1. chopratejas / headroom [URL:https://github.com/chopratejas/headroom]
+2. affaan-m / ECC [URL:https://github.com/affaan-m/ECC]
+3. JuliusBrussee / caveman [URL:https://github.com/JuliusBrussee/caveman]
+4. aquasecurity / trivy [URL:https://github.com/aquasecurity/trivy]
+5. NousResearch / hermes-agent [URL:https://github.com/NousResearch/hermes-agent]
+6. microsoft / markitdown [URL:https://github.com/microsoft/markitdown]
+7. nesquena / hermes-webui [URL:https://github.com/nesquena/hermes-webui]
+8. D4Vinci / Scrapling [URL:https://github.com/D4Vinci/Scrapling]
+9. opendataloader-project / opendataloader-pdf [URL:https://github.com/opendataloader-project/opendataloader-pdf]
+10. odoo / odoo [URL:https://github.com/odoo/odoo]
+11. Open-LLM-VTuber / Open-LLM-VTuber [URL:https://github.com/Open-LLM-VTuber/Open-LLM-VTuber]
+12. jwasham / coding-interview-university [URL:https://github.com/jwasham/coding-interview-university]
+13. lyogavin / airllm [URL:https://github.com/lyogavin/airllm]
+14. supermemoryai / supermemory [URL:https://github.com/supermemoryai/supermemory]
+15. HKUDS / Vibe-Trading [URL:https://github.com/HKUDS/Vibe-Trading]
+
