@@ -1,0 +1,16 @@
+github
+1. chopratejas / headroom [URL:https://github.com/chopratejas/headroom]
+2. NousResearch / hermes-agent [URL:https://github.com/NousResearch/hermes-agent]
+3. affaan-m / ECC [URL:https://github.com/affaan-m/ECC]
+4. PaddlePaddle / PaddleOCR [URL:https://github.com/PaddlePaddle/PaddleOCR]
+5. github / spec-kit [URL:https://github.com/github/spec-kit]
+6. NVIDIA / cosmos [URL:https://github.com/NVIDIA/cosmos]
+7. lfnovo / open-notebook [URL:https://github.com/lfnovo/open-notebook]
+8. Open-LLM-VTuber / Open-LLM-VTuber [URL:https://github.com/Open-LLM-VTuber/Open-LLM-VTuber]
+9. jwasham / coding-interview-university [URL:https://github.com/jwasham/coding-interview-university]
+10. github / copilot-sdk [URL:https://github.com/github/copilot-sdk]
+11. aquasecurity / trivy [URL:https://github.com/aquasecurity/trivy]
+12. openclaw / openclaw-windows-node [URL:https://github.com/openclaw/openclaw-windows-node]
+13. reconurge / flowsint [URL:https://github.com/reconurge/flowsint]
+14. mvanhorn / last30days-skill [URL:https://github.com/mvanhorn/last30days-skill]
+
