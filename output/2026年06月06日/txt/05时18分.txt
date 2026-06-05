@@ -1,0 +1,18 @@
+github
+1. NousResearch / hermes-agent [URL:https://github.com/NousResearch/hermes-agent]
+2. chopratejas / headroom [URL:https://github.com/chopratejas/headroom]
+3. CopilotKit / CopilotKit [URL:https://github.com/CopilotKit/CopilotKit]
+4. lfnovo / open-notebook [URL:https://github.com/lfnovo/open-notebook]
+5. affaan-m / ECC [URL:https://github.com/affaan-m/ECC]
+6. Panniantong / Agent-Reach [URL:https://github.com/Panniantong/Agent-Reach]
+7. NVIDIA / cosmos [URL:https://github.com/NVIDIA/cosmos]
+8. 666ghj / MiroFish [URL:https://github.com/666ghj/MiroFish]
+9. mvanhorn / last30days-skill [URL:https://github.com/mvanhorn/last30days-skill]
+10. PaddlePaddle / PaddleOCR [URL:https://github.com/PaddlePaddle/PaddleOCR]
+11. openai / plugins [URL:https://github.com/openai/plugins]
+12. MemPalace / mempalace [URL:https://github.com/MemPalace/mempalace]
+13. openclaw / openclaw-windows-node [URL:https://github.com/openclaw/openclaw-windows-node]
+14. aquasecurity / trivy [URL:https://github.com/aquasecurity/trivy]
+15. jwasham / coding-interview-university [URL:https://github.com/jwasham/coding-interview-university]
+16. github / copilot-sdk [URL:https://github.com/github/copilot-sdk]
+
