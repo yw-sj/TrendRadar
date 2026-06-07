@@ -1,0 +1,17 @@
+github
+1. mvanhorn / last30days-skill [URL:https://github.com/mvanhorn/last30days-skill]
+2. opencv / opencv [URL:https://github.com/opencv/opencv]
+3. Leonxlnx / taste-skill [URL:https://github.com/Leonxlnx/taste-skill]
+4. NousResearch / hermes-agent [URL:https://github.com/NousResearch/hermes-agent]
+5. lfnovo / open-notebook [URL:https://github.com/lfnovo/open-notebook]
+6. yikart / AiToEarn [URL:https://github.com/yikart/AiToEarn]
+7. aaif-goose / goose [URL:https://github.com/aaif-goose/goose]
+8. Crosstalk-Solutions / project-nomad [URL:https://github.com/Crosstalk-Solutions/project-nomad]
+9. ggml-org / llama.cpp [URL:https://github.com/ggml-org/llama.cpp]
+10. RyanCodrai / turbovec [URL:https://github.com/RyanCodrai/turbovec]
+11. TapXWorld / ChinaTextbook [URL:https://github.com/TapXWorld/ChinaTextbook]
+12. openai / plugins [URL:https://github.com/openai/plugins]
+13. refactoringhq / tolaria [URL:https://github.com/refactoringhq/tolaria]
+14. HunxByts / GhostTrack [URL:https://github.com/HunxByts/GhostTrack]
+15. microsoft / pg_durable [URL:https://github.com/microsoft/pg_durable]
+
