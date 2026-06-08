@@ -1,0 +1,18 @@
+github
+1. mvanhorn / last30days-skill [URL:https://github.com/mvanhorn/last30days-skill]
+2. RyanCodrai / turbovec [URL:https://github.com/RyanCodrai/turbovec]
+3. google / skills [URL:https://github.com/google/skills]
+4. refactoringhq / tolaria [URL:https://github.com/refactoringhq/tolaria]
+5. Panniantong / Agent-Reach [URL:https://github.com/Panniantong/Agent-Reach]
+6. danielmiessler / Personal_AI_Infrastructure [URL:https://github.com/danielmiessler/Personal_AI_Infrastructure]
+7. santifer / career-ops [URL:https://github.com/santifer/career-ops]
+8. phuryn / pm-skills [URL:https://github.com/phuryn/pm-skills]
+9. openai / plugins [URL:https://github.com/openai/plugins]
+10. Andyyyy64 / whichllm [URL:https://github.com/Andyyyy64/whichllm]
+11. MemPalace / mempalace [URL:https://github.com/MemPalace/mempalace]
+12. roboflow / supervision [URL:https://github.com/roboflow/supervision]
+13. CopilotKit / CopilotKit [URL:https://github.com/CopilotKit/CopilotKit]
+14. TapXWorld / ChinaTextbook [URL:https://github.com/TapXWorld/ChinaTextbook]
+15. luongnv89 / claude-howto [URL:https://github.com/luongnv89/claude-howto]
+16. aaif-goose / goose [URL:https://github.com/aaif-goose/goose]
+
