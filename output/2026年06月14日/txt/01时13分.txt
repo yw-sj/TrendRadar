@@ -1,0 +1,16 @@
+github
+1. iptv-org / iptv [URL:https://github.com/iptv-org/iptv]
+2. addyosmani / agent-skills [URL:https://github.com/addyosmani/agent-skills]
+3. chatwoot / chatwoot [URL:https://github.com/chatwoot/chatwoot]
+4. obra / superpowers [URL:https://github.com/obra/superpowers]
+5. apple / container [URL:https://github.com/apple/container]
+6. music-assistant / server [URL:https://github.com/music-assistant/server]
+7. kenn-io / agentsview [URL:https://github.com/kenn-io/agentsview]
+8. LMCache / LMCache [URL:https://github.com/LMCache/LMCache]
+9. microsoft / PowerToys [URL:https://github.com/microsoft/PowerToys]
+10. andrewyng / aisuite [URL:https://github.com/andrewyng/aisuite]
+11. NVIDIA / SkillSpector [URL:https://github.com/NVIDIA/SkillSpector]
+12. bannedbook / fanqiang [URL:https://github.com/bannedbook/fanqiang]
+13. swc-project / swc [URL:https://github.com/swc-project/swc]
+14. x1xhlol / system-prompts-and-models-of-ai-tools [URL:https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools]
+
