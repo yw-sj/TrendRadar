@@ -1,0 +1,15 @@
+github
+1. addyosmani / agent-skills [URL:https://github.com/addyosmani/agent-skills]
+2. music-assistant / server [URL:https://github.com/music-assistant/server]
+3. mattermost / mattermost [URL:https://github.com/mattermost/mattermost]
+4. apple / container [URL:https://github.com/apple/container]
+5. iptv-org / iptv [URL:https://github.com/iptv-org/iptv]
+6. obra / superpowers [URL:https://github.com/obra/superpowers]
+7. refactoringhq / tolaria [URL:https://github.com/refactoringhq/tolaria]
+8. maziyarpanahi / openmed [URL:https://github.com/maziyarpanahi/openmed]
+9. LMCache / LMCache [URL:https://github.com/LMCache/LMCache]
+10. phuryn / pm-skills [URL:https://github.com/phuryn/pm-skills]
+11. masterking32 / MasterDnsVPN [URL:https://github.com/masterking32/MasterDnsVPN]
+12. msitarzewski / agency-agents [URL:https://github.com/msitarzewski/agency-agents]
+13. microsoft / PowerToys [URL:https://github.com/microsoft/PowerToys]
+
