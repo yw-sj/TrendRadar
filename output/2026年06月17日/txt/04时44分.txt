@@ -1,0 +1,15 @@
+github
+1. freeCodeCamp / freeCodeCamp [URL:https://github.com/freeCodeCamp/freeCodeCamp]
+2. swc-project / swc [URL:https://github.com/swc-project/swc]
+3. teslamate-org / teslamate [URL:https://github.com/teslamate-org/teslamate]
+4. iptv-org / iptv [URL:https://github.com/iptv-org/iptv]
+5. puppeteer / puppeteer [URL:https://github.com/puppeteer/puppeteer]
+6. meshery / meshery [URL:https://github.com/meshery/meshery]
+7. cypress-io / cypress [URL:https://github.com/cypress-io/cypress]
+8. music-assistant / server [URL:https://github.com/music-assistant/server]
+9. Universal-Debloater-Alliance / universal-android-debloater-next-generation [URL:https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation]
+10. OpenBMB / VoxCPM [URL:https://github.com/OpenBMB/VoxCPM]
+11. alibaba / zvec [URL:https://github.com/alibaba/zvec]
+12. rmyndharis / OpenWA [URL:https://github.com/rmyndharis/OpenWA]
+13. n0-computer / iroh [URL:https://github.com/n0-computer/iroh]
+
