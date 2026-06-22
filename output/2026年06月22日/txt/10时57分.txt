@@ -1,0 +1,18 @@
+github
+1. palmier-io / palmier-pro [URL:https://github.com/palmier-io/palmier-pro]
+2. calesthio / OpenMontage [URL:https://github.com/calesthio/OpenMontage]
+3. chopratejas / headroom [URL:https://github.com/chopratejas/headroom]
+4. tursodatabase / turso [URL:https://github.com/tursodatabase/turso]
+5. penpot / penpot [URL:https://github.com/penpot/penpot]
+6. ZhuLinsen / daily_stock_analysis [URL:https://github.com/ZhuLinsen/daily_stock_analysis]
+7. koala73 / worldmonitor [URL:https://github.com/koala73/worldmonitor]
+8. bytedance / deer-flow [URL:https://github.com/bytedance/deer-flow]
+9. DeusData / codebase-memory-mcp [URL:https://github.com/DeusData/codebase-memory-mcp]
+10. mukul975 / Anthropic-Cybersecurity-Skills [URL:https://github.com/mukul975/Anthropic-Cybersecurity-Skills]
+11. mikumifa / biliTickerBuy [URL:https://github.com/mikumifa/biliTickerBuy]
+12. smicallef / spiderfoot [URL:https://github.com/smicallef/spiderfoot]
+13. topoteretes / cognee [URL:https://github.com/topoteretes/cognee]
+14. byoungd / English-level-up-tips [URL:https://github.com/byoungd/English-level-up-tips]
+15. asgeirtj / system_prompts_leaks [URL:https://github.com/asgeirtj/system_prompts_leaks]
+16. mattpocock / skills [URL:https://github.com/mattpocock/skills]
+
