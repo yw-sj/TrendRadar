@@ -1,0 +1,18 @@
+github
+1. calesthio / OpenMontage [URL:https://github.com/calesthio/OpenMontage]
+2. palmier-io / palmier-pro [URL:https://github.com/palmier-io/palmier-pro]
+3. jamiepine / voicebox [URL:https://github.com/jamiepine/voicebox]
+4. mukul975 / Anthropic-Cybersecurity-Skills [URL:https://github.com/mukul975/Anthropic-Cybersecurity-Skills]
+5. penpot / penpot [URL:https://github.com/penpot/penpot]
+6. Stirling-Tools / Stirling-PDF [URL:https://github.com/Stirling-Tools/Stirling-PDF]
+7. garrytan / gstack [URL:https://github.com/garrytan/gstack]
+8. heygen-com / hyperframes [URL:https://github.com/heygen-com/hyperframes]
+9. tursodatabase / turso [URL:https://github.com/tursodatabase/turso]
+10. bytedance / deer-flow [URL:https://github.com/bytedance/deer-flow]
+11. DeusData / codebase-memory-mcp [URL:https://github.com/DeusData/codebase-memory-mcp]
+12. ZhuLinsen / daily_stock_analysis [URL:https://github.com/ZhuLinsen/daily_stock_analysis]
+13. firecrawl / firecrawl [URL:https://github.com/firecrawl/firecrawl]
+14. JCodesMore / ai-website-cloner-template [URL:https://github.com/JCodesMore/ai-website-cloner-template]
+15. lyogavin / airllm [URL:https://github.com/lyogavin/airllm]
+16. mattpocock / skills [URL:https://github.com/mattpocock/skills]
+
