@@ -1,0 +1,15 @@
+github
+1. calesthio / OpenMontage [URL:https://github.com/calesthio/OpenMontage]
+2. ZhuLinsen / daily_stock_analysis [URL:https://github.com/ZhuLinsen/daily_stock_analysis]
+3. apple / container [URL:https://github.com/apple/container]
+4. interviewstreet / hiring-agent [URL:https://github.com/interviewstreet/hiring-agent]
+5. JCodesMore / ai-website-cloner-template [URL:https://github.com/JCodesMore/ai-website-cloner-template]
+6. revfactory / harness [URL:https://github.com/revfactory/harness]
+7. flutter / flutter [URL:https://github.com/flutter/flutter]
+8. andreknieriem / headunit-revived [URL:https://github.com/andreknieriem/headunit-revived]
+9. stablyai / orca [URL:https://github.com/stablyai/orca]
+10. google-labs-code / design.md [URL:https://github.com/google-labs-code/design.md]
+11. Flowseal / zapret-discord-youtube [URL:https://github.com/Flowseal/zapret-discord-youtube]
+12. kunchenguid / no-mistakes [URL:https://github.com/kunchenguid/no-mistakes]
+13. NousResearch / hermes-agent [URL:https://github.com/NousResearch/hermes-agent]
+
