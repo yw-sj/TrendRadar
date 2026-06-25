@@ -1,0 +1,17 @@
+github
+1. google-labs-code / design.md [URL:https://github.com/google-labs-code/design.md]
+2. calesthio / OpenMontage [URL:https://github.com/calesthio/OpenMontage]
+3. xbtlin / ai-berkshire [URL:https://github.com/xbtlin/ai-berkshire]
+4. mauriceboe / TREK [URL:https://github.com/mauriceboe/TREK]
+5. apple / container [URL:https://github.com/apple/container]
+6. JCodesMore / ai-website-cloner-template [URL:https://github.com/JCodesMore/ai-website-cloner-template]
+7. garrytan / gstack [URL:https://github.com/garrytan/gstack]
+8. aws / agent-toolkit-for-aws [URL:https://github.com/aws/agent-toolkit-for-aws]
+9. mukul975 / Anthropic-Cybersecurity-Skills [URL:https://github.com/mukul975/Anthropic-Cybersecurity-Skills]
+10. alibaba / page-agent [URL:https://github.com/alibaba/page-agent]
+11. IceWhaleTech / CasaOS [URL:https://github.com/IceWhaleTech/CasaOS]
+12. opendatalab / MinerU [URL:https://github.com/opendatalab/MinerU]
+13. Free-TV / IPTV [URL:https://github.com/Free-TV/IPTV]
+14. shanraisshan / claude-code-best-practice [URL:https://github.com/shanraisshan/claude-code-best-practice]
+15. NanmiCoder / MediaCrawler [URL:https://github.com/NanmiCoder/MediaCrawler]
+
