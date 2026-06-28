@@ -1,0 +1,15 @@
+github
+1. simplex-chat / simplex-chat [URL:https://github.com/simplex-chat/simplex-chat]
+2. ripienaar / free-for-dev [URL:https://github.com/ripienaar/free-for-dev]
+3. commaai / openpilot [URL:https://github.com/commaai/openpilot]
+4. xbtlin / ai-berkshire [URL:https://github.com/xbtlin/ai-berkshire]
+5. Robbyant / lingbot-map [URL:https://github.com/Robbyant/lingbot-map]
+6. DeusData / codebase-memory-mcp [URL:https://github.com/DeusData/codebase-memory-mcp]
+7. cupy / cupy [URL:https://github.com/cupy/cupy]
+8. altic-dev / FluidVoice [URL:https://github.com/altic-dev/FluidVoice]
+9. opendatalab / MinerU [URL:https://github.com/opendatalab/MinerU]
+10. HKUDS / Vibe-Trading [URL:https://github.com/HKUDS/Vibe-Trading]
+11. ByteByteGoHq / system-design-101 [URL:https://github.com/ByteByteGoHq/system-design-101]
+12. usestrix / strix [URL:https://github.com/usestrix/strix]
+13. browser-use / video-use [URL:https://github.com/browser-use/video-use]
+
