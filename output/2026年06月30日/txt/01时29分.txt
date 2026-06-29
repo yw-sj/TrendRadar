@@ -1,0 +1,17 @@
+github
+1. simplex-chat / simplex-chat [URL:https://github.com/simplex-chat/simplex-chat]
+2. msitarzewski / agency-agents [URL:https://github.com/msitarzewski/agency-agents]
+3. cupy / cupy [URL:https://github.com/cupy/cupy]
+4. altic-dev / FluidVoice [URL:https://github.com/altic-dev/FluidVoice]
+5. soxoj / maigret [URL:https://github.com/soxoj/maigret]
+6. commaai / openpilot [URL:https://github.com/commaai/openpilot]
+7. ripienaar / free-for-dev [URL:https://github.com/ripienaar/free-for-dev]
+8. logto-io / logto [URL:https://github.com/logto-io/logto]
+9. xbtlin / ai-berkshire [URL:https://github.com/xbtlin/ai-berkshire]
+10. browser-use / video-use [URL:https://github.com/browser-use/video-use]
+11. Unclecheng-li / VulnClaw [URL:https://github.com/Unclecheng-li/VulnClaw]
+12. 0xNyk / council-of-high-intelligence [URL:https://github.com/0xNyk/council-of-high-intelligence]
+13. HKUDS / Vibe-Trading [URL:https://github.com/HKUDS/Vibe-Trading]
+14. refactoringhq / tolaria [URL:https://github.com/refactoringhq/tolaria]
+15. veracrypt / VeraCrypt [URL:https://github.com/veracrypt/VeraCrypt]
+
