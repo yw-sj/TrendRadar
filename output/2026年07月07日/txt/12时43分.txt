@@ -1,0 +1,18 @@
+github
+1. asgeirtj / system_prompts_leaks [URL:https://github.com/asgeirtj/system_prompts_leaks]
+2. addyosmani / agent-skills [URL:https://github.com/addyosmani/agent-skills]
+3. Zackriya-Solutions / meetily [URL:https://github.com/Zackriya-Solutions/meetily]
+4. ruvnet / RuView [URL:https://github.com/ruvnet/RuView]
+5. Leonxlnx / taste-skill [URL:https://github.com/Leonxlnx/taste-skill]
+6. alirezarezvani / claude-skills [URL:https://github.com/alirezarezvani/claude-skills]
+7. openai / codex-plugin-cc [URL:https://github.com/openai/codex-plugin-cc]
+8. mvanhorn / last30days-skill [URL:https://github.com/mvanhorn/last30days-skill]
+9. ogulcancelik / herdr [URL:https://github.com/ogulcancelik/herdr]
+10. bradautomates / claude-video [URL:https://github.com/bradautomates/claude-video]
+11. karakeep-app / karakeep [URL:https://github.com/karakeep-app/karakeep]
+12. firecrawl / firecrawl [URL:https://github.com/firecrawl/firecrawl]
+13. steipete / CodexBar [URL:https://github.com/steipete/CodexBar]
+14. alibaba / zvec [URL:https://github.com/alibaba/zvec]
+15. sindresorhus / awesome [URL:https://github.com/sindresorhus/awesome]
+16. gastownhall / gastown [URL:https://github.com/gastownhall/gastown]
+
