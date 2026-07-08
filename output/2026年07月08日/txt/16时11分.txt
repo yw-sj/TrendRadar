@@ -1,0 +1,15 @@
+github
+1. MadsLorentzen / ai-job-search [URL:https://github.com/MadsLorentzen/ai-job-search]
+2. Zackriya-Solutions / meetily [URL:https://github.com/Zackriya-Solutions/meetily]
+3. addyosmani / agent-skills [URL:https://github.com/addyosmani/agent-skills]
+4. ruvnet / RuView [URL:https://github.com/ruvnet/RuView]
+5. asgeirtj / system_prompts_leaks [URL:https://github.com/asgeirtj/system_prompts_leaks]
+6. TencentCloud / CubeSandbox [URL:https://github.com/TencentCloud/CubeSandbox]
+7. AhmadIbrahiim / Website-downloader [URL:https://github.com/AhmadIbrahiim/Website-downloader]
+8. steipete / CodexBar [URL:https://github.com/steipete/CodexBar]
+9. dotnet / skills [URL:https://github.com/dotnet/skills]
+10. iOfficeAI / OfficeCLI [URL:https://github.com/iOfficeAI/OfficeCLI]
+11. bradautomates / claude-video [URL:https://github.com/bradautomates/claude-video]
+12. kyutai-labs / pocket-tts [URL:https://github.com/kyutai-labs/pocket-tts]
+13. hesreallyhim / awesome-claude-code [URL:https://github.com/hesreallyhim/awesome-claude-code]
+
