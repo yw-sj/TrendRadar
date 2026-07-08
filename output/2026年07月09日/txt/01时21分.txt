@@ -1,0 +1,17 @@
+github
+1. addyosmani / agent-skills [URL:https://github.com/addyosmani/agent-skills]
+2. ruvnet / RuView [URL:https://github.com/ruvnet/RuView]
+3. TencentCloud / TencentDB-Agent-Memory [URL:https://github.com/TencentCloud/TencentDB-Agent-Memory]
+4. prisma / prisma [URL:https://github.com/prisma/prisma]
+5. mvanhorn / last30days-skill [URL:https://github.com/mvanhorn/last30days-skill]
+6. argoproj / argo-cd [URL:https://github.com/argoproj/argo-cd]
+7. iOfficeAI / OfficeCLI [URL:https://github.com/iOfficeAI/OfficeCLI]
+8. asgeirtj / system_prompts_leaks [URL:https://github.com/asgeirtj/system_prompts_leaks]
+9. obra / superpowers [URL:https://github.com/obra/superpowers]
+10. alibaba / zvec [URL:https://github.com/alibaba/zvec]
+11. Diolinux / PhotoGIMP [URL:https://github.com/Diolinux/PhotoGIMP]
+12. wonderwhy-er / DesktopCommanderMCP [URL:https://github.com/wonderwhy-er/DesktopCommanderMCP]
+13. huxingyi / autoremesher [URL:https://github.com/huxingyi/autoremesher]
+14. bradautomates / claude-video [URL:https://github.com/bradautomates/claude-video]
+15. TencentCloud / CubeSandbox [URL:https://github.com/TencentCloud/CubeSandbox]
+
