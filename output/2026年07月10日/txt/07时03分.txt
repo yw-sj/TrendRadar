@@ -1,0 +1,17 @@
+github
+1. MadsLorentzen / ai-job-search [URL:https://github.com/MadsLorentzen/ai-job-search]
+2. SmartlyDressedGames / U3-SDK [URL:https://github.com/SmartlyDressedGames/U3-SDK]
+3. addyosmani / agent-skills [URL:https://github.com/addyosmani/agent-skills]
+4. VoltAgent / awesome-design-md [URL:https://github.com/VoltAgent/awesome-design-md]
+5. iOfficeAI / OfficeCLI [URL:https://github.com/iOfficeAI/OfficeCLI]
+6. wonderwhy-er / DesktopCommanderMCP [URL:https://github.com/wonderwhy-er/DesktopCommanderMCP]
+7. anthropics / claude-cookbooks [URL:https://github.com/anthropics/claude-cookbooks]
+8. vxcontrol / pentagi [URL:https://github.com/vxcontrol/pentagi]
+9. unclecode / crawl4ai [URL:https://github.com/unclecode/crawl4ai]
+10. imthenachoman / How-To-Secure-A-Linux-Server [URL:https://github.com/imthenachoman/How-To-Secure-A-Linux-Server]
+11. huxingyi / autoremesher [URL:https://github.com/huxingyi/autoremesher]
+12. bradautomates / claude-video [URL:https://github.com/bradautomates/claude-video]
+13. prisma / prisma [URL:https://github.com/prisma/prisma]
+14. kyutai-labs / pocket-tts [URL:https://github.com/kyutai-labs/pocket-tts]
+15. asgeirtj / system_prompts_leaks [URL:https://github.com/asgeirtj/system_prompts_leaks]
+
