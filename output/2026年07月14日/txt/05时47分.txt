@@ -1,0 +1,12 @@
+github
+1. OpenCut-app / OpenCut [URL:https://github.com/OpenCut-app/OpenCut]
+2. HKUDS / Vibe-Trading [URL:https://github.com/HKUDS/Vibe-Trading]
+3. moeru-ai / airi [URL:https://github.com/moeru-ai/airi]
+4. Shubhamsaboo / awesome-llm-apps [URL:https://github.com/Shubhamsaboo/awesome-llm-apps]
+5. Nutlope / hallmark [URL:https://github.com/Nutlope/hallmark]
+6. Raphire / Win11Debloat [URL:https://github.com/Raphire/Win11Debloat]
+7. Graphify-Labs / graphify [URL:https://github.com/Graphify-Labs/graphify]
+8. hasaneyldrm / exercises-dataset [URL:https://github.com/hasaneyldrm/exercises-dataset]
+9. github / spec-kit [URL:https://github.com/github/spec-kit]
+10. coreyhaines31 / marketingskills [URL:https://github.com/coreyhaines31/marketingskills]
+
