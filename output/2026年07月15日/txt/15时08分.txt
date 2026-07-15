@@ -1,0 +1,17 @@
+github
+1. 1c7 / chinese-independent-developer [URL:https://github.com/1c7/chinese-independent-developer]
+2. Shubhamsaboo / awesome-llm-apps [URL:https://github.com/Shubhamsaboo/awesome-llm-apps]
+3. mattpocock / skills [URL:https://github.com/mattpocock/skills]
+4. OpenCut-app / OpenCut [URL:https://github.com/OpenCut-app/OpenCut]
+5. virattt / ai-hedge-fund [URL:https://github.com/virattt/ai-hedge-fund]
+6. Nutlope / hallmark [URL:https://github.com/Nutlope/hallmark]
+7. HKUDS / Vibe-Trading [URL:https://github.com/HKUDS/Vibe-Trading]
+8. Raphire / Win11Debloat [URL:https://github.com/Raphire/Win11Debloat]
+9. hasaneyldrm / exercises-dataset [URL:https://github.com/hasaneyldrm/exercises-dataset]
+10. penpot / penpot [URL:https://github.com/penpot/penpot]
+11. AIEraDev / Clypra [URL:https://github.com/AIEraDev/Clypra]
+12. par274 / sharpemu [URL:https://github.com/par274/sharpemu]
+13. chenyme / grok2api [URL:https://github.com/chenyme/grok2api]
+14. Graphify-Labs / graphify [URL:https://github.com/Graphify-Labs/graphify]
+15. HenryNdubuaku / maths-cs-ai-compendium [URL:https://github.com/HenryNdubuaku/maths-cs-ai-compendium]
+
