@@ -1,0 +1,16 @@
+github
+1. OpenCut-app / OpenCut [URL:https://github.com/OpenCut-app/OpenCut]
+2. Nutlope / hallmark [URL:https://github.com/Nutlope/hallmark]
+3. mattpocock / skills [URL:https://github.com/mattpocock/skills]
+4. moeru-ai / airi [URL:https://github.com/moeru-ai/airi]
+5. Dicklesworthstone / destructive_command_guard [URL:https://github.com/Dicklesworthstone/destructive_command_guard]
+6. HKUDS / Vibe-Trading [URL:https://github.com/HKUDS/Vibe-Trading]
+7. openinterpreter / openinterpreter [URL:https://github.com/openinterpreter/openinterpreter]
+8. HKUDS / DeepTutor [URL:https://github.com/HKUDS/DeepTutor]
+9. HenryNdubuaku / maths-cs-ai-compendium [URL:https://github.com/HenryNdubuaku/maths-cs-ai-compendium]
+10. injaneity / pi-computer-use [URL:https://github.com/injaneity/pi-computer-use]
+11. Shubhamsaboo / awesome-llm-apps [URL:https://github.com/Shubhamsaboo/awesome-llm-apps]
+12. coreyhaines31 / marketingskills [URL:https://github.com/coreyhaines31/marketingskills]
+13. YimMenu / YimMenuV2 [URL:https://github.com/YimMenu/YimMenuV2]
+14. hasaneyldrm / exercises-dataset [URL:https://github.com/hasaneyldrm/exercises-dataset]
+
