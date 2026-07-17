@@ -1,0 +1,16 @@
+github
+1. codecrafters-io / build-your-own-x [URL:https://github.com/codecrafters-io/build-your-own-x]
+2. PostHog / posthog [URL:https://github.com/PostHog/posthog]
+3. HenryNdubuaku / maths-cs-ai-compendium [URL:https://github.com/HenryNdubuaku/maths-cs-ai-compendium]
+4. Nutlope / hallmark [URL:https://github.com/Nutlope/hallmark]
+5. github / copilot-sdk [URL:https://github.com/github/copilot-sdk]
+6. anthropics / cwc-workshops [URL:https://github.com/anthropics/cwc-workshops]
+7. PrismML-Eng / Bonsai-demo [URL:https://github.com/PrismML-Eng/Bonsai-demo]
+8. protocolbuffers / protobuf [URL:https://github.com/protocolbuffers/protobuf]
+9. tirth8205 / code-review-graph [URL:https://github.com/tirth8205/code-review-graph]
+10. docusealco / docuseal [URL:https://github.com/docusealco/docuseal]
+11. openinterpreter / openinterpreter [URL:https://github.com/openinterpreter/openinterpreter]
+12. RyanCodrai / turbovec [URL:https://github.com/RyanCodrai/turbovec]
+13. HKUDS / DeepTutor [URL:https://github.com/HKUDS/DeepTutor]
+14. OpenCut-app / OpenCut [URL:https://github.com/OpenCut-app/OpenCut]
+
