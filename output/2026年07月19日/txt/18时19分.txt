@@ -1,0 +1,13 @@
+github
+1. Robbyant / lingbot-map [URL:https://github.com/Robbyant/lingbot-map]
+2. apache / ossie [URL:https://github.com/apache/ossie]
+3. PostHog / posthog [URL:https://github.com/PostHog/posthog]
+4. ibelick / ui-skills [URL:https://github.com/ibelick/ui-skills]
+5. rohitg00 / ai-engineering-from-scratch [URL:https://github.com/rohitg00/ai-engineering-from-scratch]
+6. tirth8205 / code-review-graph [URL:https://github.com/tirth8205/code-review-graph]
+7. elder-plinius / G0DM0D3 [URL:https://github.com/elder-plinius/G0DM0D3]
+8. lyogavin / airllm [URL:https://github.com/lyogavin/airllm]
+9. KnockOutEZ / wigolo [URL:https://github.com/KnockOutEZ/wigolo]
+10. codecrafters-io / build-your-own-x [URL:https://github.com/codecrafters-io/build-your-own-x]
+11. MoonshotAI / kimi-cli [URL:https://github.com/MoonshotAI/kimi-cli]
+
