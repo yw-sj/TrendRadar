@@ -1,0 +1,18 @@
+github
+1. block / buzz [URL:https://github.com/block/buzz]
+2. koala73 / worldmonitor [URL:https://github.com/koala73/worldmonitor]
+3. ComposioHQ / awesome-claude-skills [URL:https://github.com/ComposioHQ/awesome-claude-skills]
+4. Pumpkin-MC / Pumpkin [URL:https://github.com/Pumpkin-MC/Pumpkin]
+5. shiyu-coder / Kronos [URL:https://github.com/shiyu-coder/Kronos]
+6. Automattic / harper [URL:https://github.com/Automattic/harper]
+7. likec4 / likec4 [URL:https://github.com/likec4/likec4]
+8. citrolabs / ego-lite [URL:https://github.com/citrolabs/ego-lite]
+9. yorukot / superfile [URL:https://github.com/yorukot/superfile]
+10. ruvnet / RuView [URL:https://github.com/ruvnet/RuView]
+11. CoreBunch / Instatic [URL:https://github.com/CoreBunch/Instatic]
+12. chrislgarry / Apollo-11 [URL:https://github.com/chrislgarry/Apollo-11]
+13. mattpocock / skills [URL:https://github.com/mattpocock/skills]
+14. Lordog / dive-into-llms [URL:https://github.com/Lordog/dive-into-llms]
+15. diegosouzapw / OmniRoute [URL:https://github.com/diegosouzapw/OmniRoute]
+16. OtterMind / Chat2DB [URL:https://github.com/OtterMind/Chat2DB]
+
