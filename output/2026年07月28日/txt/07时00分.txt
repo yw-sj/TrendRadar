@@ -1,0 +1,17 @@
+github
+1. permissionlesstech / bitchat [URL:https://github.com/permissionlesstech/bitchat]
+2. amnezia-vpn / amnezia-client [URL:https://github.com/amnezia-vpn/amnezia-client]
+3. moeru-ai / airi [URL:https://github.com/moeru-ai/airi]
+4. opengeos / GeoLibre [URL:https://github.com/opengeos/GeoLibre]
+5. yorukot / superfile [URL:https://github.com/yorukot/superfile]
+6. NanmiCoder / MediaCrawler [URL:https://github.com/NanmiCoder/MediaCrawler]
+7. pbakaus / impeccable [URL:https://github.com/pbakaus/impeccable]
+8. shiyu-coder / Kronos [URL:https://github.com/shiyu-coder/Kronos]
+9. alibaba / open-code-review [URL:https://github.com/alibaba/open-code-review]
+10. jenkinsci / jenkins [URL:https://github.com/jenkinsci/jenkins]
+11. bradautomates / claude-video [URL:https://github.com/bradautomates/claude-video]
+12. vudovn / ag-kit [URL:https://github.com/vudovn/ag-kit]
+13. apache / cassandra [URL:https://github.com/apache/cassandra]
+14. mvanhorn / last30days-skill [URL:https://github.com/mvanhorn/last30days-skill]
+15. ocornut / imgui [URL:https://github.com/ocornut/imgui]
+
