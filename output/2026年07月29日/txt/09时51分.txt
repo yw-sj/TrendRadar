@@ -1,0 +1,15 @@
+github
+1. pascalorg / editor [URL:https://github.com/pascalorg/editor]
+2. jenkinsci / jenkins [URL:https://github.com/jenkinsci/jenkins]
+3. moeru-ai / airi [URL:https://github.com/moeru-ai/airi]
+4. andrewyng / aisuite [URL:https://github.com/andrewyng/aisuite]
+5. affaan-m / ECC [URL:https://github.com/affaan-m/ECC]
+6. hello245m / free-stockdb [URL:https://github.com/hello245m/free-stockdb]
+7. huggingface / speech-to-speech [URL:https://github.com/huggingface/speech-to-speech]
+8. virgiliojr94 / book-to-skill [URL:https://github.com/virgiliojr94/book-to-skill]
+9. opengeos / GeoLibre [URL:https://github.com/opengeos/GeoLibre]
+10. paperswithbacktest / awesome-systematic-trading [URL:https://github.com/paperswithbacktest/awesome-systematic-trading]
+11. microsoft / agent-governance-toolkit [URL:https://github.com/microsoft/agent-governance-toolkit]
+12. yorukot / superfile [URL:https://github.com/yorukot/superfile]
+13. bradautomates / claude-video [URL:https://github.com/bradautomates/claude-video]
+
