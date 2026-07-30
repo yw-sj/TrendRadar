@@ -1,0 +1,16 @@
+github
+1. huggingface / speech-to-speech [URL:https://github.com/huggingface/speech-to-speech]
+2. microsoft / AI-For-Beginners [URL:https://github.com/microsoft/AI-For-Beginners]
+3. paperswithbacktest / awesome-systematic-trading [URL:https://github.com/paperswithbacktest/awesome-systematic-trading]
+4. different-ai / openwork [URL:https://github.com/different-ai/openwork]
+5. WhiskeySockets / Baileys [URL:https://github.com/WhiskeySockets/Baileys]
+6. pascalorg / editor [URL:https://github.com/pascalorg/editor]
+7. mvanhorn / last30days-skill [URL:https://github.com/mvanhorn/last30days-skill]
+8. dotnet / aspnetcore [URL:https://github.com/dotnet/aspnetcore]
+9. microsoft / PowerToys [URL:https://github.com/microsoft/PowerToys]
+10. ansible / ansible [URL:https://github.com/ansible/ansible]
+11. ChromeDevTools / chrome-devtools-mcp [URL:https://github.com/ChromeDevTools/chrome-devtools-mcp]
+12. jenkinsci / jenkins [URL:https://github.com/jenkinsci/jenkins]
+13. agavra / tuicr [URL:https://github.com/agavra/tuicr]
+14. affaan-m / ECC [URL:https://github.com/affaan-m/ECC]
+
