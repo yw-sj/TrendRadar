@@ -1,0 +1,14 @@
+github
+1. zhaoxuya520 / reverse-skill [URL:https://github.com/zhaoxuya520/reverse-skill]
+2. different-ai / openwork [URL:https://github.com/different-ai/openwork]
+3. mvanhorn / last30days-skill [URL:https://github.com/mvanhorn/last30days-skill]
+4. paperswithbacktest / awesome-systematic-trading [URL:https://github.com/paperswithbacktest/awesome-systematic-trading]
+5. microsoft / AI-For-Beginners [URL:https://github.com/microsoft/AI-For-Beginners]
+6. github / copilot-sdk [URL:https://github.com/github/copilot-sdk]
+7. chatwoot / chatwoot [URL:https://github.com/chatwoot/chatwoot]
+8. agavra / tuicr [URL:https://github.com/agavra/tuicr]
+9. usekaneo / kaneo [URL:https://github.com/usekaneo/kaneo]
+10. geo-tp / ESP32-Bit-Pirate [URL:https://github.com/geo-tp/ESP32-Bit-Pirate]
+11. deepfakes / faceswap [URL:https://github.com/deepfakes/faceswap]
+12. 1jehuang / jcode [URL:https://github.com/1jehuang/jcode]
+
