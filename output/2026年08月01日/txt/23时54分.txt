@@ -1,0 +1,17 @@
+github
+1. microsoft / AI-For-Beginners [URL:https://github.com/microsoft/AI-For-Beginners]
+2. paperswithbacktest / awesome-systematic-trading [URL:https://github.com/paperswithbacktest/awesome-systematic-trading]
+3. usekaneo / kaneo [URL:https://github.com/usekaneo/kaneo]
+4. zhaoxuya520 / reverse-skill [URL:https://github.com/zhaoxuya520/reverse-skill]
+5. microsoft / generative-ai-for-beginners [URL:https://github.com/microsoft/generative-ai-for-beginners]
+6. github / copilot-sdk [URL:https://github.com/github/copilot-sdk]
+7. github / gh-stack [URL:https://github.com/github/gh-stack]
+8. huggingface / speech-to-speech [URL:https://github.com/huggingface/speech-to-speech]
+9. abus-aikorea / voice-pro [URL:https://github.com/abus-aikorea/voice-pro]
+10. iv-org / invidious [URL:https://github.com/iv-org/invidious]
+11. ansible / ansible [URL:https://github.com/ansible/ansible]
+12. microsoft / TRELLIS.2 [URL:https://github.com/microsoft/TRELLIS.2]
+13. TencentCloud / TencentDB-Agent-Memory [URL:https://github.com/TencentCloud/TencentDB-Agent-Memory]
+14. NomaDamas / k-skill [URL:https://github.com/NomaDamas/k-skill]
+15. bytedance / deer-flow [URL:https://github.com/bytedance/deer-flow]
+
