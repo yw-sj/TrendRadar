@@ -1,0 +1,18 @@
+github
+1. lyogavin / airllm [URL:https://github.com/lyogavin/airllm]
+2. zhaoxuya520 / reverse-skill [URL:https://github.com/zhaoxuya520/reverse-skill]
+3. firecrawl / pdf-inspector [URL:https://github.com/firecrawl/pdf-inspector]
+4. esengine / DeepSeek-Reasonix [URL:https://github.com/esengine/DeepSeek-Reasonix]
+5. TencentCloud / TencentDB-Agent-Memory [URL:https://github.com/TencentCloud/TencentDB-Agent-Memory]
+6. microsoft / AI-For-Beginners [URL:https://github.com/microsoft/AI-For-Beginners]
+7. microsoft / generative-ai-for-beginners [URL:https://github.com/microsoft/generative-ai-for-beginners]
+8. donnemartin / system-design-primer [URL:https://github.com/donnemartin/system-design-primer]
+9. antirez / ds4 [URL:https://github.com/antirez/ds4]
+10. shiyu-coder / Kronos [URL:https://github.com/shiyu-coder/Kronos]
+11. Panniantong / Agent-Reach [URL:https://github.com/Panniantong/Agent-Reach]
+12. Alishahryar1 / free-claude-code [URL:https://github.com/Alishahryar1/free-claude-code]
+13. iv-org / invidious [URL:https://github.com/iv-org/invidious]
+14. livekit / agents [URL:https://github.com/livekit/agents]
+15. usekaneo / kaneo [URL:https://github.com/usekaneo/kaneo]
+16. jamiepine / voicebox [URL:https://github.com/jamiepine/voicebox]
+
