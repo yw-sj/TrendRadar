@@ -1,0 +1,14 @@
+github
+1. huangruiteng / loopx [URL:https://github.com/huangruiteng/loopx]
+2. TencentCloud / TencentDB-Agent-Memory [URL:https://github.com/TencentCloud/TencentDB-Agent-Memory]
+3. donnemartin / system-design-primer [URL:https://github.com/donnemartin/system-design-primer]
+4. firecrawl / pdf-inspector [URL:https://github.com/firecrawl/pdf-inspector]
+5. esengine / DeepSeek-Reasonix [URL:https://github.com/esengine/DeepSeek-Reasonix]
+6. addyosmani / agent-skills [URL:https://github.com/addyosmani/agent-skills]
+7. obra / superpowers [URL:https://github.com/obra/superpowers]
+8. roboflow / supervision [URL:https://github.com/roboflow/supervision]
+9. vercel / next.js [URL:https://github.com/vercel/next.js]
+10. tailwindlabs / tailwindcss [URL:https://github.com/tailwindlabs/tailwindcss]
+11. uber / ADR [URL:https://github.com/uber/ADR]
+12. lyogavin / airllm [URL:https://github.com/lyogavin/airllm]
+
