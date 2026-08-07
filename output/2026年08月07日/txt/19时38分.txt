@@ -1,0 +1,15 @@
+github
+1. TencentCloud / TencentDB-Agent-Memory [URL:https://github.com/TencentCloud/TencentDB-Agent-Memory]
+2. addyosmani / agent-skills [URL:https://github.com/addyosmani/agent-skills]
+3. cloudflare / computer [URL:https://github.com/cloudflare/computer]
+4. mattpocock / skills [URL:https://github.com/mattpocock/skills]
+5. goauthentik / authentik [URL:https://github.com/goauthentik/authentik]
+6. huangruiteng / loopx [URL:https://github.com/huangruiteng/loopx]
+7. google / guava [URL:https://github.com/google/guava]
+8. TapXWorld / ChinaTextbook [URL:https://github.com/TapXWorld/ChinaTextbook]
+9. Significant-Gravitas / AutoGPT [URL:https://github.com/Significant-Gravitas/AutoGPT]
+10. tirth8205 / code-review-graph [URL:https://github.com/tirth8205/code-review-graph]
+11. esengine / DeepSeek-Reasonix [URL:https://github.com/esengine/DeepSeek-Reasonix]
+12. obra / superpowers [URL:https://github.com/obra/superpowers]
+13. firecrawl / pdf-inspector [URL:https://github.com/firecrawl/pdf-inspector]
+
