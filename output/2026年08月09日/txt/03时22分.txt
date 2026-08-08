@@ -1,0 +1,14 @@
+github
+1. PrimeIntellect-ai / prime-agent [URL:https://github.com/PrimeIntellect-ai/prime-agent]
+2. addyosmani / agent-skills [URL:https://github.com/addyosmani/agent-skills]
+3. TapXWorld / ChinaTextbook [URL:https://github.com/TapXWorld/ChinaTextbook]
+4. google / skills [URL:https://github.com/google/skills]
+5. mattpocock / skills [URL:https://github.com/mattpocock/skills]
+6. goauthentik / authentik [URL:https://github.com/goauthentik/authentik]
+7. TauricResearch / TradingAgents [URL:https://github.com/TauricResearch/TradingAgents]
+8. google / guava [URL:https://github.com/google/guava]
+9. LadybirdBrowser / ladybird [URL:https://github.com/LadybirdBrowser/ladybird]
+10. denoland / celld [URL:https://github.com/denoland/celld]
+11. litu54 / DevOps-Interview-Guide [URL:https://github.com/litu54/DevOps-Interview-Guide]
+12. bannedbook / fanqiang [URL:https://github.com/bannedbook/fanqiang]
+
