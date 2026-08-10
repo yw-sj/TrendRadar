@@ -1,0 +1,14 @@
+github
+1. PrimeIntellect-ai / prime-agent [URL:https://github.com/PrimeIntellect-ai/prime-agent]
+2. vitali87 / code-graph-rag [URL:https://github.com/vitali87/code-graph-rag]
+3. msitarzewski / agency-agents [URL:https://github.com/msitarzewski/agency-agents]
+4. pranshuparmar / witr [URL:https://github.com/pranshuparmar/witr]
+5. google-deepmind / weathernext [URL:https://github.com/google-deepmind/weathernext]
+6. addyosmani / agent-skills [URL:https://github.com/addyosmani/agent-skills]
+7. ZhuLinsen / daily_stock_analysis [URL:https://github.com/ZhuLinsen/daily_stock_analysis]
+8. goauthentik / authentik [URL:https://github.com/goauthentik/authentik]
+9. google / skills [URL:https://github.com/google/skills]
+10. Comfy-Org / ComfyUI [URL:https://github.com/Comfy-Org/ComfyUI]
+11. harveyai / harvey-labs [URL:https://github.com/harveyai/harvey-labs]
+12. pingdotgg / t3code [URL:https://github.com/pingdotgg/t3code]
+
