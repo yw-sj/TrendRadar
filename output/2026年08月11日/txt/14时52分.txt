@@ -1,0 +1,18 @@
+github
+1. semantica-agi / semantica [URL:https://github.com/semantica-agi/semantica]
+2. msitarzewski / agency-agents [URL:https://github.com/msitarzewski/agency-agents]
+3. NanmiCoder / MediaCrawler [URL:https://github.com/NanmiCoder/MediaCrawler]
+4. addyosmani / agent-skills [URL:https://github.com/addyosmani/agent-skills]
+5. paperclipai / paperclip [URL:https://github.com/paperclipai/paperclip]
+6. PrimeIntellect-ai / prime-agent [URL:https://github.com/PrimeIntellect-ai/prime-agent]
+7. LadybirdBrowser / ladybird [URL:https://github.com/LadybirdBrowser/ladybird]
+8. ruvnet / RuView [URL:https://github.com/ruvnet/RuView]
+9. danielmiessler / LifeOS [URL:https://github.com/danielmiessler/LifeOS]
+10. firecrawl / firecrawl [URL:https://github.com/firecrawl/firecrawl]
+11. TauricResearch / TradingAgents [URL:https://github.com/TauricResearch/TradingAgents]
+12. google-deepmind / weathernext [URL:https://github.com/google-deepmind/weathernext]
+13. vitali87 / code-graph-rag [URL:https://github.com/vitali87/code-graph-rag]
+14. pingdotgg / t3code [URL:https://github.com/pingdotgg/t3code]
+15. Comfy-Org / ComfyUI [URL:https://github.com/Comfy-Org/ComfyUI]
+16. opa334 / Dopamine [URL:https://github.com/opa334/Dopamine]
+
