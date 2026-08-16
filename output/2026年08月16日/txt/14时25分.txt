@@ -1,0 +1,15 @@
+github
+1. cordiverse / cordis [URL:https://github.com/cordiverse/cordis]
+2. cathrynlavery / diagram-design [URL:https://github.com/cathrynlavery/diagram-design]
+3. cursor / plugins [URL:https://github.com/cursor/plugins]
+4. cactus-compute / needle [URL:https://github.com/cactus-compute/needle]
+5. unslothai / unsloth [URL:https://github.com/unslothai/unsloth]
+6. public-apis / public-apis [URL:https://github.com/public-apis/public-apis]
+7. MakazhanAlpamys / Soup [URL:https://github.com/MakazhanAlpamys/Soup]
+8. github / spec-kit [URL:https://github.com/github/spec-kit]
+9. megadose / holehe [URL:https://github.com/megadose/holehe]
+10. altic-dev / FluidVoice [URL:https://github.com/altic-dev/FluidVoice]
+11. ToolJet / ToolJet [URL:https://github.com/ToolJet/ToolJet]
+12. HKUDS / CLI-Anything [URL:https://github.com/HKUDS/CLI-Anything]
+13. citrolabs / ego-lite [URL:https://github.com/citrolabs/ego-lite]
+
