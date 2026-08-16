@@ -1,0 +1,10 @@
+github
+1. cordiverse / cordis [URL:https://github.com/cordiverse/cordis]
+2. basecamp / omarchy [URL:https://github.com/basecamp/omarchy]
+3. unslothai / unsloth [URL:https://github.com/unslothai/unsloth]
+4. OpenCut-app / OpenCut [URL:https://github.com/OpenCut-app/OpenCut]
+5. akitaonrails / ai-memory [URL:https://github.com/akitaonrails/ai-memory]
+6. public-apis / public-apis [URL:https://github.com/public-apis/public-apis]
+7. ToolJet / ToolJet [URL:https://github.com/ToolJet/ToolJet]
+8. cactus-compute / needle [URL:https://github.com/cactus-compute/needle]
+
