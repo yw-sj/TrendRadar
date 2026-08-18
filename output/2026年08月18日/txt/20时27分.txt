@@ -1,0 +1,15 @@
+github
+1. harry0703 / MoneyPrinterTurbo [URL:https://github.com/harry0703/MoneyPrinterTurbo]
+2. chaitanyagiri / munder-difflin [URL:https://github.com/chaitanyagiri/munder-difflin]
+3. akitaonrails / ai-memory [URL:https://github.com/akitaonrails/ai-memory]
+4. volcengine / OpenViking [URL:https://github.com/volcengine/OpenViking]
+5. mukul975 / Anthropic-Cybersecurity-Skills [URL:https://github.com/mukul975/Anthropic-Cybersecurity-Skills]
+6. public-apis / public-apis [URL:https://github.com/public-apis/public-apis]
+7. basecamp / omarchy [URL:https://github.com/basecamp/omarchy]
+8. agalwood / Motrix [URL:https://github.com/agalwood/Motrix]
+9. NawfalMotii79 / PLFM_RADAR [URL:https://github.com/NawfalMotii79/PLFM_RADAR]
+10. jundot / omlx [URL:https://github.com/jundot/omlx]
+11. bojieli / ai-agent-book [URL:https://github.com/bojieli/ai-agent-book]
+12. genlayerlabs / genlayer-project-boilerplate [URL:https://github.com/genlayerlabs/genlayer-project-boilerplate]
+13. OpenCut-app / OpenCut [URL:https://github.com/OpenCut-app/OpenCut]
+
