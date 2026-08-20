@@ -1,0 +1,15 @@
+github
+1. harry0703 / MoneyPrinterTurbo [URL:https://github.com/harry0703/MoneyPrinterTurbo]
+2. volcengine / OpenViking [URL:https://github.com/volcengine/OpenViking]
+3. chaitanyagiri / munder-difflin [URL:https://github.com/chaitanyagiri/munder-difflin]
+4. mukul975 / Anthropic-Cybersecurity-Skills [URL:https://github.com/mukul975/Anthropic-Cybersecurity-Skills]
+5. nautechsystems / nautilus_trader [URL:https://github.com/nautechsystems/nautilus_trader]
+6. mattpocock / skills [URL:https://github.com/mattpocock/skills]
+7. obra / superpowers [URL:https://github.com/obra/superpowers]
+8. jundot / omlx [URL:https://github.com/jundot/omlx]
+9. santifer / career-ops [URL:https://github.com/santifer/career-ops]
+10. immich-app / immich [URL:https://github.com/immich-app/immich]
+11. amadeusprotocol / node [URL:https://github.com/amadeusprotocol/node]
+12. marceloprates / prettymaps [URL:https://github.com/marceloprates/prettymaps]
+13. genlayerlabs / genlayer-project-boilerplate [URL:https://github.com/genlayerlabs/genlayer-project-boilerplate]
+
