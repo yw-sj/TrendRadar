@@ -1,0 +1,18 @@
+github
+1. mattpocock / skills [URL:https://github.com/mattpocock/skills]
+2. harry0703 / MoneyPrinterTurbo [URL:https://github.com/harry0703/MoneyPrinterTurbo]
+3. AprilNEA / OpenLogi [URL:https://github.com/AprilNEA/OpenLogi]
+4. PostHog / posthog [URL:https://github.com/PostHog/posthog]
+5. microsoft / TypeScript [URL:https://github.com/microsoft/TypeScript]
+6. obra / superpowers [URL:https://github.com/obra/superpowers]
+7. santifer / career-ops [URL:https://github.com/santifer/career-ops]
+8. cursor / plugins [URL:https://github.com/cursor/plugins]
+9. modular / modular [URL:https://github.com/modular/modular]
+10. affaan-m / ECC [URL:https://github.com/affaan-m/ECC]
+11. TryGhost / Ghost [URL:https://github.com/TryGhost/Ghost]
+12. ruvnet / ruflo [URL:https://github.com/ruvnet/ruflo]
+13. apache / maka [URL:https://github.com/apache/maka]
+14. protocolbuffers / protobuf [URL:https://github.com/protocolbuffers/protobuf]
+15. elder-plinius / OBLITERATUS [URL:https://github.com/elder-plinius/OBLITERATUS]
+16. microsoft / onnxruntime [URL:https://github.com/microsoft/onnxruntime]
+
