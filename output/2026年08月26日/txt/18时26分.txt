@@ -1,0 +1,18 @@
+github
+1. freestylefly / awesome-gpt-image-2 [URL:https://github.com/freestylefly/awesome-gpt-image-2]
+2. anthropics / claude-plugins-community [URL:https://github.com/anthropics/claude-plugins-community]
+3. MadsLorentzen / ai-job-search [URL:https://github.com/MadsLorentzen/ai-job-search]
+4. apache / maka [URL:https://github.com/apache/maka]
+5. TauricResearch / TradingAgents [URL:https://github.com/TauricResearch/TradingAgents]
+6. AgriciDaniel / claude-obsidian [URL:https://github.com/AgriciDaniel/claude-obsidian]
+7. rohitg00 / ai-engineering-from-scratch [URL:https://github.com/rohitg00/ai-engineering-from-scratch]
+8. tinyhumansai / openhuman [URL:https://github.com/tinyhumansai/openhuman]
+9. basecamp / omarchy [URL:https://github.com/basecamp/omarchy]
+10. Shubhamsaboo / awesome-llm-apps [URL:https://github.com/Shubhamsaboo/awesome-llm-apps]
+11. multica-ai / andrej-karpathy-skills [URL:https://github.com/multica-ai/andrej-karpathy-skills]
+12. openai / codex [URL:https://github.com/openai/codex]
+13. marin-community / marin [URL:https://github.com/marin-community/marin]
+14. DietrichGebert / ponytail [URL:https://github.com/DietrichGebert/ponytail]
+15. anthropics / claude-plugins-official [URL:https://github.com/anthropics/claude-plugins-official]
+16. asciimoo / hister [URL:https://github.com/asciimoo/hister]
+
