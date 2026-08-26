@@ -1,0 +1,18 @@
+github
+1. tt-a1i / archify [URL:https://github.com/tt-a1i/archify]
+2. freestylefly / awesome-gpt-image-2 [URL:https://github.com/freestylefly/awesome-gpt-image-2]
+3. anthropics / claude-plugins-official [URL:https://github.com/anthropics/claude-plugins-official]
+4. Alishahryar1 / free-claude-code [URL:https://github.com/Alishahryar1/free-claude-code]
+5. MadsLorentzen / ai-job-search [URL:https://github.com/MadsLorentzen/ai-job-search]
+6. AgriciDaniel / claude-obsidian [URL:https://github.com/AgriciDaniel/claude-obsidian]
+7. basecamp / omarchy [URL:https://github.com/basecamp/omarchy]
+8. rohitg00 / ai-engineering-from-scratch [URL:https://github.com/rohitg00/ai-engineering-from-scratch]
+9. tinyhumansai / openhuman [URL:https://github.com/tinyhumansai/openhuman]
+10. DietrichGebert / ponytail [URL:https://github.com/DietrichGebert/ponytail]
+11. anthropics / claude-plugins-community [URL:https://github.com/anthropics/claude-plugins-community]
+12. ConardLi / garden-skills [URL:https://github.com/ConardLi/garden-skills]
+13. browser-use / browser-use [URL:https://github.com/browser-use/browser-use]
+14. K-Dense-AI / scientific-agent-skills [URL:https://github.com/K-Dense-AI/scientific-agent-skills]
+15. marin-community / marin [URL:https://github.com/marin-community/marin]
+16. VoltAgent / awesome-agent-skills [URL:https://github.com/VoltAgent/awesome-agent-skills]
+
