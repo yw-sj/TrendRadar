@@ -1,0 +1,18 @@
+github
+1. THU-MAIC / OpenMAIC [URL:https://github.com/THU-MAIC/OpenMAIC]
+2. tt-a1i / archify [URL:https://github.com/tt-a1i/archify]
+3. K-Dense-AI / scientific-agent-skills [URL:https://github.com/K-Dense-AI/scientific-agent-skills]
+4. k1tbyte / Wand-Enhancer [URL:https://github.com/k1tbyte/Wand-Enhancer]
+5. majd / ipatool [URL:https://github.com/majd/ipatool]
+6. jingyaogong / minimind [URL:https://github.com/jingyaogong/minimind]
+7. Osmantic / ODS [URL:https://github.com/Osmantic/ODS]
+8. checkstyle / checkstyle [URL:https://github.com/checkstyle/checkstyle]
+9. zhaoxuya520 / reverse-skill [URL:https://github.com/zhaoxuya520/reverse-skill]
+10. affaan-m / ECC [URL:https://github.com/affaan-m/ECC]
+11. kaifcodec / user-scanner [URL:https://github.com/kaifcodec/user-scanner]
+12. every-app / open-seo [URL:https://github.com/every-app/open-seo]
+13. p-e-w / heretic [URL:https://github.com/p-e-w/heretic]
+14. handsomestWei / patent-disclosure-skill [URL:https://github.com/handsomestWei/patent-disclosure-skill]
+15. firecrawl / pdf-inspector [URL:https://github.com/firecrawl/pdf-inspector]
+16. pollen-robotics / microduck_rl [URL:https://github.com/pollen-robotics/microduck_rl]
+
