@@ -1,0 +1,18 @@
+github
+1. mattpocock / skills [URL:https://github.com/mattpocock/skills]
+2. affaan-m / ECC [URL:https://github.com/affaan-m/ECC]
+3. DietrichGebert / ponytail [URL:https://github.com/DietrichGebert/ponytail]
+4. NousResearch / hermes-agent [URL:https://github.com/NousResearch/hermes-agent]
+5. fmtlib / fmt [URL:https://github.com/fmtlib/fmt]
+6. anthropics / skills [URL:https://github.com/anthropics/skills]
+7. cathrynlavery / diagram-design [URL:https://github.com/cathrynlavery/diagram-design]
+8. anomalyco / opencode [URL:https://github.com/anomalyco/opencode]
+9. ruvnet / ruflo [URL:https://github.com/ruvnet/ruflo]
+10. humanlayer / skills [URL:https://github.com/humanlayer/skills]
+11. blader / humanizer [URL:https://github.com/blader/humanizer]
+12. BraveOPotato / FckSignups [URL:https://github.com/BraveOPotato/FckSignups]
+13. WorldFlowAI / everything-claude-code [URL:https://github.com/WorldFlowAI/everything-claude-code]
+14. magnitudedev / magnitude [URL:https://github.com/magnitudedev/magnitude]
+15. bikini / exploitarium [URL:https://github.com/bikini/exploitarium]
+16. nvm-sh / nvm [URL:https://github.com/nvm-sh/nvm]
+
