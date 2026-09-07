@@ -1,0 +1,16 @@
+github
+1. heygen-com / hyperframes [URL:https://github.com/heygen-com/hyperframes]
+2. microsoft / markitdown [URL:https://github.com/microsoft/markitdown]
+3. mksglu / context-mode [URL:https://github.com/mksglu/context-mode]
+4. jo-inc / camofox-browser [URL:https://github.com/jo-inc/camofox-browser]
+5. MoonTechLab / LunaTV [URL:https://github.com/MoonTechLab/LunaTV]
+6. affaan-m / ECC [URL:https://github.com/affaan-m/ECC]
+7. coreyhaines31 / marketingskills [URL:https://github.com/coreyhaines31/marketingskills]
+8. The-Swarm-Corporation / AutoHedge [URL:https://github.com/The-Swarm-Corporation/AutoHedge]
+9. BraveOPotato / FckSignups [URL:https://github.com/BraveOPotato/FckSignups]
+10. bytedance / deer-flow [URL:https://github.com/bytedance/deer-flow]
+11. openai / skills [URL:https://github.com/openai/skills]
+12. lightpanda-io / browser [URL:https://github.com/lightpanda-io/browser]
+13. pascalorg / editor [URL:https://github.com/pascalorg/editor]
+14. ruvnet / ruflo [URL:https://github.com/ruvnet/ruflo]
+
