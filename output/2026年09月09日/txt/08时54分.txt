@@ -1,0 +1,18 @@
+github
+1. ayghri / i-have-adhd [URL:https://github.com/ayghri/i-have-adhd]
+2. cathrynlavery / diagram-design [URL:https://github.com/cathrynlavery/diagram-design]
+3. openai / skills [URL:https://github.com/openai/skills]
+4. affaan-m / ECC [URL:https://github.com/affaan-m/ECC]
+5. heygen-com / hyperframes [URL:https://github.com/heygen-com/hyperframes]
+6. coreyhaines31 / marketingskills [URL:https://github.com/coreyhaines31/marketingskills]
+7. obra / superpowers [URL:https://github.com/obra/superpowers]
+8. multica-ai / andrej-karpathy-skills [URL:https://github.com/multica-ai/andrej-karpathy-skills]
+9. microsoft / markitdown [URL:https://github.com/microsoft/markitdown]
+10. jo-inc / camofox-browser [URL:https://github.com/jo-inc/camofox-browser]
+11. MoonTechLab / LunaTV [URL:https://github.com/MoonTechLab/LunaTV]
+12. browser-use / browser-use [URL:https://github.com/browser-use/browser-use]
+13. mksglu / context-mode [URL:https://github.com/mksglu/context-mode]
+14. The-Swarm-Corporation / AutoHedge [URL:https://github.com/The-Swarm-Corporation/AutoHedge]
+15. viarotel-org / escrcpy [URL:https://github.com/viarotel-org/escrcpy]
+16. openai / plugins [URL:https://github.com/openai/plugins]
+
