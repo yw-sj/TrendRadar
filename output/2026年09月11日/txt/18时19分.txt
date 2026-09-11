@@ -1,0 +1,18 @@
+github
+1. ayghri / i-have-adhd [URL:https://github.com/ayghri/i-have-adhd]
+2. bilawalsidhu / gods-eye-view [URL:https://github.com/bilawalsidhu/gods-eye-view]
+3. obra / superpowers [URL:https://github.com/obra/superpowers]
+4. alsk1992 / CloddsBot [URL:https://github.com/alsk1992/CloddsBot]
+5. Tencent / teamai-cli [URL:https://github.com/Tencent/teamai-cli]
+6. AlexsJones / llmfit [URL:https://github.com/AlexsJones/llmfit]
+7. liquidslr / system-design-notes [URL:https://github.com/liquidslr/system-design-notes]
+8. cathrynlavery / diagram-design [URL:https://github.com/cathrynlavery/diagram-design]
+9. freestylefly / awesome-gpt-image-2 [URL:https://github.com/freestylefly/awesome-gpt-image-2]
+10. armory3d / armorpaint [URL:https://github.com/armory3d/armorpaint]
+11. diegosouzapw / OmniRoute [URL:https://github.com/diegosouzapw/OmniRoute]
+12. JustVugg / colibri [URL:https://github.com/JustVugg/colibri]
+13. THU-MAIC / OpenMAIC [URL:https://github.com/THU-MAIC/OpenMAIC]
+14. nashsu / llm_wiki [URL:https://github.com/nashsu/llm_wiki]
+15. vercel-labs / skills [URL:https://github.com/vercel-labs/skills]
+16. vastsa / PI-Desktop [URL:https://github.com/vastsa/PI-Desktop]
+
