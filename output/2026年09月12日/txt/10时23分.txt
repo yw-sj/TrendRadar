@@ -1,0 +1,18 @@
+github
+1. ayghri / i-have-adhd [URL:https://github.com/ayghri/i-have-adhd]
+2. bilawalsidhu / gods-eye-view [URL:https://github.com/bilawalsidhu/gods-eye-view]
+3. nab138 / iloader [URL:https://github.com/nab138/iloader]
+4. melgarafael / DeskcommCRM [URL:https://github.com/melgarafael/DeskcommCRM]
+5. vastsa / PI-Desktop [URL:https://github.com/vastsa/PI-Desktop]
+6. armory3d / armorpaint [URL:https://github.com/armory3d/armorpaint]
+7. alsk1992 / CloddsBot [URL:https://github.com/alsk1992/CloddsBot]
+8. nashsu / llm_wiki [URL:https://github.com/nashsu/llm_wiki]
+9. obra / superpowers [URL:https://github.com/obra/superpowers]
+10. Sonarr / Sonarr [URL:https://github.com/Sonarr/Sonarr]
+11. jihe520 / MathModelAgent [URL:https://github.com/jihe520/MathModelAgent]
+12. p1neappleXpress / OpenFlux [URL:https://github.com/p1neappleXpress/OpenFlux]
+13. jordan-gibbs / hyperresearch [URL:https://github.com/jordan-gibbs/hyperresearch]
+14. alphaXiv / OpenResearch [URL:https://github.com/alphaXiv/OpenResearch]
+15. github / spec-kit [URL:https://github.com/github/spec-kit]
+16. pascalorg / editor [URL:https://github.com/pascalorg/editor]
+
