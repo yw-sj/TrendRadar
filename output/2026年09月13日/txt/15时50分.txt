@@ -1,0 +1,18 @@
+github
+1. bilawalsidhu / gods-eye-view [URL:https://github.com/bilawalsidhu/gods-eye-view]
+2. melgarafael / DeskcommCRM [URL:https://github.com/melgarafael/DeskcommCRM]
+3. asgeirtj / system_prompts_leaks [URL:https://github.com/asgeirtj/system_prompts_leaks]
+4. nab138 / iloader [URL:https://github.com/nab138/iloader]
+5. Flowseal / zapret-discord-youtube [URL:https://github.com/Flowseal/zapret-discord-youtube]
+6. jihe520 / MathModelAgent [URL:https://github.com/jihe520/MathModelAgent]
+7. Sonarr / Sonarr [URL:https://github.com/Sonarr/Sonarr]
+8. alsk1992 / CloddsBot [URL:https://github.com/alsk1992/CloddsBot]
+9. yuliskov / SmartTube [URL:https://github.com/yuliskov/SmartTube]
+10. Shubhamsaboo / awesome-llm-apps [URL:https://github.com/Shubhamsaboo/awesome-llm-apps]
+11. p1neappleXpress / OpenFlux [URL:https://github.com/p1neappleXpress/OpenFlux]
+12. armory3d / armorpaint [URL:https://github.com/armory3d/armorpaint]
+13. SnailSploit / Claude-Red [URL:https://github.com/SnailSploit/Claude-Red]
+14. multimodal-art-projection / YuE [URL:https://github.com/multimodal-art-projection/YuE]
+15. max-sixty / worktrunk [URL:https://github.com/max-sixty/worktrunk]
+16. vxcontrol / pentagi [URL:https://github.com/vxcontrol/pentagi]
+
