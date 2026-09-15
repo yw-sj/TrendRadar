@@ -1,0 +1,16 @@
+github
+1. alibaba / open-code-review [URL:https://github.com/alibaba/open-code-review]
+2. JustVugg / colibri [URL:https://github.com/JustVugg/colibri]
+3. ever-co / ever-gauzy [URL:https://github.com/ever-co/ever-gauzy]
+4. debpalash / VoiceStudio [URL:https://github.com/debpalash/VoiceStudio]
+5. Homebrew / BrewUI [URL:https://github.com/Homebrew/BrewUI]
+6. melgarafael / DeskcommCRM [URL:https://github.com/melgarafael/DeskcommCRM]
+7. alphaXiv / OpenResearch [URL:https://github.com/alphaXiv/OpenResearch]
+8. NationalSecurityAgency / ghidra [URL:https://github.com/NationalSecurityAgency/ghidra]
+9. danny-avila / LibreChat [URL:https://github.com/danny-avila/LibreChat]
+10. pacifio / atlas [URL:https://github.com/pacifio/atlas]
+11. MG1937 / ASC [URL:https://github.com/MG1937/ASC]
+12. addyosmani / agent-skills [URL:https://github.com/addyosmani/agent-skills]
+13. tonhowtf / omniget [URL:https://github.com/tonhowtf/omniget]
+14. earendil-works / pi [URL:https://github.com/earendil-works/pi]
+
