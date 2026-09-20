@@ -1,0 +1,15 @@
+github
+1. affaan-m / ECC [URL:https://github.com/affaan-m/ECC]
+2. BuilderIO / agent-native [URL:https://github.com/BuilderIO/agent-native]
+3. cloudflare / security-audit-skill [URL:https://github.com/cloudflare/security-audit-skill]
+4. trycua / cua [URL:https://github.com/trycua/cua]
+5. anthropics / financial-services [URL:https://github.com/anthropics/financial-services]
+6. paperless-ngx / paperless-ngx [URL:https://github.com/paperless-ngx/paperless-ngx]
+7. anthropics / claude-code [URL:https://github.com/anthropics/claude-code]
+8. mihail911 / modern-software-dev-assignments [URL:https://github.com/mihail911/modern-software-dev-assignments]
+9. higgsfield-ai / higgsfield [URL:https://github.com/higgsfield-ai/higgsfield]
+10. Open-Dev-Society / OpenStock [URL:https://github.com/Open-Dev-Society/OpenStock]
+11. coder / coder [URL:https://github.com/coder/coder]
+12. vercel-labs / json-render [URL:https://github.com/vercel-labs/json-render]
+13. addyosmani / agent-skills [URL:https://github.com/addyosmani/agent-skills]
+
