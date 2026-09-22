@@ -1,0 +1,14 @@
+github
+1. BuilderIO / agent-native [URL:https://github.com/BuilderIO/agent-native]
+2. trycua / cua [URL:https://github.com/trycua/cua]
+3. Open-Dev-Society / OpenStock [URL:https://github.com/Open-Dev-Society/OpenStock]
+4. akitaonrails / ai-memory [URL:https://github.com/akitaonrails/ai-memory]
+5. coder / coder [URL:https://github.com/coder/coder]
+6. anthropics / financial-services [URL:https://github.com/anthropics/financial-services]
+7. cloudflare / quiche [URL:https://github.com/cloudflare/quiche]
+8. mvt-project / mvt [URL:https://github.com/mvt-project/mvt]
+9. zhouxiaoka / autoclip [URL:https://github.com/zhouxiaoka/autoclip]
+10. ruanyf / weekly [URL:https://github.com/ruanyf/weekly]
+11. Crosstalk-Solutions / project-nomad [URL:https://github.com/Crosstalk-Solutions/project-nomad]
+12. yynxxxxx / Codex-X [URL:https://github.com/yynxxxxx/Codex-X]
+
