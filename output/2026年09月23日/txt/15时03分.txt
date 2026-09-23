@@ -1,0 +1,10 @@
+github
+1. anthropics / financial-services [URL:https://github.com/anthropics/financial-services]
+2. agent-substrate / substrate [URL:https://github.com/agent-substrate/substrate]
+3. dream-num / univer [URL:https://github.com/dream-num/univer]
+4. davila7 / claude-code-templates [URL:https://github.com/davila7/claude-code-templates]
+5. google / ax [URL:https://github.com/google/ax]
+6. mvt-project / mvt [URL:https://github.com/mvt-project/mvt]
+7. superdesigndev / treg [URL:https://github.com/superdesigndev/treg]
+8. browser-use / video-use [URL:https://github.com/browser-use/video-use]
+
