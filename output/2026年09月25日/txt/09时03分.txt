@@ -1,0 +1,16 @@
+github
+1. rohitg00 / ai-engineering-from-scratch [URL:https://github.com/rohitg00/ai-engineering-from-scratch]
+2. vectorize-io / hindsight [URL:https://github.com/vectorize-io/hindsight]
+3. dream-num / univer [URL:https://github.com/dream-num/univer]
+4. google / ax [URL:https://github.com/google/ax]
+5. NVIDIA / Model-Optimizer [URL:https://github.com/NVIDIA/Model-Optimizer]
+6. FxEmbed / FxEmbed [URL:https://github.com/FxEmbed/FxEmbed]
+7. anthropics / financial-services [URL:https://github.com/anthropics/financial-services]
+8. HKUDS / CLI-Anything [URL:https://github.com/HKUDS/CLI-Anything]
+9. mvt-project / mvt [URL:https://github.com/mvt-project/mvt]
+10. obra / superpowers [URL:https://github.com/obra/superpowers]
+11. strands-agents / harness-sdk [URL:https://github.com/strands-agents/harness-sdk]
+12. julyx10 / lap [URL:https://github.com/julyx10/lap]
+13. superdesigndev / treg [URL:https://github.com/superdesigndev/treg]
+14. leejet / stable-diffusion.cpp [URL:https://github.com/leejet/stable-diffusion.cpp]
+
