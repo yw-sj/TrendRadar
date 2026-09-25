@@ -1,0 +1,18 @@
+github
+1. paperclipai / paperclip [URL:https://github.com/paperclipai/paperclip]
+2. anthropics / claude-plugins-official [URL:https://github.com/anthropics/claude-plugins-official]
+3. vectorize-io / hindsight [URL:https://github.com/vectorize-io/hindsight]
+4. obra / superpowers [URL:https://github.com/obra/superpowers]
+5. mattpocock / skills [URL:https://github.com/mattpocock/skills]
+6. dream-num / univer [URL:https://github.com/dream-num/univer]
+7. anthropics / skills [URL:https://github.com/anthropics/skills]
+8. androoAGI / starnet [URL:https://github.com/androoAGI/starnet]
+9. derv82 / wifit3 [URL:https://github.com/derv82/wifit3]
+10. kelseyhightower / kubernetes-the-hard-way [URL:https://github.com/kelseyhightower/kubernetes-the-hard-way]
+11. rohitg00 / ai-engineering-from-scratch [URL:https://github.com/rohitg00/ai-engineering-from-scratch]
+12. shy3130 / tick-stock-panel [URL:https://github.com/shy3130/tick-stock-panel]
+13. google / ax [URL:https://github.com/google/ax]
+14. NVIDIA / Model-Optimizer [URL:https://github.com/NVIDIA/Model-Optimizer]
+15. pbakaus / impeccable [URL:https://github.com/pbakaus/impeccable]
+16. openbao / openbao [URL:https://github.com/openbao/openbao]
+
