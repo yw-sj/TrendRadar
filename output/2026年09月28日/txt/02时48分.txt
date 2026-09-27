@@ -1,0 +1,11 @@
+github
+1. paperclipai / paperclip [URL:https://github.com/paperclipai/paperclip]
+2. vectorize-io / hindsight [URL:https://github.com/vectorize-io/hindsight]
+3. debpalash / VoiceStudio [URL:https://github.com/debpalash/VoiceStudio]
+4. rohitg00 / ai-engineering-from-scratch [URL:https://github.com/rohitg00/ai-engineering-from-scratch]
+5. InfinityLoop1308 / PipePipe [URL:https://github.com/InfinityLoop1308/PipePipe]
+6. vercel-labs / scriptc [URL:https://github.com/vercel-labs/scriptc]
+7. mvschwarz / openrig [URL:https://github.com/mvschwarz/openrig]
+8. dream-num / univer [URL:https://github.com/dream-num/univer]
+9. willfaust / Madeira [URL:https://github.com/willfaust/Madeira]
+
