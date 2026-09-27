@@ -1,0 +1,17 @@
+github
+1. paperclipai / paperclip [URL:https://github.com/paperclipai/paperclip]
+2. vectorize-io / hindsight [URL:https://github.com/vectorize-io/hindsight]
+3. NVIDIA / Model-Optimizer [URL:https://github.com/NVIDIA/Model-Optimizer]
+4. dream-num / univer [URL:https://github.com/dream-num/univer]
+5. tensorflow / tensorflow [URL:https://github.com/tensorflow/tensorflow]
+6. rohitg00 / ai-engineering-from-scratch [URL:https://github.com/rohitg00/ai-engineering-from-scratch]
+7. openbao / openbao [URL:https://github.com/openbao/openbao]
+8. block / buzz [URL:https://github.com/block/buzz]
+9. microsoft / vscode [URL:https://github.com/microsoft/vscode]
+10. zhaoxuya520 / reverse-skill [URL:https://github.com/zhaoxuya520/reverse-skill]
+11. llvm / llvm-project [URL:https://github.com/llvm/llvm-project]
+12. anthropics / claude-code-action [URL:https://github.com/anthropics/claude-code-action]
+13. actions / runner-images [URL:https://github.com/actions/runner-images]
+14. mobile-next / mobile-mcp [URL:https://github.com/mobile-next/mobile-mcp]
+15. vercel / next.js [URL:https://github.com/vercel/next.js]
+
