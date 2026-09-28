@@ -1,0 +1,10 @@
+github
+1. debpalash / VoiceStudio [URL:https://github.com/debpalash/VoiceStudio]
+2. paperclipai / paperclip [URL:https://github.com/paperclipai/paperclip]
+3. vectorize-io / hindsight [URL:https://github.com/vectorize-io/hindsight]
+4. NawfalMotii79 / PLFM_RADAR [URL:https://github.com/NawfalMotii79/PLFM_RADAR]
+5. cs341-illinois / coursebook [URL:https://github.com/cs341-illinois/coursebook]
+6. byoungd / up [URL:https://github.com/byoungd/up]
+7. mvschwarz / openrig [URL:https://github.com/mvschwarz/openrig]
+8. dream-num / univer [URL:https://github.com/dream-num/univer]
+
