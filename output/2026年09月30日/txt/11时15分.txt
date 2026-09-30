@@ -1,0 +1,16 @@
+github
+1. debpalash / VoiceStudio [URL:https://github.com/debpalash/VoiceStudio]
+2. NVIDIA / OpenShell [URL:https://github.com/NVIDIA/OpenShell]
+3. vectorize-io / hindsight [URL:https://github.com/vectorize-io/hindsight]
+4. paperclipai / paperclip [URL:https://github.com/paperclipai/paperclip]
+5. t8y2 / dbx [URL:https://github.com/t8y2/dbx]
+6. mvschwarz / openrig [URL:https://github.com/mvschwarz/openrig]
+7. oblien / openship [URL:https://github.com/oblien/openship]
+8. averygan / reclip [URL:https://github.com/averygan/reclip]
+9. cs341-illinois / coursebook [URL:https://github.com/cs341-illinois/coursebook]
+10. rohitg00 / ai-engineering-from-scratch [URL:https://github.com/rohitg00/ai-engineering-from-scratch]
+11. VectifyAI / PageIndex [URL:https://github.com/VectifyAI/PageIndex]
+12. willfaust / Madeira [URL:https://github.com/willfaust/Madeira]
+13. dream-num / univer [URL:https://github.com/dream-num/univer]
+14. rakyll / hey [URL:https://github.com/rakyll/hey]
+
