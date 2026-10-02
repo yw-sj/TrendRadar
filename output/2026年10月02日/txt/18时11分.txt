@@ -1,0 +1,17 @@
+github
+1. DietrichGebert / ponytail [URL:https://github.com/DietrichGebert/ponytail]
+2. mattpocock / skills [URL:https://github.com/mattpocock/skills]
+3. NVIDIA / OpenShell [URL:https://github.com/NVIDIA/OpenShell]
+4. firebase / firebase-ios-sdk [URL:https://github.com/firebase/firebase-ios-sdk]
+5. mvschwarz / openrig [URL:https://github.com/mvschwarz/openrig]
+6. cursor / plugins [URL:https://github.com/cursor/plugins]
+7. obra / superpowers [URL:https://github.com/obra/superpowers]
+8. mksglu / context-mode [URL:https://github.com/mksglu/context-mode]
+9. heygen-com / hyperframes [URL:https://github.com/heygen-com/hyperframes]
+10. earendil-works / pi [URL:https://github.com/earendil-works/pi]
+11. tile-ai / tilelang [URL:https://github.com/tile-ai/tilelang]
+12. pablostanley / yoinks [URL:https://github.com/pablostanley/yoinks]
+13. HunxByts / GhostTrack [URL:https://github.com/HunxByts/GhostTrack]
+14. pbakaus / impeccable [URL:https://github.com/pbakaus/impeccable]
+15. Friedrich-M / UniMate [URL:https://github.com/Friedrich-M/UniMate]
+
