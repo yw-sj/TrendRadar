@@ -1,0 +1,18 @@
+github
+1. tester-army / e2e [URL:https://github.com/tester-army/e2e]
+2. pbakaus / impeccable [URL:https://github.com/pbakaus/impeccable]
+3. coreyhaines31 / marketingskills [URL:https://github.com/coreyhaines31/marketingskills]
+4. DietrichGebert / ponytail [URL:https://github.com/DietrichGebert/ponytail]
+5. earthtojake / text-to-cad [URL:https://github.com/earthtojake/text-to-cad]
+6. Panniantong / Agent-Reach [URL:https://github.com/Panniantong/Agent-Reach]
+7. getsentry / sentry [URL:https://github.com/getsentry/sentry]
+8. calesthio / OpenMontage [URL:https://github.com/calesthio/OpenMontage]
+9. pingdotgg / t3code [URL:https://github.com/pingdotgg/t3code]
+10. caddyserver / caddy [URL:https://github.com/caddyserver/caddy]
+11. michael-denyer / pstack-claude [URL:https://github.com/michael-denyer/pstack-claude]
+12. addyosmani / agent-skills [URL:https://github.com/addyosmani/agent-skills]
+13. thedotmack / claude-mem [URL:https://github.com/thedotmack/claude-mem]
+14. garrytan / gstack [URL:https://github.com/garrytan/gstack]
+15. OpenCut-app / OpenCut [URL:https://github.com/OpenCut-app/OpenCut]
+16. antirez / ds4 [URL:https://github.com/antirez/ds4]
+
