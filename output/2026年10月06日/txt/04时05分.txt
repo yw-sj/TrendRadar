@@ -1,0 +1,15 @@
+github
+1. tester-army / e2e [URL:https://github.com/tester-army/e2e]
+2. thedotmack / claude-mem [URL:https://github.com/thedotmack/claude-mem]
+3. earthtojake / text-to-cad [URL:https://github.com/earthtojake/text-to-cad]
+4. pingdotgg / t3code [URL:https://github.com/pingdotgg/t3code]
+5. boykopovar / AnyPS5 [URL:https://github.com/boykopovar/AnyPS5]
+6. Panniantong / Agent-Reach [URL:https://github.com/Panniantong/Agent-Reach]
+7. calesthio / OpenMontage [URL:https://github.com/calesthio/OpenMontage]
+8. caddyserver / caddy [URL:https://github.com/caddyserver/caddy]
+9. DuarteSantos8 / openGym [URL:https://github.com/DuarteSantos8/openGym]
+10. cloudflare / cloudflare-os [URL:https://github.com/cloudflare/cloudflare-os]
+11. Stremio / stremio-web [URL:https://github.com/Stremio/stremio-web]
+12. msitarzewski / agency-agents [URL:https://github.com/msitarzewski/agency-agents]
+13. M-Abozaid / esp32-c3-adblock [URL:https://github.com/M-Abozaid/esp32-c3-adblock]
+
