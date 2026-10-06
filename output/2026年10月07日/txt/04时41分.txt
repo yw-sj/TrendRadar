@@ -1,0 +1,14 @@
+github
+1. tester-army / e2e [URL:https://github.com/tester-army/e2e]
+2. mattpocock / skills [URL:https://github.com/mattpocock/skills]
+3. earthtojake / text-to-cad [URL:https://github.com/earthtojake/text-to-cad]
+4. boykopovar / AnyPS5 [URL:https://github.com/boykopovar/AnyPS5]
+5. pbakaus / impeccable [URL:https://github.com/pbakaus/impeccable]
+6. thedotmack / claude-mem [URL:https://github.com/thedotmack/claude-mem]
+7. ayghri / i-have-adhd [URL:https://github.com/ayghri/i-have-adhd]
+8. morluto / rea [URL:https://github.com/morluto/rea]
+9. deepseek-ai / DeepGEMM [URL:https://github.com/deepseek-ai/DeepGEMM]
+10. msitarzewski / agency-agents [URL:https://github.com/msitarzewski/agency-agents]
+11. DuarteSantos8 / openGym [URL:https://github.com/DuarteSantos8/openGym]
+12. cathrynlavery / diagram-design [URL:https://github.com/cathrynlavery/diagram-design]
+
