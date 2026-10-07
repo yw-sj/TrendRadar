@@ -1,0 +1,15 @@
+github
+1. morluto / rea [URL:https://github.com/morluto/rea]
+2. mattpocock / skills [URL:https://github.com/mattpocock/skills]
+3. boykopovar / AnyPS5 [URL:https://github.com/boykopovar/AnyPS5]
+4. ayghri / i-have-adhd [URL:https://github.com/ayghri/i-have-adhd]
+5. cathrynlavery / diagram-design [URL:https://github.com/cathrynlavery/diagram-design]
+6. addyosmani / agent-skills [URL:https://github.com/addyosmani/agent-skills]
+7. EpicGames / raddebugger [URL:https://github.com/EpicGames/raddebugger]
+8. thedotmack / claude-mem [URL:https://github.com/thedotmack/claude-mem]
+9. manaflow-ai / cmux [URL:https://github.com/manaflow-ai/cmux]
+10. trycua / cua [URL:https://github.com/trycua/cua]
+11. cloudflare / security-audit-skill [URL:https://github.com/cloudflare/security-audit-skill]
+12. tester-army / e2e [URL:https://github.com/tester-army/e2e]
+13. DuarteSantos8 / openGym [URL:https://github.com/DuarteSantos8/openGym]
+
