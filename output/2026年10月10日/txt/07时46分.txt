@@ -1,0 +1,13 @@
+github
+1. morluto / rea [URL:https://github.com/morluto/rea]
+2. boykopovar / AnyPS5 [URL:https://github.com/boykopovar/AnyPS5]
+3. mattpocock / skills [URL:https://github.com/mattpocock/skills]
+4. cathrynlavery / diagram-design [URL:https://github.com/cathrynlavery/diagram-design]
+5. alibaba / open-code-review [URL:https://github.com/alibaba/open-code-review]
+6. anthropics / knowledge-work-plugins [URL:https://github.com/anthropics/knowledge-work-plugins]
+7. BerriAI / litellm [URL:https://github.com/BerriAI/litellm]
+8. addyosmani / agent-skills [URL:https://github.com/addyosmani/agent-skills]
+9. storytold / artcraft [URL:https://github.com/storytold/artcraft]
+10. Robbyant / lingbot-map [URL:https://github.com/Robbyant/lingbot-map]
+11. twostraws / SwiftUI-Agent-Skill [URL:https://github.com/twostraws/SwiftUI-Agent-Skill]
+
