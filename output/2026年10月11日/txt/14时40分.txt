@@ -1,0 +1,15 @@
+github
+1. morluto / rea [URL:https://github.com/morluto/rea]
+2. boykopovar / AnyPS5 [URL:https://github.com/boykopovar/AnyPS5]
+3. storytold / artcraft [URL:https://github.com/storytold/artcraft]
+4. cathrynlavery / diagram-design [URL:https://github.com/cathrynlavery/diagram-design]
+5. mksglu / context-mode [URL:https://github.com/mksglu/context-mode]
+6. mattpocock / skills [URL:https://github.com/mattpocock/skills]
+7. flutter / flutter [URL:https://github.com/flutter/flutter]
+8. tensorflow / tensorflow [URL:https://github.com/tensorflow/tensorflow]
+9. hugohe3 / ppt-master [URL:https://github.com/hugohe3/ppt-master]
+10. pytorch / pytorch [URL:https://github.com/pytorch/pytorch]
+11. huggingface / transformers [URL:https://github.com/huggingface/transformers]
+12. anthropics / knowledge-work-plugins [URL:https://github.com/anthropics/knowledge-work-plugins]
+13. multica-ai / andrej-karpathy-skills [URL:https://github.com/multica-ai/andrej-karpathy-skills]
+
