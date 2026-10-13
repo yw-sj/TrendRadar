@@ -1,0 +1,11 @@
+github
+1. morluto / rea [URL:https://github.com/morluto/rea]
+2. bilawalsidhu / gods-eye-view [URL:https://github.com/bilawalsidhu/gods-eye-view]
+3. mksglu / context-mode [URL:https://github.com/mksglu/context-mode]
+4. storytold / artcraft [URL:https://github.com/storytold/artcraft]
+5. open-webui / open-webui [URL:https://github.com/open-webui/open-webui]
+6. cathrynlavery / diagram-design [URL:https://github.com/cathrynlavery/diagram-design]
+7. lyogavin / airllm [URL:https://github.com/lyogavin/airllm]
+8. microsoft / BitNet [URL:https://github.com/microsoft/BitNet]
+9. Alishahryar1 / free-claude-code [URL:https://github.com/Alishahryar1/free-claude-code]
+
