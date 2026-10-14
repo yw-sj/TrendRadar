@@ -1,0 +1,14 @@
+github
+1. morluto / rea [URL:https://github.com/morluto/rea]
+2. debpalash / VoiceStudio [URL:https://github.com/debpalash/VoiceStudio]
+3. mksglu / context-mode [URL:https://github.com/mksglu/context-mode]
+4. nvm-sh / nvm [URL:https://github.com/nvm-sh/nvm]
+5. K-Dense-AI / scientific-agent-skills [URL:https://github.com/K-Dense-AI/scientific-agent-skills]
+6. HKUDS / CLI-Anything [URL:https://github.com/HKUDS/CLI-Anything]
+7. ifixai-ai / iFixAi [URL:https://github.com/ifixai-ai/iFixAi]
+8. vxcontrol / pentagi [URL:https://github.com/vxcontrol/pentagi]
+9. rust-lang / rust [URL:https://github.com/rust-lang/rust]
+10. xtool-org / xtool [URL:https://github.com/xtool-org/xtool]
+11. ntdevlabs / tiny11builder [URL:https://github.com/ntdevlabs/tiny11builder]
+12. NationalSecurityAgency / ghidra [URL:https://github.com/NationalSecurityAgency/ghidra]
+
