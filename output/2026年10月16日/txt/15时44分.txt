@@ -1,0 +1,15 @@
+github
+1. morluto / rea [URL:https://github.com/morluto/rea]
+2. anthropics / claude-plugins-official [URL:https://github.com/anthropics/claude-plugins-official]
+3. K-Dense-AI / scientific-agent-skills [URL:https://github.com/K-Dense-AI/scientific-agent-skills]
+4. JuliusBrussee / caveman [URL:https://github.com/JuliusBrussee/caveman]
+5. debpalash / VoiceStudio [URL:https://github.com/debpalash/VoiceStudio]
+6. obra / superpowers [URL:https://github.com/obra/superpowers]
+7. ruvnet / ruflo [URL:https://github.com/ruvnet/ruflo]
+8. mksglu / context-mode [URL:https://github.com/mksglu/context-mode]
+9. NationalSecurityAgency / ghidra [URL:https://github.com/NationalSecurityAgency/ghidra]
+10. affaan-m / ECC [URL:https://github.com/affaan-m/ECC]
+11. lightseekorg / tokenspeed [URL:https://github.com/lightseekorg/tokenspeed]
+12. xerj-org / xerj [URL:https://github.com/xerj-org/xerj]
+13. LibreSpark / LibreTV [URL:https://github.com/LibreSpark/LibreTV]
+
