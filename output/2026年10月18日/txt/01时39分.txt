@@ -1,0 +1,14 @@
+github
+1. anthropics / claude-plugins-official [URL:https://github.com/anthropics/claude-plugins-official]
+2. MadsLorentzen / ai-job-search [URL:https://github.com/MadsLorentzen/ai-job-search]
+3. affaan-m / ECC [URL:https://github.com/affaan-m/ECC]
+4. HKUDS / CLI-Anything [URL:https://github.com/HKUDS/CLI-Anything]
+5. K-Dense-AI / scientific-agent-skills [URL:https://github.com/K-Dense-AI/scientific-agent-skills]
+6. android / skills [URL:https://github.com/android/skills]
+7. stablyai / orca [URL:https://github.com/stablyai/orca]
+8. anthropics / claude-code [URL:https://github.com/anthropics/claude-code]
+9. debpalash / VoiceStudio [URL:https://github.com/debpalash/VoiceStudio]
+10. anomalyco / opencode [URL:https://github.com/anomalyco/opencode]
+11. ruvnet / ruflo [URL:https://github.com/ruvnet/ruflo]
+12. xerj-org / xerj [URL:https://github.com/xerj-org/xerj]
+
