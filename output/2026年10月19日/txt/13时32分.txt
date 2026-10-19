@@ -1,0 +1,15 @@
+github
+1. MadsLorentzen / ai-job-search [URL:https://github.com/MadsLorentzen/ai-job-search]
+2. anthropics / claude-plugins-official [URL:https://github.com/anthropics/claude-plugins-official]
+3. anomalyco / opencode [URL:https://github.com/anomalyco/opencode]
+4. cursor / plugins [URL:https://github.com/cursor/plugins]
+5. ruvnet / ruflo [URL:https://github.com/ruvnet/ruflo]
+6. akitaonrails / ai-memory [URL:https://github.com/akitaonrails/ai-memory]
+7. stablyai / orca [URL:https://github.com/stablyai/orca]
+8. HKUDS / CLI-Anything [URL:https://github.com/HKUDS/CLI-Anything]
+9. debpalash / VoiceStudio [URL:https://github.com/debpalash/VoiceStudio]
+10. android / skills [URL:https://github.com/android/skills]
+11. mlabonne / llm-course [URL:https://github.com/mlabonne/llm-course]
+12. Kruk2 / jasna [URL:https://github.com/Kruk2/jasna]
+13. Comfy-Org / ComfyUI [URL:https://github.com/Comfy-Org/ComfyUI]
+
