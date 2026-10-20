@@ -1,0 +1,14 @@
+github
+1. MadsLorentzen / ai-job-search [URL:https://github.com/MadsLorentzen/ai-job-search]
+2. anomalyco / opencode [URL:https://github.com/anomalyco/opencode]
+3. akitaonrails / ai-memory [URL:https://github.com/akitaonrails/ai-memory]
+4. Comfy-Org / ComfyUI [URL:https://github.com/Comfy-Org/ComfyUI]
+5. ruvnet / ruflo [URL:https://github.com/ruvnet/ruflo]
+6. stablyai / orca [URL:https://github.com/stablyai/orca]
+7. headroomlabs-ai / headroom [URL:https://github.com/headroomlabs-ai/headroom]
+8. withmarbleapp / os-taxonomy [URL:https://github.com/withmarbleapp/os-taxonomy]
+9. Kruk2 / jasna [URL:https://github.com/Kruk2/jasna]
+10. HKUDS / CLI-Anything [URL:https://github.com/HKUDS/CLI-Anything]
+11. anthropics / claude-code [URL:https://github.com/anthropics/claude-code]
+12. shiyu-coder / Kronos [URL:https://github.com/shiyu-coder/Kronos]
+
