@@ -1,0 +1,15 @@
+github
+1. MadsLorentzen / ai-job-search [URL:https://github.com/MadsLorentzen/ai-job-search]
+2. cloudflare / security-audit-skill [URL:https://github.com/cloudflare/security-audit-skill]
+3. vllm-project / vllm [URL:https://github.com/vllm-project/vllm]
+4. stablyai / orca [URL:https://github.com/stablyai/orca]
+5. headroomlabs-ai / headroom [URL:https://github.com/headroomlabs-ai/headroom]
+6. DietrichGebert / ponytail [URL:https://github.com/DietrichGebert/ponytail]
+7. Comfy-Org / ComfyUI [URL:https://github.com/Comfy-Org/ComfyUI]
+8. supabase / supabase [URL:https://github.com/supabase/supabase]
+9. twentyhq / twenty [URL:https://github.com/twentyhq/twenty]
+10. shiyu-coder / Kronos [URL:https://github.com/shiyu-coder/Kronos]
+11. strelov1 / freehire [URL:https://github.com/strelov1/freehire]
+12. akitaonrails / ai-memory [URL:https://github.com/akitaonrails/ai-memory]
+13. Graphify-Labs / graphify [URL:https://github.com/Graphify-Labs/graphify]
+
