@@ -1,0 +1,17 @@
+github
+1. MadsLorentzen / ai-job-search [URL:https://github.com/MadsLorentzen/ai-job-search]
+2. cloudflare / security-audit-skill [URL:https://github.com/cloudflare/security-audit-skill]
+3. stablyai / orca [URL:https://github.com/stablyai/orca]
+4. DietrichGebert / ponytail [URL:https://github.com/DietrichGebert/ponytail]
+5. Comfy-Org / ComfyUI [URL:https://github.com/Comfy-Org/ComfyUI]
+6. ruvnet / ruflo [URL:https://github.com/ruvnet/ruflo]
+7. Graphify-Labs / graphify [URL:https://github.com/Graphify-Labs/graphify]
+8. anomalyco / opencode [URL:https://github.com/anomalyco/opencode]
+9. msitarzewski / agency-agents [URL:https://github.com/msitarzewski/agency-agents]
+10. headroomlabs-ai / headroom [URL:https://github.com/headroomlabs-ai/headroom]
+11. anthropics / knowledge-work-plugins [URL:https://github.com/anthropics/knowledge-work-plugins]
+12. wshobson / agents [URL:https://github.com/wshobson/agents]
+13. sickn33 / agentic-awesome-skills [URL:https://github.com/sickn33/agentic-awesome-skills]
+14. shiyu-coder / Kronos [URL:https://github.com/shiyu-coder/Kronos]
+15. vllm-project / vllm [URL:https://github.com/vllm-project/vllm]
+
