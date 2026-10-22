@@ -1,0 +1,14 @@
+github
+1. cloudflare / security-audit-skill [URL:https://github.com/cloudflare/security-audit-skill]
+2. vllm-project / vllm [URL:https://github.com/vllm-project/vllm]
+3. stablyai / orca [URL:https://github.com/stablyai/orca]
+4. headroomlabs-ai / headroom [URL:https://github.com/headroomlabs-ai/headroom]
+5. DietrichGebert / ponytail [URL:https://github.com/DietrichGebert/ponytail]
+6. Comfy-Org / ComfyUI [URL:https://github.com/Comfy-Org/ComfyUI]
+7. supabase / supabase [URL:https://github.com/supabase/supabase]
+8. twentyhq / twenty [URL:https://github.com/twentyhq/twenty]
+9. shiyu-coder / Kronos [URL:https://github.com/shiyu-coder/Kronos]
+10. strelov1 / freehire [URL:https://github.com/strelov1/freehire]
+11. akitaonrails / ai-memory [URL:https://github.com/akitaonrails/ai-memory]
+12. Graphify-Labs / graphify [URL:https://github.com/Graphify-Labs/graphify]
+
