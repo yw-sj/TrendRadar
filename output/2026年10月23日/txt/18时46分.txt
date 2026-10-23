@@ -1,0 +1,11 @@
+github
+1. php / php-src [URL:https://github.com/php/php-src]
+2. anthropics / knowledge-work-plugins [URL:https://github.com/anthropics/knowledge-work-plugins]
+3. DietrichGebert / ponytail [URL:https://github.com/DietrichGebert/ponytail]
+4. cloudflare / security-audit-skill [URL:https://github.com/cloudflare/security-audit-skill]
+5. Graphify-Labs / graphify [URL:https://github.com/Graphify-Labs/graphify]
+6. supabase / supabase [URL:https://github.com/supabase/supabase]
+7. fastapi / fastapi [URL:https://github.com/fastapi/fastapi]
+8. luongnv89 / claude-howto [URL:https://github.com/luongnv89/claude-howto]
+9. Meloong-Git / PCL [URL:https://github.com/Meloong-Git/PCL]
+
