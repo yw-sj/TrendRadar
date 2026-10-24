@@ -1,0 +1,12 @@
+github
+1. cloudflare / security-audit-skill [URL:https://github.com/cloudflare/security-audit-skill]
+2. NVIDIA / OpenShell [URL:https://github.com/NVIDIA/OpenShell]
+3. aws / agent-toolkit-for-aws [URL:https://github.com/aws/agent-toolkit-for-aws]
+4. Nutlope / hallmark [URL:https://github.com/Nutlope/hallmark]
+5. luongnv89 / claude-howto [URL:https://github.com/luongnv89/claude-howto]
+6. pbakaus / impeccable [URL:https://github.com/pbakaus/impeccable]
+7. pollen-robotics / microduck [URL:https://github.com/pollen-robotics/microduck]
+8. google-gemini / gemini-cli [URL:https://github.com/google-gemini/gemini-cli]
+9. jbiaojerry / ebook-treasure-chest [URL:https://github.com/jbiaojerry/ebook-treasure-chest]
+10. makecindy / cindy [URL:https://github.com/makecindy/cindy]
+
