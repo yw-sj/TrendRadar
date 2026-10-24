@@ -1,0 +1,10 @@
+github
+1. cloudflare / security-audit-skill [URL:https://github.com/cloudflare/security-audit-skill]
+2. php / php-src [URL:https://github.com/php/php-src]
+3. anthropics / knowledge-work-plugins [URL:https://github.com/anthropics/knowledge-work-plugins]
+4. NVIDIA / OpenShell [URL:https://github.com/NVIDIA/OpenShell]
+5. Renhuai123 / ziwei-doushu [URL:https://github.com/Renhuai123/ziwei-doushu]
+6. SnailSploit / Claude-Red [URL:https://github.com/SnailSploit/Claude-Red]
+7. OpenBMB / VoxCPM [URL:https://github.com/OpenBMB/VoxCPM]
+8. nodejs / node [URL:https://github.com/nodejs/node]
+
