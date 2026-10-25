@@ -1,0 +1,13 @@
+github
+1. makecindy / cindy [URL:https://github.com/makecindy/cindy]
+2. Nutlope / hallmark [URL:https://github.com/Nutlope/hallmark]
+3. debpalash / VoiceStudio [URL:https://github.com/debpalash/VoiceStudio]
+4. pbakaus / impeccable [URL:https://github.com/pbakaus/impeccable]
+5. pollen-robotics / microduck [URL:https://github.com/pollen-robotics/microduck]
+6. TauricResearch / TradingAgents [URL:https://github.com/TauricResearch/TradingAgents]
+7. Renhuai123 / ziwei-doushu [URL:https://github.com/Renhuai123/ziwei-doushu]
+8. JetBrains / thinkrail [URL:https://github.com/JetBrains/thinkrail]
+9. coollabsio / coolify [URL:https://github.com/coollabsio/coolify]
+10. cloudflare / security-audit-skill [URL:https://github.com/cloudflare/security-audit-skill]
+11. AgriciDaniel / claude-seo [URL:https://github.com/AgriciDaniel/claude-seo]
+
