@@ -1,0 +1,16 @@
+github
+1. Nutlope / hallmark [URL:https://github.com/Nutlope/hallmark]
+2. TauricResearch / TradingAgents [URL:https://github.com/TauricResearch/TradingAgents]
+3. JetBrains / thinkrail [URL:https://github.com/JetBrains/thinkrail]
+4. makecindy / cindy [URL:https://github.com/makecindy/cindy]
+5. affaan-m / ECC [URL:https://github.com/affaan-m/ECC]
+6. pbakaus / impeccable [URL:https://github.com/pbakaus/impeccable]
+7. NVIDIA / SkillSpector [URL:https://github.com/NVIDIA/SkillSpector]
+8. pollen-robotics / microduck [URL:https://github.com/pollen-robotics/microduck]
+9. nightly-labs / openbot [URL:https://github.com/nightly-labs/openbot]
+10. Panniantong / Agent-Reach [URL:https://github.com/Panniantong/Agent-Reach]
+11. debpalash / VoiceStudio [URL:https://github.com/debpalash/VoiceStudio]
+12. gitroomhq / postiz-app [URL:https://github.com/gitroomhq/postiz-app]
+13. alchaincyf / huashu-design [URL:https://github.com/alchaincyf/huashu-design]
+14. multica-ai / andrej-karpathy-skills [URL:https://github.com/multica-ai/andrej-karpathy-skills]
+
