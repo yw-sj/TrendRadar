@@ -1,0 +1,16 @@
+github
+1. JetBrains / thinkrail [URL:https://github.com/JetBrains/thinkrail]
+2. elayadesign / ai-design-skills [URL:https://github.com/elayadesign/ai-design-skills]
+3. obra / superpowers [URL:https://github.com/obra/superpowers]
+4. HKUDS / DeepTutor [URL:https://github.com/HKUDS/DeepTutor]
+5. macro-inc / macro [URL:https://github.com/macro-inc/macro]
+6. Nutlope / hallmark [URL:https://github.com/Nutlope/hallmark]
+7. pbakaus / impeccable [URL:https://github.com/pbakaus/impeccable]
+8. makecindy / cindy [URL:https://github.com/makecindy/cindy]
+9. nightly-labs / openbot [URL:https://github.com/nightly-labs/openbot]
+10. togg53192-cmd / jailbreaks [URL:https://github.com/togg53192-cmd/jailbreaks]
+11. hmjz100 / LinkSwift [URL:https://github.com/hmjz100/LinkSwift]
+12. expo / skills [URL:https://github.com/expo/skills]
+13. ruvnet / RuView [URL:https://github.com/ruvnet/RuView]
+14. xiaolai / the-craft-of-selfteaching [URL:https://github.com/xiaolai/the-craft-of-selfteaching]
+
