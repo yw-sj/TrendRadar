@@ -1,0 +1,17 @@
+github
+1. thedotmack / claude-mem [URL:https://github.com/thedotmack/claude-mem]
+2. milind-soni / OpenMausBot [URL:https://github.com/milind-soni/OpenMausBot]
+3. pbakaus / impeccable [URL:https://github.com/pbakaus/impeccable]
+4. CopilotKit / OpenBot [URL:https://github.com/CopilotKit/OpenBot]
+5. Renhuai123 / ziwei-doushu [URL:https://github.com/Renhuai123/ziwei-doushu]
+6. expo / skills [URL:https://github.com/expo/skills]
+7. macro-inc / macro [URL:https://github.com/macro-inc/macro]
+8. mattpocock / skills [URL:https://github.com/mattpocock/skills]
+9. pingdotgg / t3code [URL:https://github.com/pingdotgg/t3code]
+10. HKUDS / DeepTutor [URL:https://github.com/HKUDS/DeepTutor]
+11. anthropics / skills [URL:https://github.com/anthropics/skills]
+12. JetBrains / thinkrail [URL:https://github.com/JetBrains/thinkrail]
+13. togg53192-cmd / jailbreaks [URL:https://github.com/togg53192-cmd/jailbreaks]
+14. obra / superpowers [URL:https://github.com/obra/superpowers]
+15. lightpanda-io / browser [URL:https://github.com/lightpanda-io/browser]
+
