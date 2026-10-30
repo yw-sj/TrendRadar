@@ -1,0 +1,13 @@
+github
+1. HKUDS / DeepTutor [URL:https://github.com/HKUDS/DeepTutor]
+2. obra / superpowers [URL:https://github.com/obra/superpowers]
+3. pbakaus / impeccable [URL:https://github.com/pbakaus/impeccable]
+4. JetBrains / thinkrail [URL:https://github.com/JetBrains/thinkrail]
+5. milind-soni / OpenMausBot [URL:https://github.com/milind-soni/OpenMausBot]
+6. nightly-labs / openbot [URL:https://github.com/nightly-labs/openbot]
+7. elayadesign / ai-design-skills [URL:https://github.com/elayadesign/ai-design-skills]
+8. thedotmack / claude-mem [URL:https://github.com/thedotmack/claude-mem]
+9. CopilotKit / OpenBot [URL:https://github.com/CopilotKit/OpenBot]
+10. togg53192-cmd / jailbreaks [URL:https://github.com/togg53192-cmd/jailbreaks]
+11. Donchitos / Claude-Code-Game-Studios [URL:https://github.com/Donchitos/Claude-Code-Game-Studios]
+
