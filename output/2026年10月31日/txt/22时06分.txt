@@ -1,0 +1,16 @@
+github
+1. thedotmack / claude-mem [URL:https://github.com/thedotmack/claude-mem]
+2. mattpocock / skills [URL:https://github.com/mattpocock/skills]
+3. Donchitos / Claude-Code-Game-Studios [URL:https://github.com/Donchitos/Claude-Code-Game-Studios]
+4. pingdotgg / t3code [URL:https://github.com/pingdotgg/t3code]
+5. Renhuai123 / ziwei-doushu [URL:https://github.com/Renhuai123/ziwei-doushu]
+6. milind-soni / OpenMausBot [URL:https://github.com/milind-soni/OpenMausBot]
+7. pbakaus / impeccable [URL:https://github.com/pbakaus/impeccable]
+8. obra / superpowers [URL:https://github.com/obra/superpowers]
+9. lightpanda-io / browser [URL:https://github.com/lightpanda-io/browser]
+10. HKUDS / DeepTutor [URL:https://github.com/HKUDS/DeepTutor]
+11. Orkas-AI / Orkas [URL:https://github.com/Orkas-AI/Orkas]
+12. THU-MAIC / OpenMAIC [URL:https://github.com/THU-MAIC/OpenMAIC]
+13. bregman-arie / devops-exercises [URL:https://github.com/bregman-arie/devops-exercises]
+14. vorssaint / vorssaint-utils [URL:https://github.com/vorssaint/vorssaint-utils]
+
