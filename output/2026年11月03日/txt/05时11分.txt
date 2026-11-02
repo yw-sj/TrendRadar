@@ -1,0 +1,17 @@
+github
+1. vercel-labs / agent-desktop [URL:https://github.com/vercel-labs/agent-desktop]
+2. thedotmack / claude-mem [URL:https://github.com/thedotmack/claude-mem]
+3. D4Vinci / Scrapling [URL:https://github.com/D4Vinci/Scrapling]
+4. hyprwm / Hyprland [URL:https://github.com/hyprwm/Hyprland]
+5. Donchitos / Claude-Code-Game-Studios [URL:https://github.com/Donchitos/Claude-Code-Game-Studios]
+6. FlashML-org / FreeToken [URL:https://github.com/FlashML-org/FreeToken]
+7. pingdotgg / t3code [URL:https://github.com/pingdotgg/t3code]
+8. shiyu-coder / Kronos [URL:https://github.com/shiyu-coder/Kronos]
+9. kornia / kornia [URL:https://github.com/kornia/kornia]
+10. JustVugg / colibri [URL:https://github.com/JustVugg/colibri]
+11. mattpocock / skills [URL:https://github.com/mattpocock/skills]
+12. max-sixty / worktrunk [URL:https://github.com/max-sixty/worktrunk]
+13. paperclipai / paperclip [URL:https://github.com/paperclipai/paperclip]
+14. karpathy / nanochat [URL:https://github.com/karpathy/nanochat]
+15. p-e-w / heretic [URL:https://github.com/p-e-w/heretic]
+
