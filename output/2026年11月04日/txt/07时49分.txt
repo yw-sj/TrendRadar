@@ -1,0 +1,15 @@
+github
+1. thedotmack / claude-mem [URL:https://github.com/thedotmack/claude-mem]
+2. vercel-labs / agent-desktop [URL:https://github.com/vercel-labs/agent-desktop]
+3. max-sixty / worktrunk [URL:https://github.com/max-sixty/worktrunk]
+4. JustVugg / colibri [URL:https://github.com/JustVugg/colibri]
+5. mattpocock / skills [URL:https://github.com/mattpocock/skills]
+6. p-e-w / heretic [URL:https://github.com/p-e-w/heretic]
+7. spotify / portal-ai-plugins [URL:https://github.com/spotify/portal-ai-plugins]
+8. floci-io / floci [URL:https://github.com/floci-io/floci]
+9. Usagi-org / ai-goofish-monitor [URL:https://github.com/Usagi-org/ai-goofish-monitor]
+10. anomalyco / hex [URL:https://github.com/anomalyco/hex]
+11. D4Vinci / Scrapling [URL:https://github.com/D4Vinci/Scrapling]
+12. shiyu-coder / Kronos [URL:https://github.com/shiyu-coder/Kronos]
+13. Donchitos / Claude-Code-Game-Studios [URL:https://github.com/Donchitos/Claude-Code-Game-Studios]
+
