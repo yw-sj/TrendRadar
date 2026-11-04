@@ -1,0 +1,16 @@
+github
+1. NVIDIA / auto-ontology [URL:https://github.com/NVIDIA/auto-ontology]
+2. max-sixty / worktrunk [URL:https://github.com/max-sixty/worktrunk]
+3. mattpocock / skills [URL:https://github.com/mattpocock/skills]
+4. floci-io / floci [URL:https://github.com/floci-io/floci]
+5. thedotmack / claude-mem [URL:https://github.com/thedotmack/claude-mem]
+6. vercel-labs / agent-desktop [URL:https://github.com/vercel-labs/agent-desktop]
+7. github / spec-kit [URL:https://github.com/github/spec-kit]
+8. The-PR-Agent / pr-agent [URL:https://github.com/The-PR-Agent/pr-agent]
+9. harry0703 / MoneyPrinterTurbo [URL:https://github.com/harry0703/MoneyPrinterTurbo]
+10. garrytan / gstack [URL:https://github.com/garrytan/gstack]
+11. JiaFeiMiao-K-Cat / DiscImageStudio [URL:https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio]
+12. MichaelCade / 90DaysOfDevOps [URL:https://github.com/MichaelCade/90DaysOfDevOps]
+13. D4Vinci / Scrapling [URL:https://github.com/D4Vinci/Scrapling]
+14. scenario-labs / skills [URL:https://github.com/scenario-labs/skills]
+
