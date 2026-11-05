@@ -1,0 +1,17 @@
+github
+1. NVIDIA / auto-ontology [URL:https://github.com/NVIDIA/auto-ontology]
+2. mattpocock / skills [URL:https://github.com/mattpocock/skills]
+3. garrytan / gstack [URL:https://github.com/garrytan/gstack]
+4. Usagi-org / ai-goofish-monitor [URL:https://github.com/Usagi-org/ai-goofish-monitor]
+5. D4Vinci / Scrapling [URL:https://github.com/D4Vinci/Scrapling]
+6. vercel-labs / agent-desktop [URL:https://github.com/vercel-labs/agent-desktop]
+7. max-sixty / worktrunk [URL:https://github.com/max-sixty/worktrunk]
+8. lz4 / lz4 [URL:https://github.com/lz4/lz4]
+9. google / skills [URL:https://github.com/google/skills]
+10. vercel-labs / agent-browser [URL:https://github.com/vercel-labs/agent-browser]
+11. scenario-labs / skills [URL:https://github.com/scenario-labs/skills]
+12. ConardLi / garden-skills [URL:https://github.com/ConardLi/garden-skills]
+13. microsoft / VibeVoice [URL:https://github.com/microsoft/VibeVoice]
+14. floci-io / floci [URL:https://github.com/floci-io/floci]
+15. JiaFeiMiao-K-Cat / DiscImageStudio [URL:https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio]
+
