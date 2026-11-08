@@ -1,0 +1,17 @@
+github
+1. vercel-labs / agent-browser [URL:https://github.com/vercel-labs/agent-browser]
+2. cloudflare / security-audit-skill [URL:https://github.com/cloudflare/security-audit-skill]
+3. google / skills [URL:https://github.com/google/skills]
+4. mattpocock / skills [URL:https://github.com/mattpocock/skills]
+5. anthropics / skills [URL:https://github.com/anthropics/skills]
+6. meta / astryx [URL:https://github.com/meta/astryx]
+7. prometheus / prometheus [URL:https://github.com/prometheus/prometheus]
+8. sherlock-project / sherlock [URL:https://github.com/sherlock-project/sherlock]
+9. milind-soni / OpenMausBot [URL:https://github.com/milind-soni/OpenMausBot]
+10. astral-sh / ruff [URL:https://github.com/astral-sh/ruff]
+11. tailwindlabs / tailwindcss [URL:https://github.com/tailwindlabs/tailwindcss]
+12. mbillow / localthings [URL:https://github.com/mbillow/localthings]
+13. zed-industries / zed [URL:https://github.com/zed-industries/zed]
+14. ranxianglei / billion-context [URL:https://github.com/ranxianglei/billion-context]
+15. dsx-ai-factory / nvke [URL:https://github.com/dsx-ai-factory/nvke]
+
