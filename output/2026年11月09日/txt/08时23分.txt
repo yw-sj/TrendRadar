@@ -1,0 +1,11 @@
+github
+1. sherlock-project / sherlock [URL:https://github.com/sherlock-project/sherlock]
+2. dsx-ai-factory / nvke [URL:https://github.com/dsx-ai-factory/nvke]
+3. milind-soni / OpenMausBot [URL:https://github.com/milind-soni/OpenMausBot]
+4. anthropics / claude-quickstarts [URL:https://github.com/anthropics/claude-quickstarts]
+5. vercel-labs / agent-browser [URL:https://github.com/vercel-labs/agent-browser]
+6. meta / astryx [URL:https://github.com/meta/astryx]
+7. anthropics / skills [URL:https://github.com/anthropics/skills]
+8. google-deepmind / mujoco [URL:https://github.com/google-deepmind/mujoco]
+9. ranxianglei / billion-context [URL:https://github.com/ranxianglei/billion-context]
+
