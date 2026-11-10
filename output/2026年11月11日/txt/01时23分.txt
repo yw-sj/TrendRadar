@@ -1,0 +1,14 @@
+github
+1. meta / astryx [URL:https://github.com/meta/astryx]
+2. anthropics / skills [URL:https://github.com/anthropics/skills]
+3. addyosmani / agent-skills [URL:https://github.com/addyosmani/agent-skills]
+4. anthropics / claude-quickstarts [URL:https://github.com/anthropics/claude-quickstarts]
+5. google-deepmind / mujoco [URL:https://github.com/google-deepmind/mujoco]
+6. we-promise / sure [URL:https://github.com/we-promise/sure]
+7. homeassistant-ai / ha-mcp [URL:https://github.com/homeassistant-ai/ha-mcp]
+8. vercel-labs / agent-browser [URL:https://github.com/vercel-labs/agent-browser]
+9. sherlock-project / sherlock [URL:https://github.com/sherlock-project/sherlock]
+10. tokio-rs / topcoat [URL:https://github.com/tokio-rs/topcoat]
+11. ranxianglei / billion-context [URL:https://github.com/ranxianglei/billion-context]
+12. mattpocock / skills [URL:https://github.com/mattpocock/skills]
+
