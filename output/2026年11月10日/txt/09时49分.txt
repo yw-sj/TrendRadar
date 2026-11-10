@@ -1,0 +1,13 @@
+github
+1. anthropics / skills [URL:https://github.com/anthropics/skills]
+2. meta / astryx [URL:https://github.com/meta/astryx]
+3. sherlock-project / sherlock [URL:https://github.com/sherlock-project/sherlock]
+4. google-deepmind / mujoco [URL:https://github.com/google-deepmind/mujoco]
+5. anthropics / claude-quickstarts [URL:https://github.com/anthropics/claude-quickstarts]
+6. garrytan / gbrain [URL:https://github.com/garrytan/gbrain]
+7. vercel-labs / agent-browser [URL:https://github.com/vercel-labs/agent-browser]
+8. ruvnet / RuView [URL:https://github.com/ruvnet/RuView]
+9. ZhuLinsen / daily_stock_analysis [URL:https://github.com/ZhuLinsen/daily_stock_analysis]
+10. homeassistant-ai / ha-mcp [URL:https://github.com/homeassistant-ai/ha-mcp]
+11. milind-soni / OpenMausBot [URL:https://github.com/milind-soni/OpenMausBot]
+
