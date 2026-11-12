@@ -1,0 +1,15 @@
+github
+1. GoogleChrome / modern-web-guidance-src [URL:https://github.com/GoogleChrome/modern-web-guidance-src]
+2. openai / codex-security [URL:https://github.com/openai/codex-security]
+3. nvm-sh / nvm [URL:https://github.com/nvm-sh/nvm]
+4. pookjw / HermesEnabler [URL:https://github.com/pookjw/HermesEnabler]
+5. we-promise / sure [URL:https://github.com/we-promise/sure]
+6. QwenLM / qwen-code [URL:https://github.com/QwenLM/qwen-code]
+7. ashhart / TensorFold [URL:https://github.com/ashhart/TensorFold]
+8. nodejs / node [URL:https://github.com/nodejs/node]
+9. addyosmani / agent-skills [URL:https://github.com/addyosmani/agent-skills]
+10. meta / astryx [URL:https://github.com/meta/astryx]
+11. CopilotKit / OpenBot [URL:https://github.com/CopilotKit/OpenBot]
+12. Alishahryar1 / free-claude-code [URL:https://github.com/Alishahryar1/free-claude-code]
+13. ggml-org / llama.cpp [URL:https://github.com/ggml-org/llama.cpp]
+
