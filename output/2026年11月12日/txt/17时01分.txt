@@ -1,0 +1,12 @@
+github
+1. meta / astryx [URL:https://github.com/meta/astryx]
+2. ZhuLinsen / daily_stock_analysis [URL:https://github.com/ZhuLinsen/daily_stock_analysis]
+3. GoogleChrome / modern-web-guidance-src [URL:https://github.com/GoogleChrome/modern-web-guidance-src]
+4. shadcn / improve [URL:https://github.com/shadcn/improve]
+5. addyosmani / agent-skills [URL:https://github.com/addyosmani/agent-skills]
+6. vercel-labs / agent-browser [URL:https://github.com/vercel-labs/agent-browser]
+7. we-promise / sure [URL:https://github.com/we-promise/sure]
+8. homeassistant-ai / ha-mcp [URL:https://github.com/homeassistant-ai/ha-mcp]
+9. openai / codex-security [URL:https://github.com/openai/codex-security]
+10. TheAlgorithms / Java [URL:https://github.com/TheAlgorithms/Java]
+
