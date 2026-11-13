@@ -1,0 +1,14 @@
+github
+1. alibaba / open-code-review [URL:https://github.com/alibaba/open-code-review]
+2. GoogleChrome / modern-web-guidance-src [URL:https://github.com/GoogleChrome/modern-web-guidance-src]
+3. openai / codex-security [URL:https://github.com/openai/codex-security]
+4. ZhuLinsen / daily_stock_analysis [URL:https://github.com/ZhuLinsen/daily_stock_analysis]
+5. we-promise / sure [URL:https://github.com/we-promise/sure]
+6. backnotprop / plannotator [URL:https://github.com/backnotprop/plannotator]
+7. louislam / uptime-kuma [URL:https://github.com/louislam/uptime-kuma]
+8. block / buzz [URL:https://github.com/block/buzz]
+9. tradermonty / claude-trading-skills [URL:https://github.com/tradermonty/claude-trading-skills]
+10. tailscale / tailcat [URL:https://github.com/tailscale/tailcat]
+11. Likely7 / Veyra-NRVideo [URL:https://github.com/Likely7/Veyra-NRVideo]
+12. ChromeDevTools / chrome-devtools-mcp [URL:https://github.com/ChromeDevTools/chrome-devtools-mcp]
+
