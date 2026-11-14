@@ -1,0 +1,17 @@
+github
+1. backnotprop / plannotator [URL:https://github.com/backnotprop/plannotator]
+2. GoogleChrome / modern-web-guidance-src [URL:https://github.com/GoogleChrome/modern-web-guidance-src]
+3. tradermonty / claude-trading-skills [URL:https://github.com/tradermonty/claude-trading-skills]
+4. ChromeDevTools / chrome-devtools-mcp [URL:https://github.com/ChromeDevTools/chrome-devtools-mcp]
+5. alibaba / open-code-review [URL:https://github.com/alibaba/open-code-review]
+6. QwenLM / qwen-code [URL:https://github.com/QwenLM/qwen-code]
+7. dream-num / univer [URL:https://github.com/dream-num/univer]
+8. ag-ui-protocol / ag-ui [URL:https://github.com/ag-ui-protocol/ag-ui]
+9. ashhart / TensorFold [URL:https://github.com/ashhart/TensorFold]
+10. JuliusBrussee / caveman [URL:https://github.com/JuliusBrussee/caveman]
+11. louislam / uptime-kuma [URL:https://github.com/louislam/uptime-kuma]
+12. we-promise / sure [URL:https://github.com/we-promise/sure]
+13. Tencent / LoopForge [URL:https://github.com/Tencent/LoopForge]
+14. Likely7 / Veyra-NRVideo [URL:https://github.com/Likely7/Veyra-NRVideo]
+15. martin-olivier / airgorah [URL:https://github.com/martin-olivier/airgorah]
+
