@@ -1,0 +1,14 @@
+github
+1. dream-num / univer [URL:https://github.com/dream-num/univer]
+2. ag-ui-protocol / ag-ui [URL:https://github.com/ag-ui-protocol/ag-ui]
+3. google-labs-code / stitch-skills [URL:https://github.com/google-labs-code/stitch-skills]
+4. backnotprop / plannotator [URL:https://github.com/backnotprop/plannotator]
+5. ChromeDevTools / chrome-devtools-mcp [URL:https://github.com/ChromeDevTools/chrome-devtools-mcp]
+6. alibaba / open-code-review [URL:https://github.com/alibaba/open-code-review]
+7. Tencent / LoopForge [URL:https://github.com/Tencent/LoopForge]
+8. ggml-org / ggml [URL:https://github.com/ggml-org/ggml]
+9. elementalsouls / Claude-BugHunter [URL:https://github.com/elementalsouls/Claude-BugHunter]
+10. GoogleChrome / modern-web-guidance-src [URL:https://github.com/GoogleChrome/modern-web-guidance-src]
+11. tradermonty / claude-trading-skills [URL:https://github.com/tradermonty/claude-trading-skills]
+12. NVIDIA / SkillEvaluator [URL:https://github.com/NVIDIA/SkillEvaluator]
+
