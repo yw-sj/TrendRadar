@@ -1,0 +1,17 @@
+github
+1. ag-ui-protocol / ag-ui [URL:https://github.com/ag-ui-protocol/ag-ui]
+2. backnotprop / plannotator [URL:https://github.com/backnotprop/plannotator]
+3. dream-num / univer [URL:https://github.com/dream-num/univer]
+4. tradermonty / claude-trading-skills [URL:https://github.com/tradermonty/claude-trading-skills]
+5. elementalsouls / Claude-BugHunter [URL:https://github.com/elementalsouls/Claude-BugHunter]
+6. getarcaneapp / arcane [URL:https://github.com/getarcaneapp/arcane]
+7. DeanChensj / jiangshan-map [URL:https://github.com/DeanChensj/jiangshan-map]
+8. google-labs-code / stitch-skills [URL:https://github.com/google-labs-code/stitch-skills]
+9. mvanhorn / last30days-skill [URL:https://github.com/mvanhorn/last30days-skill]
+10. NVIDIA / SkillEvaluator [URL:https://github.com/NVIDIA/SkillEvaluator]
+11. alibaba / open-code-review [URL:https://github.com/alibaba/open-code-review]
+12. google-research / paper-orchestra [URL:https://github.com/google-research/paper-orchestra]
+13. ChromeDevTools / chrome-devtools-mcp [URL:https://github.com/ChromeDevTools/chrome-devtools-mcp]
+14. sveltejs / svelte [URL:https://github.com/sveltejs/svelte]
+15. kajisho5 / ffmpeg-skill [URL:https://github.com/kajisho5/ffmpeg-skill]
+
