@@ -1,0 +1,17 @@
+github
+1. elementalsouls / Claude-BugHunter [URL:https://github.com/elementalsouls/Claude-BugHunter]
+2. mvanhorn / last30days-skill [URL:https://github.com/mvanhorn/last30days-skill]
+3. alibaba / open-code-review [URL:https://github.com/alibaba/open-code-review]
+4. Tencent / LoopForge [URL:https://github.com/Tencent/LoopForge]
+5. dream-num / univer [URL:https://github.com/dream-num/univer]
+6. getarcaneapp / arcane [URL:https://github.com/getarcaneapp/arcane]
+7. google-labs-code / stitch-skills [URL:https://github.com/google-labs-code/stitch-skills]
+8. cursor / plugins [URL:https://github.com/cursor/plugins]
+9. obra / superpowers [URL:https://github.com/obra/superpowers]
+10. ag-ui-protocol / ag-ui [URL:https://github.com/ag-ui-protocol/ag-ui]
+11. backnotprop / plannotator [URL:https://github.com/backnotprop/plannotator]
+12. sveltejs / svelte [URL:https://github.com/sveltejs/svelte]
+13. affaan-m / ECC [URL:https://github.com/affaan-m/ECC]
+14. jingyaogong / minimind [URL:https://github.com/jingyaogong/minimind]
+15. google-research / paper-orchestra [URL:https://github.com/google-research/paper-orchestra]
+
